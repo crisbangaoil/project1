@@ -1,2 +1,3 @@
 # Enter your API key
-api_key = "b236ee994a5d48069c1184151181011"
+api_key = "93aaea525631406193a12731181411"
+gkey = "AIzaSyDPnVYm6BlA9uH623iAccI-7VKj88X5LNY"

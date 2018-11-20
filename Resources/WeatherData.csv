@@ -1,1836 +1,256 @@
-City/State,Date,Temp,Humidity,Precipitation,Wind Speed,Weather Condition
-"Addison,IL",2018-11-05,47.2,78.0,0.17,8.9,Cloudy
-"Albany,IL",2018-11-05,46.3,84.0,0.3,11.0,Light rain
-"Alden,IL",2018-11-05,44.1,85.0,0.14,9.8,Overcast
-"Algonquin,IL",2018-11-05,44.5,83.0,0.15,11.4,Cloudy
-"Alsip,IL",2018-11-05,47.7,76.0,0.16,12.8,Cloudy
-"Amboy,IL",2018-11-05,63.2,58.0,0.01,7.4,Patchy rain possible
-"Ancona,IL",2018-11-05,49.0,84.0,0.1,11.6,Light drizzle
-"Antioch,IL",2018-11-05,44.1,82.0,0.17,9.8,Cloudy
-"Arlington Heights,IL",2018-11-05,47.2,77.0,0.24,8.9,Overcast
-"Aroma Park,IL",2018-11-05,48.6,83.0,0.04,13.2,Patchy rain possible
-"Ashton,IL",2018-11-05,45.0,87.0,0.2,11.9,Light drizzle
-"Aurora,IL",2018-11-05,45.9,84.0,0.07,8.9,Overcast
-"Baileyville,IL",2018-11-05,43.6,86.0,0.21,11.0,Light drizzle
-"Barrington,IL",2018-11-05,45.0,79.0,0.24,11.4,Overcast
-"Bartlett,IL",2018-11-05,45.9,79.0,0.16,10.1,Cloudy
-"Bedford Park,IL",2018-11-05,47.2,74.0,0.02,12.1,Overcast
-"Beecher,IL",2018-11-05,47.7,82.0,0.19,9.8,Overcast
-"Bellwood,IL",2018-11-05,47.2,78.0,0.17,8.9,Cloudy
-"Belvidere,IL",2018-11-05,45.0,83.0,0.15,11.0,Patchy rain possible
-"Bensenville,IL",2018-11-05,46.3,78.0,0.16,11.9,Overcast
-"Berkeley,IL",2018-11-05,47.2,78.0,0.17,8.9,Cloudy
-"Berwyn,IL",2018-11-05,47.2,75.0,0.04,11.4,Overcast
-"Big Rock,IL",2018-11-05,46.3,86.0,0.19,11.0,Patchy rain possible
-"Blackstone,IL",2018-11-05,49.0,84.0,0.1,11.6,Light drizzle
-"Bloomingdale,IL",2018-11-05,45.9,80.0,0.05,9.8,Cloudy
-"Blue Island,IL",2018-11-05,47.7,76.0,0.16,12.8,Cloudy
-"Bolingbrook,IL",2018-11-05,46.3,82.0,0.17,11.2,Overcast
-"Bonfield,IL",2018-11-05,48.6,85.0,0.14,12.8,Patchy rain possible
-"Bourbonnais,IL",2018-11-05,48.6,83.0,0.04,13.2,Patchy rain possible
-"Braceville,IL",2018-11-05,49.0,85.0,0.11,12.5,Overcast
-"Bradley,IL",2018-11-05,48.6,83.0,0.04,13.2,Patchy rain possible
-"Braidwood,IL",2018-11-05,49.0,84.0,0.18,12.5,Overcast
-"Bridgeview,IL",2018-11-05,47.2,74.0,0.02,12.1,Overcast
-"Bristol,IL",2018-11-05,53.2,88.0,0.0,9.8,Overcast
-"Broadview,IL",2018-11-05,47.2,75.0,0.04,11.4,Overcast
-"Brookfield,IL",2018-11-05,47.2,75.0,0.04,11.4,Overcast
-"Buckingham,IL",2018-11-05,48.6,85.0,0.14,12.8,Patchy rain possible
-"Buffalo Grove,IL",2018-11-05,47.7,77.0,0.24,11.0,Overcast
-"Burbank,IL",2018-11-05,47.7,76.0,0.16,12.8,Cloudy
-"Burlington,IL",2018-11-05,81.6,75.0,0.01,11.9,Patchy rain possible
-"Byron,IL",2018-11-05,45.0,83.0,0.18,11.2,Light drizzle
-"Cabery,IL",2018-11-05,48.6,85.0,0.14,12.8,Patchy rain possible
-"Caledonia,IL",2018-11-05,45.9,81.0,0.15,10.1,Light drizzle
-"Calumet City,IL",2018-11-05,47.7,79.0,0.02,10.7,Overcast
-"Campus,IL",2018-11-05,49.0,86.0,0.08,12.3,Patchy rain possible
-"Capron,IL",2018-11-05,44.1,85.0,0.14,9.8,Overcast
-"Carol Stream,IL",2018-11-05,45.9,80.0,0.05,9.8,Cloudy
-"Carpentersville,IL",2018-11-05,44.5,83.0,0.15,11.4,Cloudy
-"Cary,IL",2018-11-05,45.4,80.0,0.17,9.6,Cloudy
-"Cedarville,IL",2018-11-05,43.6,82.0,0.19,12.1,Light drizzle
-"Chana,IL",2018-11-05,85.6,16.0,0.0,6.3,Partly cloudy
-"Channahon,IL",2018-11-05,49.0,83.0,0.14,12.5,Overcast
-"Cherry Valley,IL",2018-11-05,45.4,81.0,0.13,11.0,Light drizzle
-"Chicago Heights,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Chicago Ridge,IL",2018-11-05,47.7,76.0,0.16,12.8,Cloudy
-"Chicago,IL",2018-11-05,47.7,78.0,0.18,13.2,Overcast
-"Cicero,IL",2018-11-05,46.8,78.0,0.02,14.3,Overcast
-"Clare,IL",2018-11-05,46.7,97.0,0.56,7.6,Moderate rain
-"Clarendon Hills,IL",2018-11-05,46.3,80.0,0.09,11.4,Cloudy
-"Coal City,IL",2018-11-05,49.0,84.0,0.18,12.5,Overcast
-"Compton,IL",2018-11-05,49.0,82.0,0.18,13.0,Light drizzle
-"Cornell,IL",2018-11-05,48.1,89.0,0.07,11.9,Light drizzle
-"Cortland,IL",2018-11-05,45.4,86.0,0.17,9.8,Light drizzle
-"Country Club Hills,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Crest Hill,IL",2018-11-05,49.0,83.0,0.15,8.9,Overcast
-"Creston,IL",2018-11-05,45.0,87.0,0.2,11.9,Light drizzle
-"Crete,IL",2018-11-05,47.7,82.0,0.19,9.8,Overcast
-"Crystal Lake,IL",2018-11-05,44.1,82.0,0.15,10.1,Overcast
-"Dakota,IL",2018-11-05,43.6,82.0,0.19,12.1,Light drizzle
-"Dana,IL",2018-11-05,68.3,38.0,0.0,7.2,Partly cloudy
-"Darien,IL",2018-11-05,46.3,80.0,0.09,11.4,Cloudy
-"Davis Junction,IL",2018-11-05,45.4,78.0,0.21,11.9,Light drizzle
-"Davis,IL",2018-11-05,45.0,79.0,0.16,11.9,Patchy rain possible
-"Deer Grove,IL",2018-11-05,45.4,87.0,0.28,9.8,Light rain
-"Deerfield,IL",2018-11-05,46.8,76.0,0.09,13.2,Overcast
-"Dekalb,IL",2018-11-05,45.4,86.0,0.17,9.8,Light drizzle
-"Des Plaines,IL",2018-11-05,46.8,77.0,0.21,9.6,Overcast
-"Dixon,IL",2018-11-05,45.4,85.0,0.33,11.0,Light rain
-"Dolton,IL",2018-11-05,47.7,79.0,0.02,10.7,Overcast
-"Downers Grove,IL",2018-11-05,46.3,80.0,0.09,11.4,Cloudy
-"Dundee,IL",2018-11-05,48.4,93.0,0.01,7.2,Patchy rain possible
-"Durand,IL",2018-11-05,78.7,79.0,0.09,11.0,Patchy rain possible
-"Dwight,IL",2018-11-05,49.0,86.0,0.08,12.3,Patchy rain possible
-"Earlville,IL",2018-11-05,49.0,84.0,0.14,11.0,Light drizzle
-"Elburn,IL",2018-11-05,46.3,86.0,0.19,11.0,Patchy rain possible
-"Eldena,IL",2018-11-05,47.2,85.0,0.26,11.9,Light rain
-"Eleroy,IL",2018-11-05,44.5,83.0,0.2,8.9,Light drizzle
-"Elgin,IL",2018-11-05,46.3,81.0,0.15,9.4,Cloudy
-"Elk Grove Village,IL",2018-11-05,46.3,78.0,0.16,11.9,Overcast
-"Elmhurst,IL",2018-11-05,47.2,78.0,0.17,8.9,Cloudy
-"Elmwood Park,IL",2018-11-05,46.8,77.0,0.2,11.4,Overcast
-"Elwood,IL",2018-11-05,49.0,83.0,0.14,12.5,Overcast
-"Emington,IL",2018-11-05,49.0,86.0,0.08,12.3,Patchy rain possible
-"Eola,IL",2018-11-05,46.3,82.0,0.16,11.6,Overcast
-"Erie,IL",2018-11-05,47.2,83.0,0.36,11.0,Light rain
-"Esmond,IL",2018-11-05,45.0,87.0,0.2,11.9,Light drizzle
-"Essex,IL",2018-11-05,49.0,85.0,0.11,12.5,Overcast
-"Evanston,IL",2018-11-05,47.2,76.0,0.08,13.0,Overcast
-"Evergreen Park,IL",2018-11-05,47.7,76.0,0.16,12.8,Cloudy
-"Fenton,IL",2018-11-05,47.2,83.0,0.36,11.0,Light rain
-"Flanagan,IL",2018-11-05,48.1,89.0,0.07,11.9,Light drizzle
-"Flossmoor,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Forest Park,IL",2018-11-05,46.8,77.0,0.2,11.4,Overcast
-"Forrest,IL",2018-11-05,49.5,87.0,0.07,12.1,Light drizzle
-"Forreston,IL",2018-11-05,43.6,86.0,0.21,11.0,Light drizzle
-"Fort Sheridan,IL",2018-11-05,46.8,76.0,0.09,13.2,Overcast
-"Fox Lake,IL",2018-11-05,45.4,82.0,0.23,8.3,Cloudy
-"Fox River Grove,IL",2018-11-05,45.4,80.0,0.17,9.6,Cloudy
-"Fox Valley,IL",2018-11-05,45.9,84.0,0.07,8.9,Overcast
-"Frankfort,IL",2018-11-05,47.2,82.0,0.06,11.0,Overcast
-"Franklin Grove,IL",2018-11-05,47.2,85.0,0.26,11.9,Light rain
-"Franklin Park,IL",2018-11-05,46.3,78.0,0.16,11.9,Overcast
-"Freeport,IL",2018-11-05,43.6,82.0,0.19,12.1,Light drizzle
-"Fulton,IL",2018-11-05,46.3,84.0,0.3,11.0,Light rain
-"Galt,IL",2018-11-05,47.7,84.0,0.3,11.0,Light rain
-"Garden Prairie,IL",2018-11-05,45.0,83.0,0.15,11.0,Patchy rain possible
-"Gardner,IL",2018-11-05,49.0,85.0,0.11,12.5,Overcast
-"Genoa,IL",2018-11-05,45.9,84.0,0.14,10.7,Light drizzle
-"German Valley,IL",2018-11-05,43.6,86.0,0.21,11.0,Light drizzle
-"Gilberts,IL",2018-11-05,44.5,83.0,0.15,11.4,Cloudy
-"Glen Ellyn,IL",2018-11-05,46.3,81.0,0.22,9.6,Cloudy
-"Glencoe,IL",2018-11-05,47.7,77.0,0.22,10.3,Overcast
-"Glendale Heights,IL",2018-11-05,45.9,80.0,0.05,9.8,Cloudy
-"Glenview,IL",2018-11-05,47.7,77.0,0.22,10.3,Overcast
-"Glenwood,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Golf,IL",2018-11-05,47.7,77.0,0.22,10.3,Overcast
-"Grand Ridge,IL",2018-11-05,49.0,84.0,0.1,11.6,Light drizzle
-"Grant Park,IL",2018-11-05,48.6,83.0,0.16,13.4,Patchy rain possible
-"Grayslake,IL",2018-11-05,45.0,80.0,0.2,11.0,Overcast
-"Great Lakes,IL",2018-11-05,46.3,79.0,0.19,11.0,Overcast
-"Gurnee,IL",2018-11-05,46.3,80.0,0.2,11.0,Overcast
-"Hampshire,IL",2018-11-05,45.0,84.0,0.11,10.3,Patchy rain possible
-"Hanover Park,IL",2018-11-05,45.9,79.0,0.16,10.1,Cloudy
-"Harmon,IL",2018-11-05,47.7,84.0,0.3,11.0,Light rain
-"Harvard,IL",2018-11-05,44.1,85.0,0.14,9.8,Overcast
-"Harvey,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Harwood Heights,IL",2018-11-05,46.8,77.0,0.02,9.4,Overcast
-"Hazel Crest,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Hebron,IL",2018-11-05,44.1,83.0,0.16,9.8,Cloudy
-"Herscher,IL",2018-11-05,48.6,85.0,0.14,12.8,Patchy rain possible
-"Hickory Hills,IL",2018-11-05,46.8,77.0,0.22,11.2,Cloudy
-"Highland Park,IL",2018-11-05,46.8,76.0,0.09,13.2,Overcast
-"Highwood,IL",2018-11-05,46.8,76.0,0.09,13.2,Overcast
-"Hillside,IL",2018-11-05,47.2,78.0,0.17,8.9,Cloudy
-"Hinckley,IL",2018-11-05,46.3,85.0,0.2,9.8,Light drizzle
-"Hines,IL",2018-11-05,47.2,75.0,0.04,11.4,Overcast
-"Hinsdale,IL",2018-11-05,46.3,80.0,0.09,11.4,Cloudy
-"Hoffman Estates,IL",2018-11-05,45.9,78.0,0.17,9.8,Cloudy
-"Holcomb,IL",2018-11-05,45.0,87.0,0.2,11.9,Light drizzle
-"Homer Glen,IL",2018-11-05,46.8,85.0,0.11,11.9,Overcast
-"Hometown,IL",2018-11-05,47.7,76.0,0.16,12.8,Cloudy
-"Homewood,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Hooppole,IL",2018-11-05,47.7,83.0,0.37,11.0,Light rain
-"Hopkins Park,IL",2018-11-05,48.6,83.0,0.16,13.4,Patchy rain possible
-"Huntley,IL",2018-11-05,44.5,83.0,0.15,11.4,Cloudy
-"Ingleside,IL",2018-11-05,45.0,80.0,0.2,11.0,Overcast
-"Island Lake,IL",2018-11-05,45.4,80.0,0.17,9.6,Cloudy
-"Itasca,IL",2018-11-05,45.9,78.0,0.17,9.8,Cloudy
-"Joliet,IL",2018-11-05,49.0,83.0,0.15,8.9,Overcast
-"Justice,IL",2018-11-05,46.8,77.0,0.22,11.2,Cloudy
-"Kaneville,IL",2018-11-05,46.3,86.0,0.19,11.0,Patchy rain possible
-"Kankakee,IL",2018-11-05,48.6,83.0,0.04,13.2,Patchy rain possible
-"Kempton,IL",2018-11-05,48.6,85.0,0.14,12.8,Patchy rain possible
-"Kenilworth,IL",2018-11-05,47.2,76.0,0.08,13.0,Overcast
-"Kent,IL",2018-11-05,44.5,83.0,0.2,8.9,Light drizzle
-"Kingston,IL",2018-11-05,45.9,84.0,0.14,10.7,Light drizzle
-"Kinsman,IL",2018-11-05,48.6,85.0,0.15,12.1,Patchy rain possible
-"Kirkland,IL",2018-11-05,45.9,84.0,0.14,10.7,Light drizzle
-"La Grange Park,IL",2018-11-05,47.2,75.0,0.04,11.4,Overcast
-"La Grange,IL",2018-11-05,46.8,77.0,0.22,11.2,Cloudy
-"Lafox,IL",2018-11-05,62.4,72.0,0.08,16.3,Overcast
-"Lake Bluff,IL",2018-11-05,46.8,76.0,0.09,13.2,Overcast
-"Lake Forest,IL",2018-11-05,46.8,76.0,0.09,13.2,Overcast
-"Lake In The Hills,IL",2018-11-05,44.5,83.0,0.15,11.4,Cloudy
-"Lake Villa,IL",2018-11-05,45.0,80.0,0.2,11.0,Overcast
-"Lake Zurich,IL",2018-11-05,45.0,79.0,0.24,11.4,Overcast
-"Lanark,IL",2018-11-05,44.1,82.0,0.24,9.8,Light drizzle
-"Lansing,IL",2018-11-05,48.6,79.0,0.12,9.8,Overcast
-"Leaf River,IL",2018-11-05,44.1,84.0,0.29,11.0,Light rain
-"Lee Center,IL",2018-11-05,47.2,85.0,0.26,11.9,Light rain
-"Lee,IL",2018-11-05,45.0,87.0,0.2,11.9,Light drizzle
-"Leland,IL",2018-11-05,49.0,84.0,0.14,11.0,Light drizzle
-"Lemont,IL",2018-11-05,46.3,82.0,0.17,11.2,Overcast
-"Lena,IL",2018-11-05,44.5,83.0,0.2,8.9,Light drizzle
-"Leonore,IL",2018-11-05,49.0,84.0,0.1,11.6,Light drizzle
-"Libertyville,IL",2018-11-05,46.3,79.0,0.19,11.0,Overcast
-"Lincolnshire,IL",2018-11-05,47.7,77.0,0.24,11.0,Overcast
-"Lincolnwood,IL",2018-11-05,47.7,76.0,0.14,10.5,Overcast
-"Lindenwood,IL",2018-11-05,45.0,87.0,0.2,11.9,Light drizzle
-"Lisle,IL",2018-11-05,46.3,81.0,0.17,9.4,Cloudy
-"Lockport,IL",2018-11-05,46.8,85.0,0.11,11.9,Overcast
-"Lombard,IL",2018-11-05,46.8,79.0,0.17,8.9,Cloudy
-"Long Point,IL",2018-11-05,49.0,84.0,0.1,11.6,Light drizzle
-"Lostant,IL",2018-11-05,49.0,84.0,0.1,11.6,Light drizzle
-"Loves Park,IL",2018-11-05,45.9,81.0,0.15,10.1,Light drizzle
-"Lyndon,IL",2018-11-05,47.7,83.0,0.37,11.0,Light rain
-"Lyons,IL",2018-11-05,47.2,75.0,0.04,11.4,Overcast
-"Machesney Park,IL",2018-11-05,45.9,81.0,0.15,10.1,Light drizzle
-"Malta,IL",2018-11-05,70.7,56.0,0.0,8.7,Partly cloudy
-"Manhattan,IL",2018-11-05,47.7,84.0,0.22,10.7,Overcast
-"Manteno,IL",2018-11-05,48.6,83.0,0.04,11.0,Overcast
-"Maple Park,IL",2018-11-05,45.4,86.0,0.17,9.8,Light drizzle
-"Marengo,IL",2018-11-05,45.0,85.0,0.17,11.0,Cloudy
-"Markham,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Matteson,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Maywood,IL",2018-11-05,46.8,77.0,0.2,11.4,Overcast
-"Mazon,IL",2018-11-05,49.0,85.0,0.11,12.5,Overcast
-"Mc Connell,IL",2018-11-05,44.5,83.0,0.2,8.9,Light drizzle
-"Mchenry,IL",2018-11-05,45.4,82.0,0.23,8.3,Cloudy
-"Medinah,IL",2018-11-05,45.9,78.0,0.17,9.8,Cloudy
-"Melrose Park,IL",2018-11-05,46.8,77.0,0.2,11.4,Overcast
-"Mendota,IL",2018-11-05,49.0,82.0,0.18,13.0,Light drizzle
-"Midlothian,IL",2018-11-05,47.2,82.0,0.06,11.0,Overcast
-"Milledgeville,IL",2018-11-05,45.4,84.0,0.33,11.9,Light rain
-"Minonk,IL",2018-11-05,47.7,85.0,0.09,11.2,Light drizzle
-"Minooka,IL",2018-11-05,49.0,83.0,0.14,12.5,Overcast
-"Mokena,IL",2018-11-05,47.7,84.0,0.22,10.7,Overcast
-"Momence,IL",2018-11-05,48.6,83.0,0.16,13.4,Patchy rain possible
-"Monee,IL",2018-11-05,48.6,83.0,0.04,11.0,Overcast
-"Monroe Center,IL",2018-11-05,45.4,81.0,0.13,11.0,Light drizzle
-"Montgomery,IL",2018-11-05,47.7,84.0,0.13,10.1,Overcast
-"Mooseheart,IL",2018-11-05,45.9,84.0,0.07,8.9,Overcast
-"Morris,IL",2018-11-05,49.0,83.0,0.15,12.5,Overcast
-"Morrison,IL",2018-11-05,74.9,68.0,0.75,11.2,Moderate or heavy rain shower
-"Morton Grove,IL",2018-11-05,47.7,77.0,0.22,10.3,Overcast
-"Mount Morris,IL",2018-11-05,44.1,84.0,0.29,11.0,Light rain
-"Mount Prospect,IL",2018-11-05,47.2,77.0,0.21,8.9,Overcast
-"Mundelein,IL",2018-11-05,45.9,79.0,0.2,9.8,Overcast
-"Nachusa,IL",2018-11-05,45.4,85.0,0.33,11.0,Light rain
-"Naperville,IL",2018-11-05,46.3,82.0,0.16,11.6,Overcast
-"New Lenox,IL",2018-11-05,47.7,84.0,0.22,10.7,Overcast
-"Niles,IL",2018-11-05,46.8,77.0,0.02,9.4,Overcast
-"Nora,IL",2018-11-05,64.8,62.0,0.01,6.0,Patchy rain possible
-"North Aurora,IL",2018-11-05,45.9,84.0,0.07,8.9,Overcast
-"North Chicago,IL",2018-11-05,46.3,79.0,0.19,11.0,Overcast
-"Northbrook,IL",2018-11-05,47.7,77.0,0.22,10.3,Overcast
-"Oak Brook,IL",2018-11-05,46.3,80.0,0.09,11.4,Cloudy
-"Oak Forest,IL",2018-11-05,47.2,82.0,0.06,11.0,Overcast
-"Oak Lawn,IL",2018-11-05,47.7,76.0,0.16,12.8,Cloudy
-"Oak Park,IL",2018-11-05,46.8,77.0,0.2,11.4,Overcast
-"Odell,IL",2018-11-05,49.0,86.0,0.08,12.3,Patchy rain possible
-"Ohio,IL",2018-11-05,45.4,87.0,0.28,9.8,Light rain
-"Olympia Fields,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Orangeville,IL",2018-11-05,43.6,79.0,0.24,10.3,Light drizzle
-"Oregon,IL",2018-11-05,45.4,84.0,0.19,11.2,Light rain
-"Orland Park,IL",2018-11-05,46.8,79.0,0.17,11.0,Overcast
-"Oswego,IL",2018-11-05,47.7,84.0,0.13,10.1,Overcast
-"Palatine,IL",2018-11-05,46.3,78.0,0.17,8.9,Overcast
-"Palos Heights,IL",2018-11-05,47.7,76.0,0.16,12.8,Cloudy
-"Palos Hills,IL",2018-11-05,47.7,76.0,0.16,12.8,Cloudy
-"Palos Park,IL",2018-11-05,46.8,79.0,0.17,11.0,Overcast
-"Park Forest,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Park Ridge,IL",2018-11-05,46.8,77.0,0.02,9.4,Overcast
-"Paw Paw,IL",2018-11-05,49.0,84.0,0.14,11.0,Light drizzle
-"Pearl City,IL",2018-11-05,44.5,83.0,0.2,8.9,Light drizzle
-"Pecatonica,IL",2018-11-05,45.0,83.0,0.18,11.2,Light drizzle
-"Pembroke Township,IL",2018-11-05,55.0,73.0,0.0,10.1,Partly cloudy
-"Peotone,IL",2018-11-05,48.6,83.0,0.04,11.0,Overcast
-"Plainfield,IL",2018-11-05,49.0,83.0,0.15,8.9,Overcast
-"Plano,IL",2018-11-05,47.7,84.0,0.18,10.7,Patchy rain possible
-"Polo,IL",2018-11-05,45.4,84.0,0.33,11.9,Light rain
-"Pontiac,IL",2018-11-05,48.1,89.0,0.07,11.9,Light drizzle
-"Poplar Grove,IL",2018-11-05,45.0,83.0,0.15,11.0,Patchy rain possible
-"Posen,IL",2018-11-05,55.1,74.0,0.0,11.6,Partly cloudy
-"Prophetstown,IL",2018-11-05,47.7,83.0,0.37,11.0,Light rain
-"Prospect Heights,IL",2018-11-05,47.2,77.0,0.21,8.9,Overcast
-"Ransom,IL",2018-11-05,48.6,85.0,0.15,12.1,Patchy rain possible
-"Reddick,IL",2018-11-05,49.0,85.0,0.11,12.5,Overcast
-"Richmond,IL",2018-11-05,55.3,81.0,0.0,20.6,Overcast
-"Richton Park,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Ridott,IL",2018-11-05,43.6,82.0,0.19,12.1,Light drizzle
-"Ringwood,IL",2018-11-05,45.4,82.0,0.23,8.3,Cloudy
-"River Forest,IL",2018-11-05,46.8,77.0,0.2,11.4,Overcast
-"River Grove,IL",2018-11-05,46.3,78.0,0.16,11.9,Overcast
-"Riverdale,IL",2018-11-05,47.7,79.0,0.02,10.7,Overcast
-"Riverside,IL",2018-11-05,47.2,75.0,0.04,11.4,Overcast
-"Robbins,IL",2018-11-05,47.7,76.0,0.16,12.8,Cloudy
-"Rochelle,IL",2018-11-05,45.0,87.0,0.2,11.9,Light drizzle
-"Rock City,IL",2018-11-05,43.6,82.0,0.19,12.1,Light drizzle
-"Rock Falls,IL",2018-11-05,47.7,84.0,0.3,11.0,Light rain
-"Rockford,IL",2018-11-05,45.4,78.0,0.21,11.9,Light drizzle
-"Rockton,IL",2018-11-05,46.8,81.0,0.15,11.6,Patchy rain possible
-"Rolling Meadows,IL",2018-11-05,47.2,77.0,0.24,8.9,Overcast
-"Romeoville,IL",2018-11-05,46.3,82.0,0.17,11.2,Overcast
-"Roscoe,IL",2018-11-05,45.9,81.0,0.15,10.1,Light drizzle
-"Roselle,IL",2018-11-05,45.9,78.0,0.17,9.8,Cloudy
-"Round Lake,IL",2018-11-05,45.0,80.0,0.2,11.0,Overcast
-"Russell,IL",2018-11-05,46.3,80.0,0.2,11.0,Overcast
-"Rutland,IL",2018-11-05,47.7,85.0,0.09,11.2,Light drizzle
-"Saint Anne,IL",2018-11-05,57.3,81.0,0.0,18.6,Overcast
-"Saint Charles,IL",2018-11-05,45.9,82.0,0.07,9.8,Cloudy
-"Sandwich,IL",2018-11-05,47.7,84.0,0.18,10.7,Patchy rain possible
-"Saunemin,IL",2018-11-05,49.0,86.0,0.08,12.3,Patchy rain possible
-"Scales Mound,IL",2018-11-05,45.0,84.0,0.27,9.6,Light drizzle
-"Schaumburg,IL",2018-11-05,45.9,78.0,0.17,9.8,Cloudy
-"Schiller Park,IL",2018-11-05,46.3,78.0,0.16,11.9,Overcast
-"Seneca,IL",2018-11-05,48.6,85.0,0.15,12.1,Patchy rain possible
-"Seward,IL",2018-11-05,45.0,83.0,0.18,11.2,Light drizzle
-"Shabbona,IL",2018-11-05,46.8,85.0,0.2,12.1,Light drizzle
-"Shannon,IL",2018-11-05,44.1,82.0,0.24,9.8,Light drizzle
-"Shirland,IL",2018-11-05,46.8,81.0,0.15,11.6,Patchy rain possible
-"Shorewood,IL",2018-11-05,49.0,83.0,0.15,8.9,Overcast
-"Skokie,IL",2018-11-05,47.7,76.0,0.14,10.5,Overcast
-"Somonauk,IL",2018-11-05,46.8,85.0,0.2,12.1,Light drizzle
-"South Elgin,IL",2018-11-05,46.3,81.0,0.15,9.4,Cloudy
-"South Holland,IL",2018-11-05,47.7,79.0,0.02,10.7,Overcast
-"South Wilmington,IL",2018-11-05,49.0,85.0,0.11,12.5,Overcast
-"Spring Grove,IL",2018-11-05,61.7,61.0,0.0,10.7,Partly cloudy
-"Springfield,IL",2018-11-05,51.3,86.0,0.28,11.4,Moderate rain
-"Steger,IL",2018-11-05,47.7,82.0,0.19,9.8,Overcast
-"Sterling,IL",2018-11-05,47.7,84.0,0.3,11.0,Light rain
-"Steward,IL",2018-11-05,45.0,87.0,0.2,11.9,Light drizzle
-"Stillman Valley,IL",2018-11-05,45.0,83.0,0.18,11.2,Light drizzle
-"Stockton,IL",2018-11-05,44.1,85.0,0.27,10.1,Light drizzle
-"Stone Park,IL",2018-11-05,47.2,78.0,0.17,8.9,Cloudy
-"Streamwood,IL",2018-11-05,45.9,79.0,0.16,10.1,Cloudy
-"Streator,IL",2018-11-05,49.0,84.0,0.1,11.6,Light drizzle
-"Sublette,IL",2018-11-05,47.2,85.0,0.26,11.9,Light rain
-"Sugar Grove,IL",2018-11-05,46.3,86.0,0.19,11.0,Patchy rain possible
-"Summit Argo,IL",2018-11-05,47.2,74.0,0.02,12.1,Overcast
-"Sycamore,IL",2018-11-05,45.4,86.0,0.17,9.8,Light drizzle
-"Tampico,IL",2018-11-05,78.6,74.0,0.0,11.4,Partly cloudy
-"Techny,IL",2018-11-05,47.7,77.0,0.22,10.3,Overcast
-"Thornton,IL",2018-11-05,47.7,80.0,0.17,11.2,Overcast
-"Tinley Park,IL",2018-11-05,47.2,82.0,0.06,11.0,Overcast
-"Toluca,IL",2018-11-05,47.7,85.0,0.09,11.2,Light drizzle
-"Tonica,IL",2018-11-05,49.9,81.0,0.2,11.0,Light drizzle
-"Union Hill,IL",2018-11-05,48.6,85.0,0.14,12.8,Patchy rain possible
-"Union,IL",2018-11-05,45.0,85.0,0.17,11.0,Cloudy
-"University Park,IL",2018-11-05,47.7,82.0,0.19,9.8,Overcast
-"Van Orin,IL",2018-11-05,45.4,87.0,0.28,9.8,Light rain
-"Vernon Hills,IL",2018-11-05,45.9,79.0,0.2,9.8,Overcast
-"Verona,IL",2018-11-05,49.0,85.0,0.11,12.5,Overcast
-"Villa Park,IL",2018-11-05,46.8,79.0,0.17,8.9,Cloudy
-"Wadsworth,IL",2018-11-05,46.3,80.0,0.2,11.0,Overcast
-"Walnut,IL",2018-11-05,45.4,87.0,0.28,9.8,Light rain
-"Warren,IL",2018-11-05,45.9,84.0,0.19,10.7,Light drizzle
-"Warrenville,IL",2018-11-05,46.3,82.0,0.16,11.6,Overcast
-"Wasco,IL",2018-11-05,45.9,82.0,0.07,9.8,Cloudy
-"Waterman,IL",2018-11-05,46.3,85.0,0.2,9.8,Light drizzle
-"Wauconda,IL",2018-11-05,45.0,79.0,0.24,11.4,Overcast
-"Waukegan,IL",2018-11-05,46.3,80.0,0.2,11.0,Overcast
-"Wayne,IL",2018-11-05,45.9,82.0,0.07,9.8,Cloudy
-"Wenona,IL",2018-11-05,47.7,85.0,0.09,11.2,Light drizzle
-"West Brooklyn,IL",2018-11-05,47.2,85.0,0.26,11.9,Light rain
-"West Chicago,IL",2018-11-05,45.9,82.0,0.07,9.8,Cloudy
-"Westchester,IL",2018-11-05,47.2,78.0,0.17,8.9,Cloudy
-"Western Springs,IL",2018-11-05,46.8,77.0,0.22,11.2,Cloudy
-"Westmont,IL",2018-11-05,46.3,80.0,0.09,11.4,Cloudy
-"Wheaton,IL",2018-11-05,46.3,81.0,0.22,9.6,Cloudy
-"Wheeling,IL",2018-11-05,47.7,77.0,0.24,11.0,Overcast
-"Willow Springs,IL",2018-11-05,46.8,77.0,0.22,11.2,Cloudy
-"Willowbrook,IL",2018-11-05,46.8,77.0,0.22,11.2,Cloudy
-"Wilmette,IL",2018-11-05,47.2,76.0,0.08,13.0,Overcast
-"Wilmington,IL",2018-11-05,49.0,84.0,0.18,12.5,Overcast
-"Winfield,IL",2018-11-05,46.3,81.0,0.22,9.6,Cloudy
-"Winnebago,IL",2018-11-05,45.4,78.0,0.21,11.9,Light drizzle
-"Winslow,IL",2018-11-05,44.5,83.0,0.2,8.9,Light drizzle
-"Winthrop Harbor,IL",2018-11-05,46.3,80.0,0.2,11.0,Overcast
-"Wonder Lake,IL",2018-11-05,45.4,82.0,0.23,8.3,Cloudy
-"Wood Dale,IL",2018-11-05,46.3,78.0,0.16,11.9,Overcast
-"Woodridge,IL",2018-11-05,46.3,82.0,0.17,11.2,Overcast
-"Woodstock,IL",2018-11-05,45.0,83.0,0.14,7.8,Overcast
-"Woosung,IL",2018-11-05,45.4,85.0,0.33,11.0,Light rain
-"Worth,IL",2018-11-05,47.7,76.0,0.16,12.8,Cloudy
-"Yorkville,IL",2018-11-05,47.7,84.0,0.18,10.7,Patchy rain possible
-"Zion,IL",2018-11-05,46.3,80.0,0.2,11.0,Overcast
-"Addison,IL",2018-11-06,45.4,83.0,0.15,15.4,Light drizzle
-"Albany,IL",2018-11-06,45.0,86.0,0.13,19.2,Light drizzle
-"Alden,IL",2018-11-06,42.7,90.0,0.31,15.9,Light drizzle
-"Algonquin,IL",2018-11-06,44.1,89.0,0.03,16.8,Light drizzle
-"Alsip,IL",2018-11-06,45.9,82.0,0.05,17.9,Light drizzle
-"Amboy,IL",2018-11-06,63.3,62.0,0.0,8.1,Patchy rain possible
-"Ancona,IL",2018-11-06,46.8,87.0,0.03,21.0,Patchy rain possible
-"Antioch,IL",2018-11-06,43.2,88.0,0.17,15.9,Patchy rain possible
-"Arlington Heights,IL",2018-11-06,45.4,83.0,0.23,15.7,Light drizzle
-"Aroma Park,IL",2018-11-06,45.9,83.0,0.01,19.5,Patchy rain possible
-"Ashton,IL",2018-11-06,45.0,85.0,0.18,17.4,Light drizzle
-"Aurora,IL",2018-11-06,45.4,89.0,0.06,15.9,Light drizzle
-"Baileyville,IL",2018-11-06,43.6,89.0,0.27,15.9,Light drizzle
-"Barrington,IL",2018-11-06,44.5,83.0,0.24,15.9,Light drizzle
-"Bartlett,IL",2018-11-06,45.0,86.0,0.07,17.9,Light drizzle
-"Bedford Park,IL",2018-11-06,45.9,78.0,0.04,18.8,Light drizzle
-"Beecher,IL",2018-11-06,45.4,85.0,0.24,17.4,Light drizzle
-"Bellwood,IL",2018-11-06,45.4,83.0,0.15,15.4,Light drizzle
-"Belvidere,IL",2018-11-06,45.0,88.0,0.17,17.9,Light drizzle
-"Bensenville,IL",2018-11-06,45.4,82.0,0.06,16.1,Light drizzle
-"Berkeley,IL",2018-11-06,45.4,83.0,0.15,15.4,Light drizzle
-"Berwyn,IL",2018-11-06,46.3,81.0,0.05,17.9,Light drizzle
-"Big Rock,IL",2018-11-06,45.4,90.0,0.19,16.8,Light drizzle
-"Blackstone,IL",2018-11-06,46.8,87.0,0.03,21.0,Patchy rain possible
-"Bloomingdale,IL",2018-11-06,45.9,87.0,0.04,16.8,Light drizzle
-"Blue Island,IL",2018-11-06,45.9,82.0,0.05,17.9,Light drizzle
-"Bolingbrook,IL",2018-11-06,45.9,88.0,0.07,15.4,Light drizzle
-"Bonfield,IL",2018-11-06,46.3,85.0,0.01,19.5,Patchy rain possible
-"Bourbonnais,IL",2018-11-06,45.9,83.0,0.01,19.5,Patchy rain possible
-"Braceville,IL",2018-11-06,46.8,86.0,0.01,20.1,Patchy rain possible
-"Bradley,IL",2018-11-06,45.9,83.0,0.01,19.5,Patchy rain possible
-"Braidwood,IL",2018-11-06,46.3,86.0,0.13,17.0,Light drizzle
-"Bridgeview,IL",2018-11-06,45.9,78.0,0.04,18.8,Light drizzle
-"Bristol,IL",2018-11-06,55.2,88.0,0.04,18.8,Overcast
-"Broadview,IL",2018-11-06,46.3,81.0,0.05,17.9,Light drizzle
-"Brookfield,IL",2018-11-06,46.3,81.0,0.05,17.9,Light drizzle
-"Buckingham,IL",2018-11-06,46.3,85.0,0.01,19.5,Patchy rain possible
-"Buffalo Grove,IL",2018-11-06,46.3,80.0,0.19,17.2,Light drizzle
-"Burbank,IL",2018-11-06,45.9,82.0,0.05,17.9,Light drizzle
-"Burlington,IL",2018-11-06,81.9,76.0,0.0,11.9,Partly cloudy
-"Byron,IL",2018-11-06,44.5,87.0,0.07,17.4,Light drizzle
-"Cabery,IL",2018-11-06,46.3,85.0,0.01,19.5,Patchy rain possible
-"Caledonia,IL",2018-11-06,45.9,86.0,0.05,17.2,Light drizzle
-"Calumet City,IL",2018-11-06,47.2,82.0,0.07,18.3,Light drizzle
-"Campus,IL",2018-11-06,46.8,87.0,0.01,18.8,Patchy rain possible
-"Capron,IL",2018-11-06,42.7,90.0,0.31,15.9,Light drizzle
-"Carol Stream,IL",2018-11-06,45.9,87.0,0.04,16.8,Light drizzle
-"Carpentersville,IL",2018-11-06,44.1,89.0,0.03,16.8,Light drizzle
-"Cary,IL",2018-11-06,44.5,87.0,0.11,16.3,Light rain shower
-"Cedarville,IL",2018-11-06,43.6,88.0,0.22,15.9,Light drizzle
-"Chana,IL",2018-11-06,86.5,14.0,0.0,5.6,Sunny
-"Channahon,IL",2018-11-06,46.8,88.0,0.07,16.6,Light drizzle
-"Cherry Valley,IL",2018-11-06,45.4,86.0,0.03,17.4,Light drizzle
-"Chicago Heights,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Chicago Ridge,IL",2018-11-06,45.9,82.0,0.05,17.9,Light drizzle
-"Chicago,IL",2018-11-06,46.8,80.0,0.26,17.9,Light drizzle
-"Cicero,IL",2018-11-06,46.8,79.0,0.04,16.8,Light drizzle
-"Clare,IL",2018-11-06,51.0,92.0,0.09,19.2,Light rain
-"Clarendon Hills,IL",2018-11-06,45.4,85.0,0.05,15.0,Light drizzle
-"Coal City,IL",2018-11-06,46.3,86.0,0.13,17.0,Light drizzle
-"Compton,IL",2018-11-06,46.8,87.0,0.02,18.8,Light drizzle
-"Cornell,IL",2018-11-06,46.3,88.0,0.0,19.7,Overcast
-"Cortland,IL",2018-11-06,43.6,90.0,0.21,16.8,Light drizzle
-"Country Club Hills,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Crest Hill,IL",2018-11-06,47.2,88.0,0.08,16.1,Light drizzle
-"Creston,IL",2018-11-06,45.0,85.0,0.18,17.4,Light drizzle
-"Crete,IL",2018-11-06,45.4,85.0,0.24,17.4,Light drizzle
-"Crystal Lake,IL",2018-11-06,44.5,88.0,0.07,19.7,Patchy rain possible
-"Dakota,IL",2018-11-06,43.6,88.0,0.22,15.9,Light drizzle
-"Dana,IL",2018-11-06,67.3,31.0,0.0,7.2,Partly cloudy
-"Darien,IL",2018-11-06,45.4,85.0,0.05,15.0,Light drizzle
-"Davis Junction,IL",2018-11-06,44.5,85.0,0.05,15.9,Light drizzle
-"Davis,IL",2018-11-06,43.2,80.0,0.07,18.8,Light drizzle
-"Deer Grove,IL",2018-11-06,44.1,85.0,0.11,19.9,Light drizzle
-"Deerfield,IL",2018-11-06,45.4,82.0,0.16,16.8,Light drizzle
-"Dekalb,IL",2018-11-06,43.6,90.0,0.21,16.8,Light drizzle
-"Des Plaines,IL",2018-11-06,45.9,81.0,0.23,16.1,Light drizzle
-"Dixon,IL",2018-11-06,44.5,88.0,0.38,19.9,Light drizzle
-"Dolton,IL",2018-11-06,47.2,82.0,0.07,18.3,Light drizzle
-"Downers Grove,IL",2018-11-06,45.4,85.0,0.05,15.0,Light drizzle
-"Dundee,IL",2018-11-06,51.5,92.0,0.01,15.2,Patchy rain possible
-"Durand,IL",2018-11-06,79.6,79.0,0.19,9.8,Patchy rain possible
-"Dwight,IL",2018-11-06,46.8,87.0,0.01,18.8,Patchy rain possible
-"Earlville,IL",2018-11-06,46.3,88.0,0.03,18.3,Light drizzle
-"Elburn,IL",2018-11-06,45.4,90.0,0.19,16.8,Light drizzle
-"Eldena,IL",2018-11-06,43.6,87.0,0.2,20.1,Light drizzle
-"Eleroy,IL",2018-11-06,42.7,84.0,0.35,17.4,Light drizzle
-"Elgin,IL",2018-11-06,44.5,89.0,0.14,17.9,Light drizzle
-"Elk Grove Village,IL",2018-11-06,45.4,82.0,0.06,16.1,Light drizzle
-"Elmhurst,IL",2018-11-06,45.4,83.0,0.15,15.4,Light drizzle
-"Elmwood Park,IL",2018-11-06,45.9,82.0,0.23,16.8,Light drizzle
-"Elwood,IL",2018-11-06,46.8,88.0,0.07,16.6,Light drizzle
-"Emington,IL",2018-11-06,46.8,87.0,0.01,18.8,Patchy rain possible
-"Eola,IL",2018-11-06,45.9,88.0,0.05,16.1,Light drizzle
-"Erie,IL",2018-11-06,46.3,87.0,0.26,15.9,Light drizzle
-"Esmond,IL",2018-11-06,45.0,85.0,0.18,17.4,Light drizzle
-"Essex,IL",2018-11-06,46.8,86.0,0.01,20.1,Patchy rain possible
-"Evanston,IL",2018-11-06,45.4,79.0,0.17,17.9,Light drizzle
-"Evergreen Park,IL",2018-11-06,45.9,82.0,0.05,17.9,Light drizzle
-"Fenton,IL",2018-11-06,46.3,87.0,0.26,15.9,Light drizzle
-"Flanagan,IL",2018-11-06,46.3,88.0,0.0,19.7,Overcast
-"Flossmoor,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Forest Park,IL",2018-11-06,45.9,82.0,0.23,16.8,Light drizzle
-"Forrest,IL",2018-11-06,46.8,88.0,0.0,19.5,Overcast
-"Forreston,IL",2018-11-06,43.6,89.0,0.27,15.9,Light drizzle
-"Fort Sheridan,IL",2018-11-06,45.4,82.0,0.16,16.8,Light drizzle
-"Fox Lake,IL",2018-11-06,43.6,90.0,0.21,15.9,Patchy rain possible
-"Fox River Grove,IL",2018-11-06,44.5,87.0,0.11,16.3,Light rain shower
-"Fox Valley,IL",2018-11-06,45.4,89.0,0.06,15.9,Light drizzle
-"Frankfort,IL",2018-11-06,45.4,85.0,0.03,17.2,Light drizzle
-"Franklin Grove,IL",2018-11-06,43.6,87.0,0.2,20.1,Light drizzle
-"Franklin Park,IL",2018-11-06,45.4,82.0,0.06,16.1,Light drizzle
-"Freeport,IL",2018-11-06,43.6,88.0,0.22,15.9,Light drizzle
-"Fulton,IL",2018-11-06,45.0,86.0,0.13,19.2,Light drizzle
-"Galt,IL",2018-11-06,45.0,87.0,0.23,19.9,Light drizzle
-"Garden Prairie,IL",2018-11-06,45.0,88.0,0.17,17.9,Light drizzle
-"Gardner,IL",2018-11-06,46.8,86.0,0.01,20.1,Patchy rain possible
-"Genoa,IL",2018-11-06,44.5,90.0,0.13,15.9,Light drizzle
-"German Valley,IL",2018-11-06,43.6,89.0,0.27,15.9,Light drizzle
-"Gilberts,IL",2018-11-06,44.1,89.0,0.03,16.8,Light drizzle
-"Glen Ellyn,IL",2018-11-06,45.9,87.0,0.24,16.3,Light drizzle
-"Glencoe,IL",2018-11-06,45.4,80.0,0.22,16.3,Light drizzle
-"Glendale Heights,IL",2018-11-06,45.9,87.0,0.04,16.8,Light drizzle
-"Glenview,IL",2018-11-06,45.4,80.0,0.22,16.3,Light drizzle
-"Glenwood,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Golf,IL",2018-11-06,45.4,80.0,0.22,16.3,Light drizzle
-"Grand Ridge,IL",2018-11-06,46.8,87.0,0.03,21.0,Patchy rain possible
-"Grant Park,IL",2018-11-06,45.9,84.0,0.02,19.2,Patchy rain possible
-"Grayslake,IL",2018-11-06,44.5,87.0,0.16,15.9,Light drizzle
-"Great Lakes,IL",2018-11-06,45.4,85.0,0.06,15.9,Light drizzle
-"Gurnee,IL",2018-11-06,45.4,84.0,0.11,15.9,Patchy rain possible
-"Hampshire,IL",2018-11-06,43.6,91.0,0.09,16.8,Light drizzle
-"Hanover Park,IL",2018-11-06,45.0,86.0,0.07,17.9,Light drizzle
-"Harmon,IL",2018-11-06,45.0,87.0,0.23,19.9,Light drizzle
-"Harvard,IL",2018-11-06,42.7,90.0,0.31,15.9,Light drizzle
-"Harvey,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Harwood Heights,IL",2018-11-06,45.9,80.0,0.05,16.3,Light drizzle
-"Hazel Crest,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Hebron,IL",2018-11-06,42.7,88.0,0.16,15.9,Patchy rain possible
-"Herscher,IL",2018-11-06,46.3,85.0,0.01,19.5,Patchy rain possible
-"Hickory Hills,IL",2018-11-06,45.0,82.0,0.22,16.1,Light drizzle
-"Highland Park,IL",2018-11-06,45.4,82.0,0.16,16.8,Light drizzle
-"Highwood,IL",2018-11-06,45.4,82.0,0.16,16.8,Light drizzle
-"Hillside,IL",2018-11-06,45.4,83.0,0.15,15.4,Light drizzle
-"Hinckley,IL",2018-11-06,44.5,89.0,0.3,17.7,Light drizzle
-"Hines,IL",2018-11-06,46.3,81.0,0.05,17.9,Light drizzle
-"Hinsdale,IL",2018-11-06,45.4,85.0,0.05,15.0,Light drizzle
-"Hoffman Estates,IL",2018-11-06,45.9,84.0,0.18,16.3,Light drizzle
-"Holcomb,IL",2018-11-06,45.0,85.0,0.18,17.4,Light drizzle
-"Homer Glen,IL",2018-11-06,45.4,87.0,0.03,17.4,Light drizzle
-"Hometown,IL",2018-11-06,45.9,82.0,0.05,17.9,Light drizzle
-"Homewood,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Hooppole,IL",2018-11-06,46.3,87.0,0.35,15.9,Light drizzle
-"Hopkins Park,IL",2018-11-06,45.9,84.0,0.02,19.2,Patchy rain possible
-"Huntley,IL",2018-11-06,44.1,89.0,0.03,16.8,Light drizzle
-"Ingleside,IL",2018-11-06,44.5,87.0,0.16,15.9,Light drizzle
-"Island Lake,IL",2018-11-06,44.5,87.0,0.11,16.3,Light rain shower
-"Itasca,IL",2018-11-06,45.9,84.0,0.2,16.3,Light drizzle
-"Joliet,IL",2018-11-06,47.2,88.0,0.08,16.1,Light drizzle
-"Justice,IL",2018-11-06,45.0,82.0,0.22,16.1,Light drizzle
-"Kaneville,IL",2018-11-06,45.4,90.0,0.19,16.8,Light drizzle
-"Kankakee,IL",2018-11-06,45.9,83.0,0.01,19.5,Patchy rain possible
-"Kempton,IL",2018-11-06,46.3,85.0,0.01,19.5,Patchy rain possible
-"Kenilworth,IL",2018-11-06,45.4,79.0,0.17,17.9,Light drizzle
-"Kent,IL",2018-11-06,42.7,84.0,0.35,17.4,Light drizzle
-"Kingston,IL",2018-11-06,44.5,90.0,0.13,15.9,Light drizzle
-"Kinsman,IL",2018-11-06,46.8,88.0,0.16,19.2,Light drizzle
-"Kirkland,IL",2018-11-06,44.5,90.0,0.13,15.9,Light drizzle
-"La Grange Park,IL",2018-11-06,46.3,81.0,0.05,17.9,Light drizzle
-"La Grange,IL",2018-11-06,45.0,82.0,0.22,16.1,Light drizzle
-"Lafox,IL",2018-11-06,53.1,82.0,0.56,16.3,Patchy rain possible
-"Lake Bluff,IL",2018-11-06,45.4,82.0,0.16,16.8,Light drizzle
-"Lake Forest,IL",2018-11-06,45.4,82.0,0.16,16.8,Light drizzle
-"Lake In The Hills,IL",2018-11-06,44.1,89.0,0.03,16.8,Light drizzle
-"Lake Villa,IL",2018-11-06,44.5,87.0,0.16,15.9,Light drizzle
-"Lake Zurich,IL",2018-11-06,44.5,83.0,0.24,15.9,Light drizzle
-"Lanark,IL",2018-11-06,42.3,85.0,0.14,15.9,Light drizzle
-"Lansing,IL",2018-11-06,46.3,82.0,0.24,17.2,Light drizzle
-"Leaf River,IL",2018-11-06,44.1,89.0,0.39,15.7,Light drizzle
-"Lee Center,IL",2018-11-06,43.6,87.0,0.2,20.1,Light drizzle
-"Lee,IL",2018-11-06,45.0,85.0,0.18,17.4,Light drizzle
-"Leland,IL",2018-11-06,46.3,88.0,0.03,18.3,Light drizzle
-"Lemont,IL",2018-11-06,45.9,88.0,0.07,15.4,Light drizzle
-"Lena,IL",2018-11-06,42.7,84.0,0.35,17.4,Light drizzle
-"Leonore,IL",2018-11-06,46.8,87.0,0.03,21.0,Patchy rain possible
-"Libertyville,IL",2018-11-06,45.4,85.0,0.06,15.9,Light drizzle
-"Lincolnshire,IL",2018-11-06,46.3,80.0,0.19,17.2,Light drizzle
-"Lincolnwood,IL",2018-11-06,45.9,78.0,0.07,17.0,Light drizzle
-"Lindenwood,IL",2018-11-06,45.0,85.0,0.18,17.4,Light drizzle
-"Lisle,IL",2018-11-06,45.4,86.0,0.11,15.4,Light drizzle
-"Lockport,IL",2018-11-06,45.4,87.0,0.03,17.4,Light drizzle
-"Lombard,IL",2018-11-06,45.4,83.0,0.2,15.4,Light drizzle
-"Long Point,IL",2018-11-06,46.8,87.0,0.03,21.0,Patchy rain possible
-"Lostant,IL",2018-11-06,46.8,87.0,0.03,21.0,Patchy rain possible
-"Loves Park,IL",2018-11-06,45.9,86.0,0.05,17.2,Light drizzle
-"Lyndon,IL",2018-11-06,46.3,87.0,0.35,15.9,Light drizzle
-"Lyons,IL",2018-11-06,46.3,81.0,0.05,17.9,Light drizzle
-"Machesney Park,IL",2018-11-06,45.9,86.0,0.05,17.2,Light drizzle
-"Malta,IL",2018-11-06,72.0,57.0,0.03,8.7,Partly cloudy
-"Manhattan,IL",2018-11-06,45.4,86.0,0.15,17.9,Light drizzle
-"Manteno,IL",2018-11-06,45.4,85.0,0.02,19.0,Light drizzle
-"Maple Park,IL",2018-11-06,43.6,90.0,0.21,16.8,Light drizzle
-"Marengo,IL",2018-11-06,42.7,90.0,0.25,15.9,Light drizzle
-"Markham,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Matteson,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Maywood,IL",2018-11-06,45.9,82.0,0.23,16.8,Light drizzle
-"Mazon,IL",2018-11-06,46.8,86.0,0.01,20.1,Patchy rain possible
-"Mc Connell,IL",2018-11-06,42.7,84.0,0.35,17.4,Light drizzle
-"Mchenry,IL",2018-11-06,43.6,90.0,0.21,15.9,Patchy rain possible
-"Medinah,IL",2018-11-06,45.9,84.0,0.2,16.3,Light drizzle
-"Melrose Park,IL",2018-11-06,45.9,82.0,0.23,16.8,Light drizzle
-"Mendota,IL",2018-11-06,46.8,87.0,0.02,18.8,Light drizzle
-"Midlothian,IL",2018-11-06,45.4,85.0,0.03,17.2,Light drizzle
-"Milledgeville,IL",2018-11-06,44.1,89.0,0.41,17.0,Light drizzle
-"Minonk,IL",2018-11-06,45.9,86.0,0.0,18.1,Overcast
-"Minooka,IL",2018-11-06,46.8,88.0,0.07,16.6,Light drizzle
-"Mokena,IL",2018-11-06,45.4,86.0,0.15,17.9,Light drizzle
-"Momence,IL",2018-11-06,45.9,84.0,0.02,19.2,Patchy rain possible
-"Monee,IL",2018-11-06,45.4,85.0,0.02,19.0,Light drizzle
-"Monroe Center,IL",2018-11-06,45.4,86.0,0.03,17.4,Light drizzle
-"Montgomery,IL",2018-11-06,45.9,88.0,0.04,15.9,Light drizzle
-"Mooseheart,IL",2018-11-06,45.4,89.0,0.06,15.9,Light drizzle
-"Morris,IL",2018-11-06,46.8,87.0,0.17,19.7,Light drizzle
-"Morrison,IL",2018-11-06,74.6,64.0,0.0,11.9,Thundery outbreaks possible
-"Morton Grove,IL",2018-11-06,45.9,78.0,0.07,17.0,Light drizzle
-"Mount Morris,IL",2018-11-06,44.1,89.0,0.39,15.7,Light drizzle
-"Mount Prospect,IL",2018-11-06,45.4,83.0,0.19,15.9,Light drizzle
-"Mundelein,IL",2018-11-06,45.4,85.0,0.24,15.9,Light drizzle
-"Nachusa,IL",2018-11-06,44.5,88.0,0.38,19.9,Light drizzle
-"Naperville,IL",2018-11-06,45.9,88.0,0.05,16.1,Light drizzle
-"New Lenox,IL",2018-11-06,45.4,86.0,0.15,17.9,Light drizzle
-"Niles,IL",2018-11-06,45.9,80.0,0.05,16.3,Light drizzle
-"Nora,IL",2018-11-06,64.9,63.0,0.16,4.5,Patchy rain possible
-"North Aurora,IL",2018-11-06,45.4,89.0,0.06,15.9,Light drizzle
-"North Chicago,IL",2018-11-06,45.4,85.0,0.06,15.9,Light drizzle
-"Northbrook,IL",2018-11-06,45.4,80.0,0.22,16.3,Light drizzle
-"Oak Brook,IL",2018-11-06,45.4,85.0,0.05,15.0,Light drizzle
-"Oak Forest,IL",2018-11-06,45.4,85.0,0.03,17.2,Light drizzle
-"Oak Lawn,IL",2018-11-06,45.9,82.0,0.05,17.9,Light drizzle
-"Oak Park,IL",2018-11-06,45.9,82.0,0.23,16.8,Light drizzle
-"Odell,IL",2018-11-06,46.8,87.0,0.01,18.8,Patchy rain possible
-"Ohio,IL",2018-11-06,44.1,85.0,0.11,19.9,Light drizzle
-"Olympia Fields,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Orangeville,IL",2018-11-06,42.3,84.0,0.39,15.9,Light drizzle
-"Oregon,IL",2018-11-06,45.4,88.0,0.27,16.3,Light drizzle
-"Orland Park,IL",2018-11-06,45.4,83.0,0.04,16.8,Light drizzle
-"Oswego,IL",2018-11-06,45.9,88.0,0.04,15.9,Light drizzle
-"Palatine,IL",2018-11-06,45.4,83.0,0.03,15.7,Light drizzle
-"Palos Heights,IL",2018-11-06,45.9,82.0,0.05,17.9,Light drizzle
-"Palos Hills,IL",2018-11-06,45.9,82.0,0.05,17.9,Light drizzle
-"Palos Park,IL",2018-11-06,45.4,83.0,0.04,16.8,Light drizzle
-"Park Forest,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Park Ridge,IL",2018-11-06,45.9,80.0,0.05,16.3,Light drizzle
-"Paw Paw,IL",2018-11-06,46.3,88.0,0.03,18.3,Light drizzle
-"Pearl City,IL",2018-11-06,42.7,84.0,0.35,17.4,Light drizzle
-"Pecatonica,IL",2018-11-06,44.5,87.0,0.07,17.4,Light drizzle
-"Pembroke Township,IL",2018-11-06,55.7,74.0,0.0,10.5,Partly cloudy
-"Peotone,IL",2018-11-06,45.4,85.0,0.02,19.0,Light drizzle
-"Plainfield,IL",2018-11-06,47.2,88.0,0.08,16.1,Light drizzle
-"Plano,IL",2018-11-06,45.9,87.0,0.26,15.9,Light drizzle
-"Polo,IL",2018-11-06,44.1,89.0,0.41,17.0,Light drizzle
-"Pontiac,IL",2018-11-06,46.3,88.0,0.0,19.7,Overcast
-"Poplar Grove,IL",2018-11-06,45.0,88.0,0.17,17.9,Light drizzle
-"Posen,IL",2018-11-06,57.6,65.0,0.0,14.5,Partly cloudy
-"Prophetstown,IL",2018-11-06,46.3,87.0,0.35,15.9,Light drizzle
-"Prospect Heights,IL",2018-11-06,45.4,83.0,0.19,15.9,Light drizzle
-"Ransom,IL",2018-11-06,46.8,88.0,0.16,19.2,Light drizzle
-"Reddick,IL",2018-11-06,46.8,86.0,0.01,20.1,Patchy rain possible
-"Richmond,IL",2018-11-06,57.9,84.0,0.07,37.6,Light rain shower
-"Richton Park,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Ridott,IL",2018-11-06,43.6,88.0,0.22,15.9,Light drizzle
-"Ringwood,IL",2018-11-06,43.6,90.0,0.21,15.9,Patchy rain possible
-"River Forest,IL",2018-11-06,45.9,82.0,0.23,16.8,Light drizzle
-"River Grove,IL",2018-11-06,45.9,82.0,0.23,16.8,Light drizzle
-"Riverdale,IL",2018-11-06,47.2,82.0,0.07,18.3,Light drizzle
-"Riverside,IL",2018-11-06,46.3,81.0,0.05,17.9,Light drizzle
-"Robbins,IL",2018-11-06,45.9,82.0,0.05,17.9,Light drizzle
-"Rochelle,IL",2018-11-06,45.0,85.0,0.18,17.4,Light drizzle
-"Rock City,IL",2018-11-06,43.6,88.0,0.22,15.9,Light drizzle
-"Rock Falls,IL",2018-11-06,45.0,87.0,0.23,19.9,Light drizzle
-"Rockford,IL",2018-11-06,44.5,85.0,0.05,15.9,Light drizzle
-"Rockton,IL",2018-11-06,45.0,85.0,0.06,19.7,Light drizzle
-"Rolling Meadows,IL",2018-11-06,45.4,83.0,0.23,15.7,Light drizzle
-"Romeoville,IL",2018-11-06,45.9,88.0,0.07,15.4,Light drizzle
-"Roscoe,IL",2018-11-06,45.9,86.0,0.05,17.2,Light drizzle
-"Roselle,IL",2018-11-06,45.9,84.0,0.2,16.3,Light drizzle
-"Round Lake,IL",2018-11-06,44.5,87.0,0.16,15.9,Light drizzle
-"Russell,IL",2018-11-06,45.4,84.0,0.11,15.9,Patchy rain possible
-"Rutland,IL",2018-11-06,45.9,86.0,0.0,18.1,Overcast
-"Saint Anne,IL",2018-11-06,58.1,83.0,0.02,37.8,Thundery outbreaks possible
-"Saint Charles,IL",2018-11-06,45.4,87.0,0.04,18.1,Light drizzle
-"Sandwich,IL",2018-11-06,45.9,87.0,0.26,15.9,Light drizzle
-"Saunemin,IL",2018-11-06,46.8,87.0,0.01,18.8,Patchy rain possible
-"Scales Mound,IL",2018-11-06,44.1,85.0,0.27,15.2,Light drizzle
-"Schaumburg,IL",2018-11-06,45.9,84.0,0.2,16.3,Light drizzle
-"Schiller Park,IL",2018-11-06,45.9,82.0,0.23,16.8,Light drizzle
-"Seneca,IL",2018-11-06,46.8,88.0,0.16,19.2,Light drizzle
-"Seward,IL",2018-11-06,44.5,87.0,0.07,17.4,Light drizzle
-"Shabbona,IL",2018-11-06,44.5,89.0,0.3,17.9,Light drizzle
-"Shannon,IL",2018-11-06,42.3,85.0,0.14,15.9,Light drizzle
-"Shirland,IL",2018-11-06,45.0,85.0,0.06,19.7,Light drizzle
-"Shorewood,IL",2018-11-06,47.2,88.0,0.08,16.1,Light drizzle
-"Skokie,IL",2018-11-06,45.9,78.0,0.07,17.0,Light drizzle
-"Somonauk,IL",2018-11-06,44.5,89.0,0.3,17.9,Light drizzle
-"South Elgin,IL",2018-11-06,44.5,89.0,0.14,17.9,Light drizzle
-"South Holland,IL",2018-11-06,47.2,82.0,0.07,18.3,Light drizzle
-"South Wilmington,IL",2018-11-06,46.8,86.0,0.01,20.1,Patchy rain possible
-"Spring Grove,IL",2018-11-06,62.1,69.0,0.0,7.8,Sunny
-"Springfield,IL",2018-11-06,49.0,87.0,0.0,20.6,Cloudy
-"Steger,IL",2018-11-06,45.4,85.0,0.24,17.4,Light drizzle
-"Sterling,IL",2018-11-06,45.0,87.0,0.23,19.9,Light drizzle
-"Steward,IL",2018-11-06,45.0,85.0,0.18,17.4,Light drizzle
-"Stillman Valley,IL",2018-11-06,44.5,87.0,0.07,17.4,Light drizzle
-"Stockton,IL",2018-11-06,44.5,85.0,0.28,16.3,Light drizzle
-"Stone Park,IL",2018-11-06,45.4,83.0,0.15,15.4,Light drizzle
-"Streamwood,IL",2018-11-06,45.0,86.0,0.07,17.9,Light drizzle
-"Streator,IL",2018-11-06,46.8,87.0,0.03,21.0,Patchy rain possible
-"Sublette,IL",2018-11-06,43.6,87.0,0.2,20.1,Light drizzle
-"Sugar Grove,IL",2018-11-06,45.4,90.0,0.19,16.8,Light drizzle
-"Summit Argo,IL",2018-11-06,45.9,78.0,0.04,18.8,Light drizzle
-"Sycamore,IL",2018-11-06,43.6,90.0,0.21,16.8,Light drizzle
-"Tampico,IL",2018-11-06,79.1,81.0,0.0,10.7,Cloudy
-"Techny,IL",2018-11-06,45.4,80.0,0.22,16.3,Light drizzle
-"Thornton,IL",2018-11-06,45.4,84.0,0.12,17.2,Light drizzle
-"Tinley Park,IL",2018-11-06,45.4,85.0,0.03,17.2,Light drizzle
-"Toluca,IL",2018-11-06,45.9,86.0,0.0,18.1,Overcast
-"Tonica,IL",2018-11-06,48.6,84.0,0.15,17.9,Light drizzle
-"Union Hill,IL",2018-11-06,46.3,85.0,0.01,19.5,Patchy rain possible
-"Union,IL",2018-11-06,42.7,90.0,0.25,15.9,Light drizzle
-"University Park,IL",2018-11-06,45.4,85.0,0.24,17.4,Light drizzle
-"Van Orin,IL",2018-11-06,44.1,85.0,0.11,19.9,Light drizzle
-"Vernon Hills,IL",2018-11-06,45.4,85.0,0.24,15.9,Light drizzle
-"Verona,IL",2018-11-06,46.8,86.0,0.01,20.1,Patchy rain possible
-"Villa Park,IL",2018-11-06,45.4,83.0,0.2,15.4,Light drizzle
-"Wadsworth,IL",2018-11-06,45.4,84.0,0.11,15.9,Patchy rain possible
-"Walnut,IL",2018-11-06,44.1,85.0,0.11,19.9,Light drizzle
-"Warren,IL",2018-11-06,43.6,82.0,0.31,18.8,Light drizzle
-"Warrenville,IL",2018-11-06,45.9,88.0,0.05,16.1,Light drizzle
-"Wasco,IL",2018-11-06,45.4,87.0,0.04,18.1,Light drizzle
-"Waterman,IL",2018-11-06,44.5,89.0,0.3,17.7,Light drizzle
-"Wauconda,IL",2018-11-06,44.5,83.0,0.24,15.9,Light drizzle
-"Waukegan,IL",2018-11-06,45.4,84.0,0.11,15.9,Patchy rain possible
-"Wayne,IL",2018-11-06,45.4,87.0,0.04,18.1,Light drizzle
-"Wenona,IL",2018-11-06,45.9,86.0,0.0,18.1,Overcast
-"West Brooklyn,IL",2018-11-06,43.6,87.0,0.2,20.1,Light drizzle
-"West Chicago,IL",2018-11-06,45.4,87.0,0.04,18.1,Light drizzle
-"Westchester,IL",2018-11-06,45.4,83.0,0.15,15.4,Light drizzle
-"Western Springs,IL",2018-11-06,45.0,82.0,0.22,16.1,Light drizzle
-"Westmont,IL",2018-11-06,45.4,85.0,0.05,15.0,Light drizzle
-"Wheaton,IL",2018-11-06,45.9,87.0,0.24,16.3,Light drizzle
-"Wheeling,IL",2018-11-06,46.3,80.0,0.19,17.2,Light drizzle
-"Willow Springs,IL",2018-11-06,45.0,82.0,0.22,16.1,Light drizzle
-"Willowbrook,IL",2018-11-06,45.0,82.0,0.22,16.1,Light drizzle
-"Wilmette,IL",2018-11-06,45.4,79.0,0.17,17.9,Light drizzle
-"Wilmington,IL",2018-11-06,46.3,86.0,0.13,17.0,Light drizzle
-"Winfield,IL",2018-11-06,45.9,87.0,0.24,16.3,Light drizzle
-"Winnebago,IL",2018-11-06,44.5,85.0,0.05,15.9,Light drizzle
-"Winslow,IL",2018-11-06,42.7,84.0,0.35,17.4,Light drizzle
-"Winthrop Harbor,IL",2018-11-06,45.4,84.0,0.11,15.9,Patchy rain possible
-"Wonder Lake,IL",2018-11-06,43.6,90.0,0.21,15.9,Patchy rain possible
-"Wood Dale,IL",2018-11-06,45.4,82.0,0.06,16.1,Light drizzle
-"Woodridge,IL",2018-11-06,45.9,88.0,0.07,15.4,Light drizzle
-"Woodstock,IL",2018-11-06,43.2,91.0,0.13,15.9,Light drizzle
-"Woosung,IL",2018-11-06,44.5,88.0,0.38,19.9,Light drizzle
-"Worth,IL",2018-11-06,45.9,82.0,0.05,17.9,Light drizzle
-"Yorkville,IL",2018-11-06,45.9,87.0,0.26,15.9,Light drizzle
-"Zion,IL",2018-11-06,45.4,84.0,0.11,15.9,Patchy rain possible
-"Addison,IL",2018-11-07,39.6,64.0,0.0,16.8,Partly cloudy
-"Albany,IL",2018-11-07,38.7,69.0,0.0,18.8,Partly cloudy
-"Alden,IL",2018-11-07,36.9,71.0,0.0,18.3,Overcast
-"Algonquin,IL",2018-11-07,38.2,69.0,0.0,18.8,Cloudy
-"Alsip,IL",2018-11-07,37.8,62.0,0.0,16.8,Partly cloudy
-"Amboy,IL",2018-11-07,61.8,68.0,0.11,9.6,Patchy rain possible
-"Ancona,IL",2018-11-07,40.5,70.0,0.0,19.0,Partly cloudy
-"Antioch,IL",2018-11-07,37.8,70.0,0.0,16.8,Overcast
-"Arlington Heights,IL",2018-11-07,39.6,61.0,0.0,17.0,Cloudy
-"Aroma Park,IL",2018-11-07,39.1,69.0,0.0,15.9,Partly cloudy
-"Ashton,IL",2018-11-07,37.8,72.0,0.0,20.1,Partly cloudy
-"Aurora,IL",2018-11-07,39.1,69.0,0.0,20.6,Partly cloudy
-"Baileyville,IL",2018-11-07,37.3,69.0,0.0,19.7,Cloudy
-"Barrington,IL",2018-11-07,38.2,65.0,0.0,19.7,Cloudy
-"Bartlett,IL",2018-11-07,37.8,65.0,0.0,18.8,Cloudy
-"Bedford Park,IL",2018-11-07,38.7,61.0,0.0,17.9,Partly cloudy
-"Beecher,IL",2018-11-07,38.2,69.0,0.0,15.9,Partly cloudy
-"Bellwood,IL",2018-11-07,39.6,64.0,0.0,16.8,Partly cloudy
-"Belvidere,IL",2018-11-07,38.7,69.0,0.0,19.5,Cloudy
-"Bensenville,IL",2018-11-07,39.6,62.0,0.0,18.8,Partly cloudy
-"Berkeley,IL",2018-11-07,39.6,64.0,0.0,16.8,Partly cloudy
-"Berwyn,IL",2018-11-07,38.7,63.0,0.0,16.8,Partly cloudy
-"Big Rock,IL",2018-11-07,38.7,70.0,0.0,20.6,Partly cloudy
-"Blackstone,IL",2018-11-07,40.5,70.0,0.0,19.0,Partly cloudy
-"Bloomingdale,IL",2018-11-07,37.8,66.0,0.0,18.8,Partly cloudy
-"Blue Island,IL",2018-11-07,37.8,62.0,0.0,16.8,Partly cloudy
-"Bolingbrook,IL",2018-11-07,36.9,69.0,0.0,18.1,Partly cloudy
-"Bonfield,IL",2018-11-07,39.1,70.0,0.0,16.8,Partly cloudy
-"Bourbonnais,IL",2018-11-07,39.1,69.0,0.0,15.9,Partly cloudy
-"Braceville,IL",2018-11-07,39.1,69.0,0.0,15.9,Partly cloudy
-"Bradley,IL",2018-11-07,39.1,69.0,0.0,15.9,Partly cloudy
-"Braidwood,IL",2018-11-07,39.6,70.0,0.0,15.9,Partly cloudy
-"Bridgeview,IL",2018-11-07,38.7,61.0,0.0,17.9,Partly cloudy
-"Bristol,IL",2018-11-07,53.3,83.0,0.36,21.7,Light rain shower
-"Broadview,IL",2018-11-07,38.7,63.0,0.0,16.8,Partly cloudy
-"Brookfield,IL",2018-11-07,38.7,63.0,0.0,16.8,Partly cloudy
-"Buckingham,IL",2018-11-07,39.1,70.0,0.0,16.8,Partly cloudy
-"Buffalo Grove,IL",2018-11-07,39.6,63.0,0.0,17.7,Cloudy
-"Burbank,IL",2018-11-07,37.8,62.0,0.0,16.8,Partly cloudy
-"Burlington,IL",2018-11-07,81.8,74.0,0.01,11.0,Patchy rain possible
-"Byron,IL",2018-11-07,38.2,68.0,0.0,17.4,Cloudy
-"Cabery,IL",2018-11-07,39.1,70.0,0.0,16.8,Partly cloudy
-"Caledonia,IL",2018-11-07,38.7,68.0,0.0,19.5,Cloudy
-"Calumet City,IL",2018-11-07,38.7,66.0,0.0,19.0,Partly cloudy
-"Campus,IL",2018-11-07,39.1,72.0,0.0,16.8,Partly cloudy
-"Capron,IL",2018-11-07,36.9,71.0,0.0,18.3,Overcast
-"Carol Stream,IL",2018-11-07,37.8,66.0,0.0,18.8,Partly cloudy
-"Carpentersville,IL",2018-11-07,38.2,69.0,0.0,18.8,Cloudy
-"Cary,IL",2018-11-07,38.2,69.0,0.0,18.8,Overcast
-"Cedarville,IL",2018-11-07,37.3,69.0,0.0,19.9,Overcast
-"Chana,IL",2018-11-07,87.5,14.0,0.0,6.7,Sunny
-"Channahon,IL",2018-11-07,40.9,69.0,0.0,16.8,Partly cloudy
-"Cherry Valley,IL",2018-11-07,38.7,68.0,0.0,18.3,Cloudy
-"Chicago Heights,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Chicago Ridge,IL",2018-11-07,37.8,62.0,0.0,16.8,Partly cloudy
-"Chicago,IL",2018-11-07,39.6,62.0,0.0,18.8,Partly cloudy
-"Cicero,IL",2018-11-07,38.7,63.0,0.0,16.8,Partly cloudy
-"Clare,IL",2018-11-07,43.5,90.0,0.14,16.8,Light rain
-"Clarendon Hills,IL",2018-11-07,37.3,67.0,0.0,17.0,Partly cloudy
-"Coal City,IL",2018-11-07,39.6,70.0,0.0,15.9,Partly cloudy
-"Compton,IL",2018-11-07,40.5,67.0,0.0,19.5,Partly cloudy
-"Cornell,IL",2018-11-07,39.6,76.0,0.0,19.7,Partly cloudy
-"Cortland,IL",2018-11-07,37.8,71.0,0.0,21.0,Partly cloudy
-"Country Club Hills,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Crest Hill,IL",2018-11-07,40.9,69.0,0.0,16.6,Partly cloudy
-"Creston,IL",2018-11-07,37.8,72.0,0.0,20.1,Partly cloudy
-"Crete,IL",2018-11-07,38.2,69.0,0.0,15.9,Partly cloudy
-"Crystal Lake,IL",2018-11-07,37.3,68.0,0.0,19.0,Overcast
-"Dakota,IL",2018-11-07,37.3,69.0,0.0,19.9,Overcast
-"Dana,IL",2018-11-07,68.1,33.0,0.0,6.7,Sunny
-"Darien,IL",2018-11-07,37.3,67.0,0.0,17.0,Partly cloudy
-"Davis Junction,IL",2018-11-07,38.7,66.0,0.0,19.0,Cloudy
-"Davis,IL",2018-11-07,38.2,64.0,0.0,19.7,Overcast
-"Deer Grove,IL",2018-11-07,38.7,68.0,0.0,16.8,Partly cloudy
-"Deerfield,IL",2018-11-07,39.6,63.0,0.0,18.6,Cloudy
-"Dekalb,IL",2018-11-07,37.8,71.0,0.0,21.0,Partly cloudy
-"Des Plaines,IL",2018-11-07,39.6,61.0,0.0,16.3,Partly cloudy
-"Dixon,IL",2018-11-07,38.7,70.0,0.0,16.6,Partly cloudy
-"Dolton,IL",2018-11-07,38.7,66.0,0.0,19.0,Partly cloudy
-"Downers Grove,IL",2018-11-07,37.3,67.0,0.0,17.0,Partly cloudy
-"Dundee,IL",2018-11-07,52.2,88.0,0.1,22.1,Light rain shower
-"Durand,IL",2018-11-07,81.1,77.0,0.01,9.8,Partly cloudy
-"Dwight,IL",2018-11-07,39.1,72.0,0.0,16.8,Partly cloudy
-"Earlville,IL",2018-11-07,40.5,69.0,0.0,19.7,Partly cloudy
-"Elburn,IL",2018-11-07,38.7,70.0,0.0,20.6,Partly cloudy
-"Eldena,IL",2018-11-07,38.7,70.0,0.0,19.5,Partly cloudy
-"Eleroy,IL",2018-11-07,36.9,66.0,0.0,16.8,Blowing snow
-"Elgin,IL",2018-11-07,38.7,68.0,0.0,18.3,Cloudy
-"Elk Grove Village,IL",2018-11-07,39.6,62.0,0.0,18.8,Partly cloudy
-"Elmhurst,IL",2018-11-07,39.6,64.0,0.0,16.8,Partly cloudy
-"Elmwood Park,IL",2018-11-07,38.7,61.0,0.0,16.8,Partly cloudy
-"Elwood,IL",2018-11-07,40.9,69.0,0.0,16.8,Partly cloudy
-"Emington,IL",2018-11-07,39.1,72.0,0.0,16.8,Partly cloudy
-"Eola,IL",2018-11-07,37.3,67.0,0.0,19.0,Partly cloudy
-"Erie,IL",2018-11-07,40.0,68.0,0.0,18.1,Partly cloudy
-"Esmond,IL",2018-11-07,37.8,72.0,0.0,20.1,Partly cloudy
-"Essex,IL",2018-11-07,39.1,69.0,0.0,15.9,Partly cloudy
-"Evanston,IL",2018-11-07,40.5,61.0,0.0,19.5,Partly cloudy
-"Evergreen Park,IL",2018-11-07,37.8,62.0,0.0,16.8,Partly cloudy
-"Fenton,IL",2018-11-07,40.0,68.0,0.0,18.1,Partly cloudy
-"Flanagan,IL",2018-11-07,39.6,76.0,0.0,19.7,Partly cloudy
-"Flossmoor,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Forest Park,IL",2018-11-07,38.7,61.0,0.0,16.8,Partly cloudy
-"Forrest,IL",2018-11-07,40.0,74.0,0.0,19.7,Partly cloudy
-"Forreston,IL",2018-11-07,37.3,69.0,0.0,19.7,Cloudy
-"Fort Sheridan,IL",2018-11-07,39.6,63.0,0.0,18.6,Cloudy
-"Fox Lake,IL",2018-11-07,38.2,70.0,0.0,17.9,Overcast
-"Fox River Grove,IL",2018-11-07,38.2,69.0,0.0,18.8,Overcast
-"Fox Valley,IL",2018-11-07,39.1,69.0,0.0,20.6,Partly cloudy
-"Frankfort,IL",2018-11-07,38.2,69.0,0.0,18.1,Partly cloudy
-"Franklin Grove,IL",2018-11-07,38.7,70.0,0.0,19.5,Partly cloudy
-"Franklin Park,IL",2018-11-07,39.6,62.0,0.0,18.8,Partly cloudy
-"Freeport,IL",2018-11-07,37.3,69.0,0.0,19.9,Overcast
-"Fulton,IL",2018-11-07,38.7,69.0,0.0,18.8,Partly cloudy
-"Galt,IL",2018-11-07,38.7,69.0,0.0,18.8,Partly cloudy
-"Garden Prairie,IL",2018-11-07,38.7,69.0,0.0,19.5,Cloudy
-"Gardner,IL",2018-11-07,39.1,69.0,0.0,15.9,Partly cloudy
-"Genoa,IL",2018-11-07,37.8,70.0,0.0,18.6,Partly cloudy
-"German Valley,IL",2018-11-07,37.3,69.0,0.0,19.7,Cloudy
-"Gilberts,IL",2018-11-07,38.2,69.0,0.0,18.8,Cloudy
-"Glen Ellyn,IL",2018-11-07,37.3,66.0,0.0,18.8,Partly cloudy
-"Glencoe,IL",2018-11-07,39.6,60.0,0.0,17.9,Partly cloudy
-"Glendale Heights,IL",2018-11-07,37.8,66.0,0.0,18.8,Partly cloudy
-"Glenview,IL",2018-11-07,39.6,60.0,0.0,17.9,Partly cloudy
-"Glenwood,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Golf,IL",2018-11-07,39.6,60.0,0.0,17.9,Partly cloudy
-"Grand Ridge,IL",2018-11-07,40.5,70.0,0.0,19.0,Partly cloudy
-"Grant Park,IL",2018-11-07,38.7,71.0,0.0,16.8,Partly cloudy
-"Grayslake,IL",2018-11-07,38.2,66.0,0.0,19.7,Overcast
-"Great Lakes,IL",2018-11-07,40.0,65.0,0.0,18.6,Cloudy
-"Gurnee,IL",2018-11-07,39.1,67.0,0.0,17.9,Overcast
-"Hampshire,IL",2018-11-07,37.8,70.0,0.0,18.8,Cloudy
-"Hanover Park,IL",2018-11-07,37.8,65.0,0.0,18.8,Cloudy
-"Harmon,IL",2018-11-07,38.7,69.0,0.0,18.8,Partly cloudy
-"Harvard,IL",2018-11-07,36.9,71.0,0.0,18.3,Overcast
-"Harvey,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Harwood Heights,IL",2018-11-07,39.6,60.0,0.0,17.0,Partly cloudy
-"Hazel Crest,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Hebron,IL",2018-11-07,36.9,69.0,0.0,16.8,Overcast
-"Herscher,IL",2018-11-07,39.1,70.0,0.0,16.8,Partly cloudy
-"Hickory Hills,IL",2018-11-07,38.7,61.0,0.0,17.9,Partly cloudy
-"Highland Park,IL",2018-11-07,39.6,63.0,0.0,18.6,Cloudy
-"Highwood,IL",2018-11-07,39.6,63.0,0.0,18.6,Cloudy
-"Hillside,IL",2018-11-07,39.6,64.0,0.0,16.8,Partly cloudy
-"Hinckley,IL",2018-11-07,38.2,70.0,0.0,17.4,Partly cloudy
-"Hines,IL",2018-11-07,38.7,63.0,0.0,16.8,Partly cloudy
-"Hinsdale,IL",2018-11-07,37.3,67.0,0.0,17.0,Partly cloudy
-"Hoffman Estates,IL",2018-11-07,38.2,63.0,0.0,18.3,Cloudy
-"Holcomb,IL",2018-11-07,37.8,72.0,0.0,20.1,Partly cloudy
-"Homer Glen,IL",2018-11-07,38.2,69.0,0.0,18.3,Partly cloudy
-"Hometown,IL",2018-11-07,37.8,62.0,0.0,16.8,Partly cloudy
-"Homewood,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Hooppole,IL",2018-11-07,40.0,69.0,0.0,18.8,Partly cloudy
-"Hopkins Park,IL",2018-11-07,38.7,71.0,0.0,16.8,Partly cloudy
-"Huntley,IL",2018-11-07,38.2,69.0,0.0,18.8,Cloudy
-"Ingleside,IL",2018-11-07,38.2,66.0,0.0,19.7,Overcast
-"Island Lake,IL",2018-11-07,38.2,69.0,0.0,18.8,Overcast
-"Itasca,IL",2018-11-07,38.2,63.0,0.0,18.3,Partly cloudy
-"Joliet,IL",2018-11-07,40.9,69.0,0.0,16.6,Partly cloudy
-"Justice,IL",2018-11-07,38.2,65.0,0.0,16.8,Partly cloudy
-"Kaneville,IL",2018-11-07,38.7,70.0,0.0,20.6,Partly cloudy
-"Kankakee,IL",2018-11-07,39.1,69.0,0.0,15.9,Partly cloudy
-"Kempton,IL",2018-11-07,39.1,70.0,0.0,16.8,Partly cloudy
-"Kenilworth,IL",2018-11-07,40.5,61.0,0.0,19.5,Partly cloudy
-"Kent,IL",2018-11-07,36.9,66.0,0.0,16.8,Blowing snow
-"Kingston,IL",2018-11-07,37.8,70.0,0.0,18.6,Partly cloudy
-"Kinsman,IL",2018-11-07,40.5,70.0,0.0,16.6,Partly cloudy
-"Kirkland,IL",2018-11-07,37.8,70.0,0.0,18.6,Partly cloudy
-"La Grange Park,IL",2018-11-07,38.7,63.0,0.0,16.8,Partly cloudy
-"La Grange,IL",2018-11-07,38.2,65.0,0.0,16.8,Partly cloudy
-"Lafox,IL",2018-11-07,54.7,73.0,0.1,15.4,Light rain
-"Lake Bluff,IL",2018-11-07,40.0,65.0,0.0,18.6,Cloudy
-"Lake Forest,IL",2018-11-07,39.6,63.0,0.0,18.6,Cloudy
-"Lake In The Hills,IL",2018-11-07,38.2,69.0,0.0,18.8,Cloudy
-"Lake Villa,IL",2018-11-07,38.2,66.0,0.0,19.7,Overcast
-"Lake Zurich,IL",2018-11-07,38.2,65.0,0.0,19.7,Cloudy
-"Lanark,IL",2018-11-07,37.3,68.0,0.0,19.2,Cloudy
-"Lansing,IL",2018-11-07,40.5,66.0,0.0,15.0,Partly cloudy
-"Leaf River,IL",2018-11-07,36.4,71.0,0.0,16.1,Cloudy
-"Lee Center,IL",2018-11-07,38.7,70.0,0.0,19.5,Partly cloudy
-"Lee,IL",2018-11-07,37.8,72.0,0.0,20.1,Partly cloudy
-"Leland,IL",2018-11-07,40.5,69.0,0.0,19.7,Partly cloudy
-"Lemont,IL",2018-11-07,36.9,69.0,0.0,18.1,Partly cloudy
-"Lena,IL",2018-11-07,36.9,66.0,0.0,16.8,Blowing snow
-"Leonore,IL",2018-11-07,40.5,70.0,0.0,19.0,Partly cloudy
-"Libertyville,IL",2018-11-07,40.0,65.0,0.0,18.6,Cloudy
-"Lincolnshire,IL",2018-11-07,39.6,63.0,0.0,17.7,Cloudy
-"Lincolnwood,IL",2018-11-07,40.0,61.0,0.0,17.9,Partly cloudy
-"Lindenwood,IL",2018-11-07,37.8,72.0,0.0,20.1,Partly cloudy
-"Lisle,IL",2018-11-07,38.2,67.0,0.0,17.9,Partly cloudy
-"Lockport,IL",2018-11-07,38.2,69.0,0.0,18.3,Partly cloudy
-"Lombard,IL",2018-11-07,38.7,65.0,0.0,17.0,Partly cloudy
-"Long Point,IL",2018-11-07,40.5,70.0,0.0,19.0,Partly cloudy
-"Lostant,IL",2018-11-07,40.5,70.0,0.0,19.0,Partly cloudy
-"Loves Park,IL",2018-11-07,38.7,68.0,0.0,19.5,Cloudy
-"Lyndon,IL",2018-11-07,40.0,69.0,0.0,18.8,Partly cloudy
-"Lyons,IL",2018-11-07,38.7,63.0,0.0,16.8,Partly cloudy
-"Machesney Park,IL",2018-11-07,38.7,68.0,0.0,19.5,Cloudy
-"Malta,IL",2018-11-07,70.4,66.0,0.1,10.5,Partly cloudy
-"Manhattan,IL",2018-11-07,39.6,71.0,0.0,18.8,Partly cloudy
-"Manteno,IL",2018-11-07,38.2,71.0,0.0,16.8,Partly cloudy
-"Maple Park,IL",2018-11-07,37.8,71.0,0.0,21.0,Partly cloudy
-"Marengo,IL",2018-11-07,37.8,70.0,0.0,17.9,Overcast
-"Markham,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Matteson,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Maywood,IL",2018-11-07,38.7,61.0,0.0,16.8,Partly cloudy
-"Mazon,IL",2018-11-07,39.1,69.0,0.0,15.9,Partly cloudy
-"Mc Connell,IL",2018-11-07,36.9,66.0,0.0,16.8,Blowing snow
-"Mchenry,IL",2018-11-07,38.2,70.0,0.0,17.9,Overcast
-"Medinah,IL",2018-11-07,38.2,63.0,0.0,18.3,Partly cloudy
-"Melrose Park,IL",2018-11-07,38.7,61.0,0.0,16.8,Partly cloudy
-"Mendota,IL",2018-11-07,40.5,67.0,0.0,19.5,Partly cloudy
-"Midlothian,IL",2018-11-07,38.2,69.0,0.0,18.1,Partly cloudy
-"Milledgeville,IL",2018-11-07,36.4,71.0,0.0,15.9,Cloudy
-"Minonk,IL",2018-11-07,39.6,71.0,0.0,15.9,Partly cloudy
-"Minooka,IL",2018-11-07,40.9,69.0,0.0,16.8,Partly cloudy
-"Mokena,IL",2018-11-07,39.6,71.0,0.0,18.8,Partly cloudy
-"Momence,IL",2018-11-07,38.7,71.0,0.0,16.8,Partly cloudy
-"Monee,IL",2018-11-07,38.2,71.0,0.0,16.8,Partly cloudy
-"Monroe Center,IL",2018-11-07,38.7,68.0,0.0,18.3,Cloudy
-"Montgomery,IL",2018-11-07,39.1,69.0,0.0,17.9,Partly cloudy
-"Mooseheart,IL",2018-11-07,39.1,69.0,0.0,20.6,Partly cloudy
-"Morris,IL",2018-11-07,39.6,70.0,0.0,15.7,Partly cloudy
-"Morrison,IL",2018-11-07,73.5,61.0,0.13,15.4,Partly cloudy
-"Morton Grove,IL",2018-11-07,40.0,61.0,0.0,17.9,Partly cloudy
-"Mount Morris,IL",2018-11-07,36.4,71.0,0.0,16.1,Cloudy
-"Mount Prospect,IL",2018-11-07,39.6,62.0,0.0,17.0,Partly cloudy
-"Mundelein,IL",2018-11-07,38.7,64.0,0.0,17.9,Cloudy
-"Nachusa,IL",2018-11-07,38.7,70.0,0.0,16.6,Partly cloudy
-"Naperville,IL",2018-11-07,37.3,67.0,0.0,19.0,Partly cloudy
-"New Lenox,IL",2018-11-07,39.6,71.0,0.0,18.8,Partly cloudy
-"Niles,IL",2018-11-07,39.6,60.0,0.0,17.0,Partly cloudy
-"Nora,IL",2018-11-07,64.9,66.0,0.28,6.5,Moderate or heavy rain shower
-"North Aurora,IL",2018-11-07,39.1,69.0,0.0,20.6,Partly cloudy
-"North Chicago,IL",2018-11-07,40.0,65.0,0.0,18.6,Cloudy
-"Northbrook,IL",2018-11-07,39.6,63.0,0.0,18.6,Cloudy
-"Oak Brook,IL",2018-11-07,37.3,67.0,0.0,17.0,Partly cloudy
-"Oak Forest,IL",2018-11-07,38.2,69.0,0.0,18.1,Partly cloudy
-"Oak Lawn,IL",2018-11-07,37.8,62.0,0.0,16.8,Partly cloudy
-"Oak Park,IL",2018-11-07,38.7,61.0,0.0,16.8,Partly cloudy
-"Odell,IL",2018-11-07,39.1,72.0,0.0,16.8,Partly cloudy
-"Ohio,IL",2018-11-07,38.7,68.0,0.0,16.8,Partly cloudy
-"Olympia Fields,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Orangeville,IL",2018-11-07,36.9,64.0,0.0,19.5,Overcast
-"Oregon,IL",2018-11-07,38.2,70.0,0.0,16.1,Cloudy
-"Orland Park,IL",2018-11-07,38.7,66.0,0.0,17.7,Partly cloudy
-"Oswego,IL",2018-11-07,39.1,69.0,0.0,17.9,Partly cloudy
-"Palatine,IL",2018-11-07,39.1,62.0,0.0,17.7,Cloudy
-"Palos Heights,IL",2018-11-07,37.8,62.0,0.0,16.8,Partly cloudy
-"Palos Hills,IL",2018-11-07,37.8,62.0,0.0,16.8,Partly cloudy
-"Palos Park,IL",2018-11-07,38.7,66.0,0.0,17.7,Partly cloudy
-"Park Forest,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Park Ridge,IL",2018-11-07,39.6,60.0,0.0,17.0,Partly cloudy
-"Paw Paw,IL",2018-11-07,40.5,69.0,0.0,19.7,Partly cloudy
-"Pearl City,IL",2018-11-07,36.9,66.0,0.0,16.8,Blowing snow
-"Pecatonica,IL",2018-11-07,38.2,68.0,0.0,17.4,Cloudy
-"Pembroke Township,IL",2018-11-07,55.3,80.0,0.01,16.3,Patchy rain possible
-"Peotone,IL",2018-11-07,38.2,71.0,0.0,16.8,Partly cloudy
-"Plainfield,IL",2018-11-07,40.9,69.0,0.0,16.6,Partly cloudy
-"Plano,IL",2018-11-07,38.7,71.0,0.0,20.1,Partly cloudy
-"Polo,IL",2018-11-07,36.4,71.0,0.0,15.9,Cloudy
-"Pontiac,IL",2018-11-07,39.6,76.0,0.0,19.7,Partly cloudy
-"Poplar Grove,IL",2018-11-07,38.7,69.0,0.0,19.5,Cloudy
-"Posen,IL",2018-11-07,56.6,67.0,0.0,13.4,Partly cloudy
-"Prophetstown,IL",2018-11-07,40.0,69.0,0.0,18.8,Partly cloudy
-"Prospect Heights,IL",2018-11-07,39.6,62.0,0.0,17.0,Partly cloudy
-"Ransom,IL",2018-11-07,40.5,70.0,0.0,16.6,Partly cloudy
-"Reddick,IL",2018-11-07,39.1,69.0,0.0,15.9,Partly cloudy
-"Richmond,IL",2018-11-07,55.8,76.0,0.7,39.6,Light rain shower
-"Richton Park,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Ridott,IL",2018-11-07,37.3,69.0,0.0,19.9,Overcast
-"Ringwood,IL",2018-11-07,38.2,70.0,0.0,17.9,Overcast
-"River Forest,IL",2018-11-07,38.7,61.0,0.0,16.8,Partly cloudy
-"River Grove,IL",2018-11-07,38.7,61.0,0.0,16.8,Partly cloudy
-"Riverdale,IL",2018-11-07,38.7,66.0,0.0,19.0,Partly cloudy
-"Riverside,IL",2018-11-07,38.7,63.0,0.0,16.8,Partly cloudy
-"Robbins,IL",2018-11-07,38.2,69.0,0.0,18.1,Partly cloudy
-"Rochelle,IL",2018-11-07,37.8,72.0,0.0,20.1,Partly cloudy
-"Rock City,IL",2018-11-07,37.3,69.0,0.0,19.9,Overcast
-"Rock Falls,IL",2018-11-07,38.7,69.0,0.0,18.8,Partly cloudy
-"Rockford,IL",2018-11-07,38.7,66.0,0.0,19.0,Cloudy
-"Rockton,IL",2018-11-07,38.7,68.0,0.0,19.7,Overcast
-"Rolling Meadows,IL",2018-11-07,39.6,61.0,0.0,17.0,Cloudy
-"Romeoville,IL",2018-11-07,36.9,69.0,0.0,18.1,Partly cloudy
-"Roscoe,IL",2018-11-07,38.7,68.0,0.0,19.5,Cloudy
-"Roselle,IL",2018-11-07,38.2,63.0,0.0,18.3,Partly cloudy
-"Round Lake,IL",2018-11-07,38.2,66.0,0.0,19.7,Overcast
-"Russell,IL",2018-11-07,39.1,67.0,0.0,17.9,Overcast
-"Rutland,IL",2018-11-07,39.6,71.0,0.0,15.9,Partly cloudy
-"Saint Anne,IL",2018-11-07,56.6,76.0,0.41,41.2,Light rain shower
-"Saint Charles,IL",2018-11-07,38.2,65.0,0.0,17.9,Partly cloudy
-"Sandwich,IL",2018-11-07,38.7,71.0,0.0,20.1,Partly cloudy
-"Saunemin,IL",2018-11-07,39.1,72.0,0.0,16.8,Partly cloudy
-"Scales Mound,IL",2018-11-07,36.9,65.0,0.0,19.0,Blowing snow
-"Schaumburg,IL",2018-11-07,38.2,63.0,0.0,18.3,Partly cloudy
-"Schiller Park,IL",2018-11-07,39.6,62.0,0.0,18.8,Partly cloudy
-"Seneca,IL",2018-11-07,40.5,70.0,0.0,16.6,Partly cloudy
-"Seward,IL",2018-11-07,38.2,68.0,0.0,17.4,Cloudy
-"Shabbona,IL",2018-11-07,38.2,71.0,0.0,20.4,Partly cloudy
-"Shannon,IL",2018-11-07,37.3,68.0,0.0,19.2,Cloudy
-"Shirland,IL",2018-11-07,38.7,68.0,0.0,19.7,Overcast
-"Shorewood,IL",2018-11-07,40.9,69.0,0.0,16.6,Partly cloudy
-"Skokie,IL",2018-11-07,40.0,61.0,0.0,17.9,Partly cloudy
-"Somonauk,IL",2018-11-07,38.2,71.0,0.0,20.4,Partly cloudy
-"South Elgin,IL",2018-11-07,38.7,68.0,0.0,18.3,Cloudy
-"South Holland,IL",2018-11-07,38.7,66.0,0.0,19.0,Partly cloudy
-"South Wilmington,IL",2018-11-07,39.1,69.0,0.0,15.9,Partly cloudy
-"Spring Grove,IL",2018-11-07,60.1,82.0,0.0,12.3,Patchy rain possible
-"Springfield,IL",2018-11-07,43.2,73.0,0.0,14.1,Cloudy
-"Steger,IL",2018-11-07,38.2,69.0,0.0,15.9,Partly cloudy
-"Sterling,IL",2018-11-07,38.7,69.0,0.0,18.8,Partly cloudy
-"Steward,IL",2018-11-07,37.8,72.0,0.0,20.1,Partly cloudy
-"Stillman Valley,IL",2018-11-07,38.2,68.0,0.0,17.4,Cloudy
-"Stockton,IL",2018-11-07,37.8,69.0,0.0,19.2,Blowing snow
-"Stone Park,IL",2018-11-07,39.6,64.0,0.0,16.8,Partly cloudy
-"Streamwood,IL",2018-11-07,37.8,65.0,0.0,18.8,Cloudy
-"Streator,IL",2018-11-07,40.5,70.0,0.0,19.0,Partly cloudy
-"Sublette,IL",2018-11-07,38.7,70.0,0.0,19.5,Partly cloudy
-"Sugar Grove,IL",2018-11-07,38.7,70.0,0.0,20.6,Partly cloudy
-"Summit Argo,IL",2018-11-07,38.7,61.0,0.0,17.9,Partly cloudy
-"Sycamore,IL",2018-11-07,37.8,71.0,0.0,21.0,Partly cloudy
-"Tampico,IL",2018-11-07,79.6,75.0,0.01,11.0,Patchy rain possible
-"Techny,IL",2018-11-07,39.6,60.0,0.0,17.9,Partly cloudy
-"Thornton,IL",2018-11-07,39.1,66.0,0.0,18.1,Partly cloudy
-"Tinley Park,IL",2018-11-07,38.2,69.0,0.0,18.1,Partly cloudy
-"Toluca,IL",2018-11-07,39.6,71.0,0.0,15.9,Partly cloudy
-"Tonica,IL",2018-11-07,40.5,69.0,0.0,19.0,Partly cloudy
-"Union Hill,IL",2018-11-07,39.1,70.0,0.0,16.8,Partly cloudy
-"Union,IL",2018-11-07,37.8,70.0,0.0,17.9,Overcast
-"University Park,IL",2018-11-07,38.2,69.0,0.0,15.9,Partly cloudy
-"Van Orin,IL",2018-11-07,38.7,68.0,0.0,16.8,Partly cloudy
-"Vernon Hills,IL",2018-11-07,38.7,64.0,0.0,17.9,Cloudy
-"Verona,IL",2018-11-07,39.1,69.0,0.0,15.9,Partly cloudy
-"Villa Park,IL",2018-11-07,38.7,65.0,0.0,17.0,Partly cloudy
-"Wadsworth,IL",2018-11-07,39.1,67.0,0.0,17.9,Overcast
-"Walnut,IL",2018-11-07,38.7,68.0,0.0,16.8,Partly cloudy
-"Warren,IL",2018-11-07,36.9,65.0,0.0,16.8,Blowing snow
-"Warrenville,IL",2018-11-07,37.3,67.0,0.0,19.0,Partly cloudy
-"Wasco,IL",2018-11-07,38.2,65.0,0.0,17.9,Partly cloudy
-"Waterman,IL",2018-11-07,38.2,70.0,0.0,17.4,Partly cloudy
-"Wauconda,IL",2018-11-07,38.2,65.0,0.0,19.7,Cloudy
-"Waukegan,IL",2018-11-07,39.1,67.0,0.0,17.9,Overcast
-"Wayne,IL",2018-11-07,38.2,65.0,0.0,17.9,Partly cloudy
-"Wenona,IL",2018-11-07,39.6,71.0,0.0,15.9,Partly cloudy
-"West Brooklyn,IL",2018-11-07,38.7,70.0,0.0,19.5,Partly cloudy
-"West Chicago,IL",2018-11-07,38.2,65.0,0.0,17.9,Partly cloudy
-"Westchester,IL",2018-11-07,39.6,64.0,0.0,16.8,Partly cloudy
-"Western Springs,IL",2018-11-07,38.2,65.0,0.0,16.8,Partly cloudy
-"Westmont,IL",2018-11-07,37.3,67.0,0.0,17.0,Partly cloudy
-"Wheaton,IL",2018-11-07,37.3,66.0,0.0,18.8,Partly cloudy
-"Wheeling,IL",2018-11-07,39.6,63.0,0.0,17.7,Cloudy
-"Willow Springs,IL",2018-11-07,38.2,65.0,0.0,16.8,Partly cloudy
-"Willowbrook,IL",2018-11-07,38.2,65.0,0.0,16.8,Partly cloudy
-"Wilmette,IL",2018-11-07,40.5,61.0,0.0,19.5,Partly cloudy
-"Wilmington,IL",2018-11-07,39.6,70.0,0.0,15.9,Partly cloudy
-"Winfield,IL",2018-11-07,37.3,66.0,0.0,18.8,Partly cloudy
-"Winnebago,IL",2018-11-07,38.7,66.0,0.0,19.0,Cloudy
-"Winslow,IL",2018-11-07,36.9,66.0,0.0,16.8,Blowing snow
-"Winthrop Harbor,IL",2018-11-07,39.1,67.0,0.0,17.9,Overcast
-"Wonder Lake,IL",2018-11-07,38.2,70.0,0.0,17.9,Overcast
-"Wood Dale,IL",2018-11-07,39.6,62.0,0.0,18.8,Partly cloudy
-"Woodridge,IL",2018-11-07,36.9,69.0,0.0,18.1,Partly cloudy
-"Woodstock,IL",2018-11-07,37.3,70.0,0.0,16.8,Overcast
-"Woosung,IL",2018-11-07,38.7,70.0,0.0,16.6,Partly cloudy
-"Worth,IL",2018-11-07,37.8,62.0,0.0,16.8,Partly cloudy
-"Yorkville,IL",2018-11-07,38.7,71.0,0.0,20.1,Partly cloudy
-"Zion,IL",2018-11-07,39.1,67.0,0.0,17.9,Overcast
-"Addison,IL",2018-11-08,34.6,69.0,0.0,11.9,Partly cloudy
-"Albany,IL",2018-11-08,35.1,68.0,0.0,11.0,Partly cloudy
-"Alden,IL",2018-11-08,32.8,70.0,0.0,13.4,Partly cloudy
-"Algonquin,IL",2018-11-08,32.4,72.0,0.0,11.9,Partly cloudy
-"Alsip,IL",2018-11-08,35.5,67.0,0.0,11.0,Partly cloudy
-"Amboy,IL",2018-11-08,62.4,70.0,0.16,8.3,Patchy rain possible
-"Ancona,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Antioch,IL",2018-11-08,32.4,68.0,0.0,9.8,Partly cloudy
-"Arlington Heights,IL",2018-11-08,34.2,68.0,0.0,7.4,Partly cloudy
-"Aroma Park,IL",2018-11-08,33.7,73.0,0.0,11.0,Partly cloudy
-"Ashton,IL",2018-11-08,33.3,72.0,0.0,13.0,Partly cloudy
-"Aurora,IL",2018-11-08,33.3,74.0,0.0,11.9,Partly cloudy
-"Baileyville,IL",2018-11-08,33.3,69.0,0.0,12.8,Partly cloudy
-"Barrington,IL",2018-11-08,33.3,68.0,0.0,11.9,Partly cloudy
-"Bartlett,IL",2018-11-08,33.7,68.0,0.0,11.9,Partly cloudy
-"Bedford Park,IL",2018-11-08,35.1,66.0,0.0,11.9,Partly cloudy
-"Beecher,IL",2018-11-08,34.2,73.0,0.0,6.5,Partly cloudy
-"Bellwood,IL",2018-11-08,35.5,70.0,0.0,11.9,Partly cloudy
-"Belvidere,IL",2018-11-08,33.3,69.0,0.0,11.0,Partly cloudy
-"Bensenville,IL",2018-11-08,34.6,69.0,0.0,11.9,Partly cloudy
-"Berkeley,IL",2018-11-08,35.5,70.0,0.0,11.9,Partly cloudy
-"Berwyn,IL",2018-11-08,34.2,68.0,0.0,7.4,Partly cloudy
-"Big Rock,IL",2018-11-08,35.1,72.0,0.0,13.2,Partly cloudy
-"Blackstone,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Bloomingdale,IL",2018-11-08,34.2,70.0,0.0,11.9,Partly cloudy
-"Blue Island,IL",2018-11-08,35.5,67.0,0.0,11.0,Partly cloudy
-"Bolingbrook,IL",2018-11-08,34.2,74.0,0.0,11.0,Partly cloudy
-"Bonfield,IL",2018-11-08,34.6,73.0,0.0,7.4,Partly cloudy
-"Bourbonnais,IL",2018-11-08,33.7,73.0,0.0,11.0,Partly cloudy
-"Braceville,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Bradley,IL",2018-11-08,33.7,73.0,0.0,11.0,Partly cloudy
-"Braidwood,IL",2018-11-08,34.2,69.0,0.0,9.8,Partly cloudy
-"Bridgeview,IL",2018-11-08,35.1,66.0,0.0,11.9,Partly cloudy
-"Bristol,IL",2018-11-08,51.9,75.0,0.01,19.2,Patchy rain possible
-"Broadview,IL",2018-11-08,34.2,68.0,0.0,7.4,Partly cloudy
-"Brookfield,IL",2018-11-08,34.2,68.0,0.0,7.4,Partly cloudy
-"Buckingham,IL",2018-11-08,34.6,73.0,0.0,7.4,Partly cloudy
-"Buffalo Grove,IL",2018-11-08,35.1,65.0,0.0,8.9,Partly cloudy
-"Burbank,IL",2018-11-08,35.5,67.0,0.0,11.0,Partly cloudy
-"Burlington,IL",2018-11-08,81.5,73.0,0.0,11.0,Partly cloudy
-"Byron,IL",2018-11-08,33.7,67.0,0.0,13.0,Partly cloudy
-"Cabery,IL",2018-11-08,34.6,73.0,0.0,7.4,Partly cloudy
-"Caledonia,IL",2018-11-08,33.3,65.0,0.0,11.0,Partly cloudy
-"Calumet City,IL",2018-11-08,36.0,68.0,0.0,11.0,Partly cloudy
-"Campus,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Capron,IL",2018-11-08,32.8,70.0,0.0,13.4,Partly cloudy
-"Carol Stream,IL",2018-11-08,34.2,70.0,0.0,11.9,Partly cloudy
-"Carpentersville,IL",2018-11-08,32.4,72.0,0.0,11.9,Partly cloudy
-"Cary,IL",2018-11-08,33.3,68.0,0.0,8.9,Partly cloudy
-"Cedarville,IL",2018-11-08,32.8,67.0,0.0,13.0,Partly cloudy
-"Chana,IL",2018-11-08,91.2,12.0,0.0,3.1,Sunny
-"Channahon,IL",2018-11-08,34.2,73.0,0.0,9.8,Partly cloudy
-"Cherry Valley,IL",2018-11-08,33.3,68.0,0.0,11.0,Partly cloudy
-"Chicago Heights,IL",2018-11-08,34.2,73.0,0.0,6.9,Partly cloudy
-"Chicago Ridge,IL",2018-11-08,35.5,67.0,0.0,11.0,Partly cloudy
-"Chicago,IL",2018-11-08,36.0,64.0,0.0,10.3,Partly cloudy
-"Cicero,IL",2018-11-08,34.6,66.0,0.0,11.9,Partly cloudy
-"Clare,IL",2018-11-08,45.6,89.0,0.0,11.6,Partly cloudy
-"Clarendon Hills,IL",2018-11-08,33.7,71.0,0.0,11.0,Partly cloudy
-"Coal City,IL",2018-11-08,34.2,69.0,0.0,9.8,Partly cloudy
-"Compton,IL",2018-11-08,35.5,68.0,0.0,11.9,Partly cloudy
-"Cornell,IL",2018-11-08,34.6,73.0,0.0,11.9,Partly cloudy
-"Cortland,IL",2018-11-08,33.7,71.0,0.0,13.4,Partly cloudy
-"Country Club Hills,IL",2018-11-08,34.2,73.0,0.0,6.9,Partly cloudy
-"Crest Hill,IL",2018-11-08,34.6,73.0,0.0,9.8,Partly cloudy
-"Creston,IL",2018-11-08,33.3,72.0,0.0,13.0,Partly cloudy
-"Crete,IL",2018-11-08,34.2,73.0,0.0,6.5,Partly cloudy
-"Crystal Lake,IL",2018-11-08,32.8,70.0,0.0,9.2,Partly cloudy
-"Dakota,IL",2018-11-08,32.8,67.0,0.0,13.0,Partly cloudy
-"Dana,IL",2018-11-08,67.9,34.0,0.0,5.4,Sunny
-"Darien,IL",2018-11-08,34.6,72.0,0.0,6.7,Partly cloudy
-"Davis Junction,IL",2018-11-08,34.2,66.0,0.0,13.2,Partly cloudy
-"Davis,IL",2018-11-08,32.4,63.0,0.0,9.6,Partly cloudy
-"Deer Grove,IL",2018-11-08,33.3,67.0,0.0,9.8,Cloudy
-"Deerfield,IL",2018-11-08,34.6,64.0,0.0,9.8,Partly cloudy
-"Dekalb,IL",2018-11-08,33.7,71.0,0.0,13.4,Partly cloudy
-"Des Plaines,IL",2018-11-08,34.6,68.0,0.0,11.0,Partly cloudy
-"Dixon,IL",2018-11-08,33.3,70.0,0.0,9.8,Partly cloudy
-"Dolton,IL",2018-11-08,36.0,68.0,0.0,11.0,Partly cloudy
-"Downers Grove,IL",2018-11-08,33.7,71.0,0.0,11.0,Partly cloudy
-"Dundee,IL",2018-11-08,45.6,86.0,0.01,13.9,Overcast
-"Durand,IL",2018-11-08,82.0,79.0,0.13,10.3,Patchy rain possible
-"Dwight,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Earlville,IL",2018-11-08,35.1,68.0,0.0,11.9,Partly cloudy
-"Elburn,IL",2018-11-08,35.1,72.0,0.0,13.2,Partly cloudy
-"Eldena,IL",2018-11-08,33.3,69.0,0.0,9.8,Partly cloudy
-"Eleroy,IL",2018-11-08,33.3,64.0,0.0,12.8,Partly cloudy
-"Elgin,IL",2018-11-08,33.7,67.0,0.0,11.9,Partly cloudy
-"Elk Grove Village,IL",2018-11-08,34.6,69.0,0.0,11.9,Partly cloudy
-"Elmhurst,IL",2018-11-08,35.5,70.0,0.0,11.9,Partly cloudy
-"Elmwood Park,IL",2018-11-08,35.1,68.0,0.0,11.0,Partly cloudy
-"Elwood,IL",2018-11-08,34.2,73.0,0.0,9.8,Partly cloudy
-"Emington,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Eola,IL",2018-11-08,33.7,73.0,0.0,11.0,Partly cloudy
-"Erie,IL",2018-11-08,33.3,67.0,0.0,8.9,Cloudy
-"Esmond,IL",2018-11-08,33.3,72.0,0.0,13.0,Partly cloudy
-"Essex,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Evanston,IL",2018-11-08,34.6,64.0,0.0,7.6,Partly cloudy
-"Evergreen Park,IL",2018-11-08,35.5,67.0,0.0,11.0,Partly cloudy
-"Fenton,IL",2018-11-08,33.3,67.0,0.0,8.9,Cloudy
-"Flanagan,IL",2018-11-08,34.6,73.0,0.0,11.9,Partly cloudy
-"Flossmoor,IL",2018-11-08,34.2,73.0,0.0,6.9,Partly cloudy
-"Forest Park,IL",2018-11-08,35.1,68.0,0.0,11.0,Partly cloudy
-"Forrest,IL",2018-11-08,35.5,75.0,0.0,11.9,Partly cloudy
-"Forreston,IL",2018-11-08,33.3,69.0,0.0,12.8,Partly cloudy
-"Fort Sheridan,IL",2018-11-08,34.6,64.0,0.0,9.8,Partly cloudy
-"Fox Lake,IL",2018-11-08,32.8,68.0,0.0,8.9,Partly cloudy
-"Fox River Grove,IL",2018-11-08,33.3,68.0,0.0,8.9,Partly cloudy
-"Fox Valley,IL",2018-11-08,33.3,74.0,0.0,11.9,Partly cloudy
-"Frankfort,IL",2018-11-08,34.2,74.0,0.0,6.5,Partly cloudy
-"Franklin Grove,IL",2018-11-08,33.3,69.0,0.0,9.8,Partly cloudy
-"Franklin Park,IL",2018-11-08,35.1,68.0,0.0,11.0,Partly cloudy
-"Freeport,IL",2018-11-08,32.8,67.0,0.0,13.0,Partly cloudy
-"Fulton,IL",2018-11-08,35.1,68.0,0.0,11.0,Partly cloudy
-"Galt,IL",2018-11-08,33.3,70.0,0.0,8.5,Cloudy
-"Garden Prairie,IL",2018-11-08,33.3,69.0,0.0,11.0,Partly cloudy
-"Gardner,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Genoa,IL",2018-11-08,33.7,70.0,0.0,13.6,Partly cloudy
-"German Valley,IL",2018-11-08,33.3,69.0,0.0,12.8,Partly cloudy
-"Gilberts,IL",2018-11-08,32.4,72.0,0.0,11.9,Partly cloudy
-"Glen Ellyn,IL",2018-11-08,33.7,72.0,0.0,11.9,Partly cloudy
-"Glencoe,IL",2018-11-08,34.2,68.0,0.0,11.9,Partly cloudy
-"Glendale Heights,IL",2018-11-08,34.2,70.0,0.0,11.9,Partly cloudy
-"Glenview,IL",2018-11-08,34.2,68.0,0.0,11.9,Partly cloudy
-"Glenwood,IL",2018-11-08,34.2,73.0,0.0,6.9,Partly cloudy
-"Golf,IL",2018-11-08,34.2,68.0,0.0,11.9,Partly cloudy
-"Grand Ridge,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Grant Park,IL",2018-11-08,34.2,71.0,0.0,11.0,Partly cloudy
-"Grayslake,IL",2018-11-08,33.7,67.0,0.0,11.0,Partly cloudy
-"Great Lakes,IL",2018-11-08,34.6,66.0,0.0,9.8,Partly cloudy
-"Gurnee,IL",2018-11-08,33.7,65.0,0.0,11.0,Partly cloudy
-"Hampshire,IL",2018-11-08,34.6,71.0,0.0,13.6,Partly cloudy
-"Hanover Park,IL",2018-11-08,33.7,68.0,0.0,11.9,Partly cloudy
-"Harmon,IL",2018-11-08,33.3,70.0,0.0,8.5,Cloudy
-"Harvard,IL",2018-11-08,32.8,70.0,0.0,13.4,Partly cloudy
-"Harvey,IL",2018-11-08,34.2,73.0,0.0,6.9,Partly cloudy
-"Harwood Heights,IL",2018-11-08,34.2,67.0,0.0,11.0,Partly cloudy
-"Hazel Crest,IL",2018-11-08,34.2,73.0,0.0,6.9,Partly cloudy
-"Hebron,IL",2018-11-08,33.7,69.0,0.0,13.2,Partly cloudy
-"Herscher,IL",2018-11-08,34.6,73.0,0.0,7.4,Partly cloudy
-"Hickory Hills,IL",2018-11-08,34.6,72.0,0.0,6.7,Partly cloudy
-"Highland Park,IL",2018-11-08,34.6,64.0,0.0,9.8,Partly cloudy
-"Highwood,IL",2018-11-08,34.6,64.0,0.0,9.8,Partly cloudy
-"Hillside,IL",2018-11-08,35.5,70.0,0.0,11.9,Partly cloudy
-"Hinckley,IL",2018-11-08,33.7,72.0,0.0,11.9,Partly cloudy
-"Hines,IL",2018-11-08,34.2,68.0,0.0,7.4,Partly cloudy
-"Hinsdale,IL",2018-11-08,33.7,71.0,0.0,11.0,Partly cloudy
-"Hoffman Estates,IL",2018-11-08,33.7,69.0,0.0,11.0,Partly cloudy
-"Holcomb,IL",2018-11-08,33.3,72.0,0.0,13.0,Partly cloudy
-"Homer Glen,IL",2018-11-08,34.2,76.0,0.0,6.5,Partly cloudy
-"Hometown,IL",2018-11-08,35.5,67.0,0.0,11.0,Partly cloudy
-"Homewood,IL",2018-11-08,34.2,73.0,0.0,6.9,Partly cloudy
-"Hooppole,IL",2018-11-08,33.3,68.0,0.0,8.9,Cloudy
-"Hopkins Park,IL",2018-11-08,34.2,71.0,0.0,11.0,Partly cloudy
-"Huntley,IL",2018-11-08,32.4,72.0,0.0,11.9,Partly cloudy
-"Ingleside,IL",2018-11-08,33.7,67.0,0.0,11.0,Partly cloudy
-"Island Lake,IL",2018-11-08,33.3,68.0,0.0,8.9,Partly cloudy
-"Itasca,IL",2018-11-08,33.7,69.0,0.0,11.0,Partly cloudy
-"Joliet,IL",2018-11-08,34.6,73.0,0.0,9.8,Partly cloudy
-"Justice,IL",2018-11-08,34.6,72.0,0.0,6.7,Partly cloudy
-"Kaneville,IL",2018-11-08,35.1,72.0,0.0,13.2,Partly cloudy
-"Kankakee,IL",2018-11-08,33.7,73.0,0.0,11.0,Partly cloudy
-"Kempton,IL",2018-11-08,34.6,73.0,0.0,7.4,Partly cloudy
-"Kenilworth,IL",2018-11-08,34.6,64.0,0.0,7.6,Partly cloudy
-"Kent,IL",2018-11-08,33.3,64.0,0.0,12.8,Partly cloudy
-"Kingston,IL",2018-11-08,33.7,70.0,0.0,13.6,Partly cloudy
-"Kinsman,IL",2018-11-08,35.1,67.0,0.0,11.0,Partly cloudy
-"Kirkland,IL",2018-11-08,33.7,70.0,0.0,13.6,Partly cloudy
-"La Grange Park,IL",2018-11-08,34.2,68.0,0.0,7.4,Partly cloudy
-"La Grange,IL",2018-11-08,34.6,72.0,0.0,6.7,Partly cloudy
-"Lafox,IL",2018-11-08,54.7,75.0,0.0,12.8,Partly cloudy
-"Lake Bluff,IL",2018-11-08,34.6,66.0,0.0,9.8,Partly cloudy
-"Lake Forest,IL",2018-11-08,34.6,64.0,0.0,9.8,Partly cloudy
-"Lake In The Hills,IL",2018-11-08,32.4,72.0,0.0,11.9,Partly cloudy
-"Lake Villa,IL",2018-11-08,33.7,67.0,0.0,11.0,Partly cloudy
-"Lake Zurich,IL",2018-11-08,33.3,68.0,0.0,11.9,Partly cloudy
-"Lanark,IL",2018-11-08,33.3,67.0,0.0,12.3,Partly cloudy
-"Lansing,IL",2018-11-08,36.4,69.0,0.0,9.8,Partly cloudy
-"Leaf River,IL",2018-11-08,32.4,74.0,0.0,13.0,Partly cloudy
-"Lee Center,IL",2018-11-08,33.3,69.0,0.0,9.8,Partly cloudy
-"Lee,IL",2018-11-08,33.3,72.0,0.0,13.0,Partly cloudy
-"Leland,IL",2018-11-08,35.1,68.0,0.0,11.9,Partly cloudy
-"Lemont,IL",2018-11-08,34.2,74.0,0.0,11.0,Partly cloudy
-"Lena,IL",2018-11-08,33.3,64.0,0.0,12.8,Partly cloudy
-"Leonore,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Libertyville,IL",2018-11-08,34.6,66.0,0.0,9.8,Partly cloudy
-"Lincolnshire,IL",2018-11-08,35.1,65.0,0.0,8.9,Partly cloudy
-"Lincolnwood,IL",2018-11-08,34.6,65.0,0.0,7.2,Partly cloudy
-"Lindenwood,IL",2018-11-08,33.3,72.0,0.0,13.0,Partly cloudy
-"Lisle,IL",2018-11-08,33.7,73.0,0.0,11.0,Partly cloudy
-"Lockport,IL",2018-11-08,34.2,76.0,0.0,6.5,Partly cloudy
-"Lombard,IL",2018-11-08,33.7,70.0,0.0,11.0,Partly cloudy
-"Long Point,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Lostant,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Loves Park,IL",2018-11-08,33.3,65.0,0.0,11.0,Partly cloudy
-"Lyndon,IL",2018-11-08,33.3,68.0,0.0,8.9,Cloudy
-"Lyons,IL",2018-11-08,34.2,68.0,0.0,7.4,Partly cloudy
-"Machesney Park,IL",2018-11-08,33.3,65.0,0.0,11.0,Partly cloudy
-"Malta,IL",2018-11-08,69.4,65.0,0.0,12.8,Partly cloudy
-"Manhattan,IL",2018-11-08,33.7,74.0,0.0,6.9,Partly cloudy
-"Manteno,IL",2018-11-08,34.6,75.0,0.0,11.0,Partly cloudy
-"Maple Park,IL",2018-11-08,33.7,71.0,0.0,13.4,Partly cloudy
-"Marengo,IL",2018-11-08,33.7,70.0,0.0,13.6,Partly cloudy
-"Markham,IL",2018-11-08,34.2,73.0,0.0,6.9,Partly cloudy
-"Matteson,IL",2018-11-08,34.2,73.0,0.0,6.9,Partly cloudy
-"Maywood,IL",2018-11-08,35.1,68.0,0.0,11.0,Partly cloudy
-"Mazon,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Mc Connell,IL",2018-11-08,33.3,64.0,0.0,12.8,Partly cloudy
-"Mchenry,IL",2018-11-08,32.8,68.0,0.0,8.9,Partly cloudy
-"Medinah,IL",2018-11-08,33.7,69.0,0.0,11.0,Partly cloudy
-"Melrose Park,IL",2018-11-08,35.1,68.0,0.0,11.0,Partly cloudy
-"Mendota,IL",2018-11-08,35.5,68.0,0.0,11.9,Partly cloudy
-"Midlothian,IL",2018-11-08,34.2,74.0,0.0,6.5,Partly cloudy
-"Milledgeville,IL",2018-11-08,32.8,71.0,0.0,13.0,Partly cloudy
-"Minonk,IL",2018-11-08,33.3,70.0,0.0,9.8,Partly cloudy
-"Minooka,IL",2018-11-08,34.2,73.0,0.0,9.8,Partly cloudy
-"Mokena,IL",2018-11-08,33.7,74.0,0.0,6.9,Partly cloudy
-"Momence,IL",2018-11-08,34.2,71.0,0.0,11.0,Partly cloudy
-"Monee,IL",2018-11-08,34.6,75.0,0.0,11.0,Partly cloudy
-"Monroe Center,IL",2018-11-08,33.3,68.0,0.0,11.0,Partly cloudy
-"Montgomery,IL",2018-11-08,34.2,73.0,0.0,11.0,Partly cloudy
-"Mooseheart,IL",2018-11-08,33.3,74.0,0.0,11.9,Partly cloudy
-"Morris,IL",2018-11-08,34.6,71.0,0.0,7.8,Partly cloudy
-"Morrison,IL",2018-11-08,76.7,55.0,0.0,15.9,Partly cloudy
-"Morton Grove,IL",2018-11-08,34.6,65.0,0.0,7.2,Partly cloudy
-"Mount Morris,IL",2018-11-08,32.4,74.0,0.0,13.0,Partly cloudy
-"Mount Prospect,IL",2018-11-08,34.2,68.0,0.0,7.4,Partly cloudy
-"Mundelein,IL",2018-11-08,34.2,66.0,0.0,11.0,Partly cloudy
-"Nachusa,IL",2018-11-08,33.3,70.0,0.0,9.8,Partly cloudy
-"Naperville,IL",2018-11-08,33.7,73.0,0.0,11.0,Partly cloudy
-"New Lenox,IL",2018-11-08,33.7,74.0,0.0,6.9,Partly cloudy
-"Niles,IL",2018-11-08,34.2,67.0,0.0,11.0,Partly cloudy
-"Nora,IL",2018-11-08,66.3,61.0,0.0,7.2,Partly cloudy
-"North Aurora,IL",2018-11-08,33.3,74.0,0.0,11.9,Partly cloudy
-"North Chicago,IL",2018-11-08,34.6,66.0,0.0,9.8,Partly cloudy
-"Northbrook,IL",2018-11-08,34.2,68.0,0.0,11.9,Partly cloudy
-"Oak Brook,IL",2018-11-08,33.7,71.0,0.0,11.0,Partly cloudy
-"Oak Forest,IL",2018-11-08,34.2,74.0,0.0,6.5,Partly cloudy
-"Oak Lawn,IL",2018-11-08,35.5,67.0,0.0,11.0,Partly cloudy
-"Oak Park,IL",2018-11-08,35.1,68.0,0.0,11.0,Partly cloudy
-"Odell,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Ohio,IL",2018-11-08,33.3,67.0,0.0,9.8,Cloudy
-"Olympia Fields,IL",2018-11-08,34.2,73.0,0.0,6.9,Partly cloudy
-"Orangeville,IL",2018-11-08,31.9,63.0,0.0,11.0,Partly cloudy
-"Oregon,IL",2018-11-08,34.2,69.0,0.0,12.8,Partly cloudy
-"Orland Park,IL",2018-11-08,34.6,72.0,0.0,6.7,Partly cloudy
-"Oswego,IL",2018-11-08,34.2,73.0,0.0,11.0,Partly cloudy
-"Palatine,IL",2018-11-08,33.7,70.0,0.0,7.6,Partly cloudy
-"Palos Heights,IL",2018-11-08,35.5,67.0,0.0,11.0,Partly cloudy
-"Palos Hills,IL",2018-11-08,35.5,67.0,0.0,11.0,Partly cloudy
-"Palos Park,IL",2018-11-08,34.6,72.0,0.0,6.7,Partly cloudy
-"Park Forest,IL",2018-11-08,34.2,73.0,0.0,6.5,Partly cloudy
-"Park Ridge,IL",2018-11-08,34.2,67.0,0.0,11.0,Partly cloudy
-"Paw Paw,IL",2018-11-08,35.1,68.0,0.0,11.9,Partly cloudy
-"Pearl City,IL",2018-11-08,33.3,64.0,0.0,12.8,Partly cloudy
-"Pecatonica,IL",2018-11-08,33.7,67.0,0.0,13.0,Partly cloudy
-"Pembroke Township,IL",2018-11-08,47.3,91.0,2.1,12.3,Heavy rain
-"Peotone,IL",2018-11-08,34.6,75.0,0.0,11.0,Partly cloudy
-"Plainfield,IL",2018-11-08,34.6,73.0,0.0,9.8,Partly cloudy
-"Plano,IL",2018-11-08,36.0,70.0,0.0,13.0,Partly cloudy
-"Polo,IL",2018-11-08,32.8,71.0,0.0,13.0,Partly cloudy
-"Pontiac,IL",2018-11-08,34.6,73.0,0.0,11.9,Partly cloudy
-"Poplar Grove,IL",2018-11-08,33.3,69.0,0.0,11.0,Partly cloudy
-"Posen,IL",2018-11-08,51.7,84.0,0.0,6.7,Partly cloudy
-"Prophetstown,IL",2018-11-08,33.3,68.0,0.0,8.9,Cloudy
-"Prospect Heights,IL",2018-11-08,34.2,68.0,0.0,7.4,Partly cloudy
-"Ransom,IL",2018-11-08,35.1,67.0,0.0,11.0,Partly cloudy
-"Reddick,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Richmond,IL",2018-11-08,54.6,70.0,0.01,32.0,Overcast
-"Richton Park,IL",2018-11-08,34.2,73.0,0.0,6.9,Partly cloudy
-"Ridott,IL",2018-11-08,32.8,67.0,0.0,13.0,Partly cloudy
-"Ringwood,IL",2018-11-08,32.8,68.0,0.0,8.9,Partly cloudy
-"River Forest,IL",2018-11-08,35.1,68.0,0.0,11.0,Partly cloudy
-"River Grove,IL",2018-11-08,35.1,68.0,0.0,11.0,Partly cloudy
-"Riverdale,IL",2018-11-08,36.0,68.0,0.0,11.0,Partly cloudy
-"Riverside,IL",2018-11-08,34.2,68.0,0.0,7.4,Partly cloudy
-"Robbins,IL",2018-11-08,35.5,67.0,0.0,11.0,Partly cloudy
-"Rochelle,IL",2018-11-08,33.3,72.0,0.0,13.0,Partly cloudy
-"Rock City,IL",2018-11-08,32.8,67.0,0.0,13.0,Partly cloudy
-"Rock Falls,IL",2018-11-08,33.3,70.0,0.0,8.5,Cloudy
-"Rockford,IL",2018-11-08,34.2,66.0,0.0,13.2,Partly cloudy
-"Rockton,IL",2018-11-08,33.7,66.0,0.0,9.8,Partly cloudy
-"Rolling Meadows,IL",2018-11-08,34.2,68.0,0.0,7.4,Partly cloudy
-"Romeoville,IL",2018-11-08,34.2,74.0,0.0,11.0,Partly cloudy
-"Roscoe,IL",2018-11-08,33.3,65.0,0.0,11.0,Partly cloudy
-"Roselle,IL",2018-11-08,33.7,69.0,0.0,11.0,Partly cloudy
-"Round Lake,IL",2018-11-08,33.7,67.0,0.0,11.0,Partly cloudy
-"Russell,IL",2018-11-08,33.7,65.0,0.0,11.0,Partly cloudy
-"Rutland,IL",2018-11-08,33.3,70.0,0.0,9.8,Partly cloudy
-"Saint Anne,IL",2018-11-08,56.0,70.0,0.0,30.6,Cloudy
-"Saint Charles,IL",2018-11-08,33.3,69.0,0.0,11.9,Partly cloudy
-"Sandwich,IL",2018-11-08,36.0,70.0,0.0,13.0,Partly cloudy
-"Saunemin,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Scales Mound,IL",2018-11-08,31.5,65.0,0.0,7.8,Partly cloudy
-"Schaumburg,IL",2018-11-08,33.7,69.0,0.0,11.0,Partly cloudy
-"Schiller Park,IL",2018-11-08,34.6,69.0,0.0,11.9,Partly cloudy
-"Seneca,IL",2018-11-08,35.1,67.0,0.0,11.0,Partly cloudy
-"Seward,IL",2018-11-08,33.7,67.0,0.0,13.0,Partly cloudy
-"Shabbona,IL",2018-11-08,33.7,71.0,0.0,11.9,Partly cloudy
-"Shannon,IL",2018-11-08,33.3,67.0,0.0,12.3,Partly cloudy
-"Shirland,IL",2018-11-08,33.7,66.0,0.0,9.8,Partly cloudy
-"Shorewood,IL",2018-11-08,34.6,73.0,0.0,9.8,Partly cloudy
-"Skokie,IL",2018-11-08,34.6,65.0,0.0,7.2,Partly cloudy
-"Somonauk,IL",2018-11-08,33.7,71.0,0.0,11.9,Partly cloudy
-"South Elgin,IL",2018-11-08,33.7,67.0,0.0,11.9,Partly cloudy
-"South Holland,IL",2018-11-08,36.0,68.0,0.0,11.0,Partly cloudy
-"South Wilmington,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Spring Grove,IL",2018-11-08,60.3,93.0,0.2,13.9,Light rain
-"Springfield,IL",2018-11-08,36.9,73.0,0.0,9.8,Cloudy
-"Steger,IL",2018-11-08,34.2,73.0,0.0,6.5,Partly cloudy
-"Sterling,IL",2018-11-08,33.3,70.0,0.0,8.5,Cloudy
-"Steward,IL",2018-11-08,33.3,72.0,0.0,13.0,Partly cloudy
-"Stillman Valley,IL",2018-11-08,33.7,67.0,0.0,13.0,Partly cloudy
-"Stockton,IL",2018-11-08,33.7,64.0,0.0,12.3,Partly cloudy
-"Stone Park,IL",2018-11-08,35.5,70.0,0.0,11.9,Partly cloudy
-"Streamwood,IL",2018-11-08,33.7,68.0,0.0,11.9,Partly cloudy
-"Streator,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Sublette,IL",2018-11-08,33.3,69.0,0.0,9.8,Partly cloudy
-"Sugar Grove,IL",2018-11-08,35.1,72.0,0.0,13.2,Partly cloudy
-"Summit Argo,IL",2018-11-08,35.1,66.0,0.0,11.9,Partly cloudy
-"Sycamore,IL",2018-11-08,33.7,71.0,0.0,13.4,Partly cloudy
-"Tampico,IL",2018-11-08,75.6,78.0,0.01,10.3,Patchy rain possible
-"Techny,IL",2018-11-08,34.2,68.0,0.0,11.9,Partly cloudy
-"Thornton,IL",2018-11-08,34.2,73.0,0.0,6.9,Partly cloudy
-"Tinley Park,IL",2018-11-08,34.2,74.0,0.0,6.5,Partly cloudy
-"Toluca,IL",2018-11-08,33.3,70.0,0.0,9.8,Partly cloudy
-"Tonica,IL",2018-11-08,35.1,67.0,0.0,9.8,Partly cloudy
-"Union Hill,IL",2018-11-08,34.6,73.0,0.0,7.4,Partly cloudy
-"Union,IL",2018-11-08,33.7,70.0,0.0,13.6,Partly cloudy
-"University Park,IL",2018-11-08,34.2,73.0,0.0,6.5,Partly cloudy
-"Van Orin,IL",2018-11-08,33.3,67.0,0.0,9.8,Cloudy
-"Vernon Hills,IL",2018-11-08,34.2,66.0,0.0,11.0,Partly cloudy
-"Verona,IL",2018-11-08,34.6,71.0,0.0,11.0,Partly cloudy
-"Villa Park,IL",2018-11-08,33.7,70.0,0.0,11.0,Partly cloudy
-"Wadsworth,IL",2018-11-08,33.7,65.0,0.0,11.0,Partly cloudy
-"Walnut,IL",2018-11-08,33.3,67.0,0.0,9.8,Cloudy
-"Warren,IL",2018-11-08,33.7,64.0,0.0,12.5,Partly cloudy
-"Warrenville,IL",2018-11-08,33.7,73.0,0.0,11.0,Partly cloudy
-"Wasco,IL",2018-11-08,33.3,69.0,0.0,11.9,Partly cloudy
-"Waterman,IL",2018-11-08,33.7,72.0,0.0,11.9,Partly cloudy
-"Wauconda,IL",2018-11-08,33.3,68.0,0.0,11.9,Partly cloudy
-"Waukegan,IL",2018-11-08,33.7,65.0,0.0,11.0,Partly cloudy
-"Wayne,IL",2018-11-08,33.3,69.0,0.0,11.9,Partly cloudy
-"Wenona,IL",2018-11-08,33.3,70.0,0.0,9.8,Partly cloudy
-"West Brooklyn,IL",2018-11-08,33.3,69.0,0.0,9.8,Partly cloudy
-"West Chicago,IL",2018-11-08,33.3,69.0,0.0,11.9,Partly cloudy
-"Westchester,IL",2018-11-08,35.5,70.0,0.0,11.9,Partly cloudy
-"Western Springs,IL",2018-11-08,34.6,72.0,0.0,6.7,Partly cloudy
-"Westmont,IL",2018-11-08,33.7,71.0,0.0,11.0,Partly cloudy
-"Wheaton,IL",2018-11-08,33.7,72.0,0.0,11.9,Partly cloudy
-"Wheeling,IL",2018-11-08,35.1,65.0,0.0,8.9,Partly cloudy
-"Willow Springs,IL",2018-11-08,34.6,72.0,0.0,6.7,Partly cloudy
-"Willowbrook,IL",2018-11-08,34.6,72.0,0.0,6.7,Partly cloudy
-"Wilmette,IL",2018-11-08,34.6,64.0,0.0,7.6,Partly cloudy
-"Wilmington,IL",2018-11-08,34.2,69.0,0.0,9.8,Partly cloudy
-"Winfield,IL",2018-11-08,33.7,72.0,0.0,11.9,Partly cloudy
-"Winnebago,IL",2018-11-08,34.2,66.0,0.0,13.2,Partly cloudy
-"Winslow,IL",2018-11-08,33.3,64.0,0.0,12.8,Partly cloudy
-"Winthrop Harbor,IL",2018-11-08,33.7,65.0,0.0,11.0,Partly cloudy
-"Wonder Lake,IL",2018-11-08,32.8,68.0,0.0,8.9,Partly cloudy
-"Wood Dale,IL",2018-11-08,34.6,69.0,0.0,11.9,Partly cloudy
-"Woodridge,IL",2018-11-08,34.2,74.0,0.0,11.0,Partly cloudy
-"Woodstock,IL",2018-11-08,33.7,70.0,0.0,13.6,Partly cloudy
-"Woosung,IL",2018-11-08,33.3,70.0,0.0,9.8,Partly cloudy
-"Worth,IL",2018-11-08,35.5,67.0,0.0,11.0,Partly cloudy
-"Yorkville,IL",2018-11-08,36.0,70.0,0.0,13.0,Partly cloudy
-"Zion,IL",2018-11-08,33.7,65.0,0.0,11.0,Partly cloudy
-"Addison,IL",2018-11-09,30.1,62.0,0.29,14.3,Heavy snow
-"Albany,IL",2018-11-09,27.9,60.0,0.08,15.9,Blowing snow
-"Alden,IL",2018-11-09,26.5,63.0,0.38,11.9,Heavy snow
-"Algonquin,IL",2018-11-09,28.8,66.0,0.3,13.0,Heavy snow
-"Alsip,IL",2018-11-09,31.9,61.0,0.18,14.5,Heavy snow
-"Amboy,IL",2018-11-09,61.8,70.0,0.11,9.6,Patchy rain possible
-"Ancona,IL",2018-11-09,32.4,69.0,0.28,15.9,Heavy snow
-"Antioch,IL",2018-11-09,27.9,64.0,0.28,14.3,Heavy snow
-"Arlington Heights,IL",2018-11-09,30.6,63.0,0.36,14.5,Heavy snow
-"Aroma Park,IL",2018-11-09,31.5,66.0,0.09,13.9,Heavy snow
-"Ashton,IL",2018-11-09,27.9,62.0,0.17,15.9,Heavy snow
-"Aurora,IL",2018-11-09,30.1,68.0,0.19,13.2,Heavy snow
-"Baileyville,IL",2018-11-09,27.0,60.0,0.21,15.0,Moderate snow
-"Barrington,IL",2018-11-09,29.2,67.0,0.39,13.9,Heavy snow
-"Bartlett,IL",2018-11-09,29.2,61.0,0.35,13.0,Heavy snow
-"Bedford Park,IL",2018-11-09,30.6,60.0,0.1,15.0,Heavy snow
-"Beecher,IL",2018-11-09,31.5,70.0,0.21,13.9,Heavy snow
-"Bellwood,IL",2018-11-09,30.1,62.0,0.29,14.3,Heavy snow
-"Belvidere,IL",2018-11-09,28.3,58.0,0.35,13.6,Heavy snow
-"Bensenville,IL",2018-11-09,30.1,62.0,0.31,15.0,Heavy snow
-"Berkeley,IL",2018-11-09,30.1,62.0,0.29,14.3,Heavy snow
-"Berwyn,IL",2018-11-09,31.0,60.0,0.11,13.9,Heavy snow
-"Big Rock,IL",2018-11-09,30.1,70.0,0.26,16.1,Heavy snow
-"Blackstone,IL",2018-11-09,32.4,69.0,0.28,15.9,Heavy snow
-"Bloomingdale,IL",2018-11-09,30.6,67.0,0.14,13.0,Heavy snow
-"Blue Island,IL",2018-11-09,31.9,61.0,0.18,14.5,Heavy snow
-"Bolingbrook,IL",2018-11-09,29.7,66.0,0.24,13.9,Heavy snow
-"Bonfield,IL",2018-11-09,30.6,66.0,0.13,14.1,Heavy snow
-"Bourbonnais,IL",2018-11-09,31.5,66.0,0.09,13.9,Heavy snow
-"Braceville,IL",2018-11-09,31.9,70.0,0.15,14.1,Heavy snow
-"Bradley,IL",2018-11-09,31.5,66.0,0.09,13.9,Heavy snow
-"Braidwood,IL",2018-11-09,31.9,73.0,0.26,15.9,Heavy snow
-"Bridgeview,IL",2018-11-09,30.6,60.0,0.1,15.0,Heavy snow
-"Bristol,IL",2018-11-09,51.7,82.0,0.53,28.6,Patchy rain possible
-"Broadview,IL",2018-11-09,31.0,60.0,0.11,13.9,Heavy snow
-"Brookfield,IL",2018-11-09,31.0,60.0,0.11,13.9,Heavy snow
-"Buckingham,IL",2018-11-09,30.6,66.0,0.13,14.1,Heavy snow
-"Buffalo Grove,IL",2018-11-09,31.5,65.0,0.17,15.2,Heavy snow
-"Burbank,IL",2018-11-09,30.6,60.0,0.1,15.0,Heavy snow
-"Burlington,IL",2018-11-09,81.5,77.0,0.13,9.8,Light rain shower
-"Byron,IL",2018-11-09,27.4,58.0,0.11,13.0,Moderate snow
-"Cabery,IL",2018-11-09,30.6,66.0,0.13,14.1,Heavy snow
-"Caledonia,IL",2018-11-09,28.8,59.0,0.14,15.0,Heavy snow
-"Calumet City,IL",2018-11-09,32.4,62.0,0.08,14.5,Heavy snow
-"Campus,IL",2018-11-09,30.6,68.0,0.13,15.0,Heavy snow
-"Capron,IL",2018-11-09,26.5,63.0,0.38,11.9,Heavy snow
-"Carol Stream,IL",2018-11-09,30.6,67.0,0.14,13.0,Heavy snow
-"Carpentersville,IL",2018-11-09,28.8,66.0,0.3,13.0,Heavy snow
-"Cary,IL",2018-11-09,28.8,64.0,0.39,12.8,Heavy snow
-"Cedarville,IL",2018-11-09,27.4,60.0,0.17,15.9,Patchy moderate snow
-"Chana,IL",2018-11-09,89.2,12.0,0.0,5.1,Partly cloudy
-"Channahon,IL",2018-11-09,32.4,68.0,0.26,15.4,Heavy snow
-"Cherry Valley,IL",2018-11-09,28.3,58.0,0.15,13.6,Heavy snow
-"Chicago Heights,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Chicago Ridge,IL",2018-11-09,31.9,61.0,0.18,14.5,Heavy snow
-"Chicago,IL",2018-11-09,31.9,58.0,0.26,18.8,Heavy snow
-"Cicero,IL",2018-11-09,31.5,59.0,0.11,14.5,Heavy snow
-"Clare,IL",2018-11-09,48.7,89.0,0.82,24.4,Heavy rain at times
-"Clarendon Hills,IL",2018-11-09,29.7,63.0,0.13,13.9,Heavy snow
-"Coal City,IL",2018-11-09,31.9,73.0,0.26,15.9,Heavy snow
-"Compton,IL",2018-11-09,32.4,63.0,0.15,15.0,Heavy snow
-"Cornell,IL",2018-11-09,31.9,70.0,0.12,14.5,Heavy snow
-"Cortland,IL",2018-11-09,28.8,64.0,0.41,15.9,Heavy snow
-"Country Club Hills,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Crest Hill,IL",2018-11-09,32.4,68.0,0.28,15.2,Heavy snow
-"Creston,IL",2018-11-09,27.9,62.0,0.17,15.9,Heavy snow
-"Crete,IL",2018-11-09,31.5,70.0,0.21,13.9,Heavy snow
-"Crystal Lake,IL",2018-11-09,27.9,64.0,0.4,13.0,Heavy snow
-"Dakota,IL",2018-11-09,27.4,60.0,0.17,15.9,Patchy moderate snow
-"Dana,IL",2018-11-09,66.9,37.0,0.0,5.4,Partly cloudy
-"Darien,IL",2018-11-09,29.7,63.0,0.13,13.9,Heavy snow
-"Davis Junction,IL",2018-11-09,27.9,59.0,0.13,13.9,Heavy snow
-"Davis,IL",2018-11-09,27.0,52.0,0.05,11.9,Patchy moderate snow
-"Deer Grove,IL",2018-11-09,29.2,64.0,0.11,16.1,Moderate snow
-"Deerfield,IL",2018-11-09,30.6,58.0,0.26,13.9,Heavy snow
-"Dekalb,IL",2018-11-09,28.8,64.0,0.41,15.9,Heavy snow
-"Des Plaines,IL",2018-11-09,31.0,61.0,0.25,15.0,Heavy snow
-"Dixon,IL",2018-11-09,28.3,61.0,0.11,15.9,Moderate snow
-"Dolton,IL",2018-11-09,32.4,62.0,0.08,14.5,Heavy snow
-"Downers Grove,IL",2018-11-09,29.7,63.0,0.13,13.9,Heavy snow
-"Dundee,IL",2018-11-09,47.2,83.0,0.16,24.6,Light drizzle
-"Durand,IL",2018-11-09,82.0,81.0,0.24,11.4,Patchy rain possible
-"Dwight,IL",2018-11-09,30.6,68.0,0.13,15.0,Heavy snow
-"Earlville,IL",2018-11-09,32.4,64.0,0.14,15.7,Heavy snow
-"Elburn,IL",2018-11-09,30.1,70.0,0.26,16.1,Heavy snow
-"Eldena,IL",2018-11-09,29.7,65.0,0.12,15.9,Moderate snow
-"Eleroy,IL",2018-11-09,26.5,56.0,0.12,11.9,Patchy light snow
-"Elgin,IL",2018-11-09,29.7,65.0,0.39,13.6,Heavy snow
-"Elk Grove Village,IL",2018-11-09,30.1,62.0,0.31,15.0,Heavy snow
-"Elmhurst,IL",2018-11-09,30.1,62.0,0.29,14.3,Heavy snow
-"Elmwood Park,IL",2018-11-09,31.0,60.0,0.26,13.0,Heavy snow
-"Elwood,IL",2018-11-09,32.4,68.0,0.26,15.4,Heavy snow
-"Emington,IL",2018-11-09,30.6,68.0,0.13,15.0,Heavy snow
-"Eola,IL",2018-11-09,30.6,68.0,0.19,13.4,Heavy snow
-"Erie,IL",2018-11-09,29.7,60.0,0.19,15.2,Blowing snow
-"Esmond,IL",2018-11-09,27.9,62.0,0.17,15.9,Heavy snow
-"Essex,IL",2018-11-09,31.9,70.0,0.15,14.1,Heavy snow
-"Evanston,IL",2018-11-09,31.5,58.0,0.12,13.9,Heavy snow
-"Evergreen Park,IL",2018-11-09,31.9,61.0,0.18,14.5,Heavy snow
-"Fenton,IL",2018-11-09,29.7,60.0,0.19,15.2,Blowing snow
-"Flanagan,IL",2018-11-09,31.9,70.0,0.12,14.5,Heavy snow
-"Flossmoor,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Forest Park,IL",2018-11-09,31.0,60.0,0.26,13.0,Heavy snow
-"Forrest,IL",2018-11-09,31.9,66.0,0.1,14.8,Heavy snow
-"Forreston,IL",2018-11-09,27.0,60.0,0.21,15.0,Moderate snow
-"Fort Sheridan,IL",2018-11-09,30.6,58.0,0.26,13.9,Heavy snow
-"Fox Lake,IL",2018-11-09,28.3,63.0,0.23,14.1,Heavy snow
-"Fox River Grove,IL",2018-11-09,28.8,64.0,0.39,12.8,Heavy snow
-"Fox Valley,IL",2018-11-09,30.1,68.0,0.19,13.2,Heavy snow
-"Frankfort,IL",2018-11-09,30.6,68.0,0.1,13.9,Heavy snow
-"Franklin Grove,IL",2018-11-09,29.7,65.0,0.12,15.9,Moderate snow
-"Franklin Park,IL",2018-11-09,30.1,62.0,0.31,15.0,Heavy snow
-"Freeport,IL",2018-11-09,27.4,60.0,0.17,15.9,Patchy moderate snow
-"Fulton,IL",2018-11-09,27.9,60.0,0.08,15.9,Blowing snow
-"Galt,IL",2018-11-09,27.9,63.0,0.1,13.0,Light snow
-"Garden Prairie,IL",2018-11-09,28.3,58.0,0.35,13.6,Heavy snow
-"Gardner,IL",2018-11-09,31.9,70.0,0.15,14.1,Heavy snow
-"Genoa,IL",2018-11-09,28.8,63.0,0.21,13.6,Heavy snow
-"German Valley,IL",2018-11-09,27.0,60.0,0.21,15.0,Moderate snow
-"Gilberts,IL",2018-11-09,28.8,66.0,0.3,13.0,Heavy snow
-"Glen Ellyn,IL",2018-11-09,30.6,67.0,0.34,13.4,Heavy snow
-"Glencoe,IL",2018-11-09,30.6,61.0,0.33,13.6,Heavy snow
-"Glendale Heights,IL",2018-11-09,30.6,67.0,0.14,13.0,Heavy snow
-"Glenview,IL",2018-11-09,30.6,61.0,0.33,13.6,Heavy snow
-"Glenwood,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Golf,IL",2018-11-09,30.6,61.0,0.33,13.6,Heavy snow
-"Grand Ridge,IL",2018-11-09,32.4,69.0,0.28,15.9,Heavy snow
-"Grant Park,IL",2018-11-09,31.0,64.0,0.09,13.9,Moderate snow
-"Grayslake,IL",2018-11-09,29.2,66.0,0.36,13.0,Heavy snow
-"Great Lakes,IL",2018-11-09,30.1,63.0,0.34,14.1,Heavy snow
-"Gurnee,IL",2018-11-09,29.7,65.0,0.29,14.8,Heavy snow
-"Hampshire,IL",2018-11-09,28.8,64.0,0.19,13.9,Heavy snow
-"Hanover Park,IL",2018-11-09,29.2,61.0,0.35,13.0,Heavy snow
-"Harmon,IL",2018-11-09,27.9,63.0,0.1,13.0,Light snow
-"Harvard,IL",2018-11-09,26.5,63.0,0.38,11.9,Heavy snow
-"Harvey,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Harwood Heights,IL",2018-11-09,30.6,59.0,0.13,15.0,Heavy snow
-"Hazel Crest,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Hebron,IL",2018-11-09,27.4,69.0,0.3,14.3,Heavy snow
-"Herscher,IL",2018-11-09,30.6,66.0,0.13,14.1,Heavy snow
-"Hickory Hills,IL",2018-11-09,30.6,64.0,0.28,13.9,Heavy snow
-"Highland Park,IL",2018-11-09,30.6,58.0,0.26,13.9,Heavy snow
-"Highwood,IL",2018-11-09,30.6,58.0,0.26,13.9,Heavy snow
-"Hillside,IL",2018-11-09,30.1,62.0,0.29,14.3,Heavy snow
-"Hinckley,IL",2018-11-09,30.1,67.0,0.38,16.3,Heavy snow
-"Hines,IL",2018-11-09,31.0,60.0,0.11,13.9,Heavy snow
-"Hinsdale,IL",2018-11-09,29.7,63.0,0.13,13.9,Heavy snow
-"Hoffman Estates,IL",2018-11-09,29.2,61.0,0.35,12.3,Heavy snow
-"Holcomb,IL",2018-11-09,27.9,62.0,0.17,15.9,Heavy snow
-"Homer Glen,IL",2018-11-09,29.7,67.0,0.11,15.2,Heavy snow
-"Hometown,IL",2018-11-09,31.9,61.0,0.18,14.5,Heavy snow
-"Homewood,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Hooppole,IL",2018-11-09,29.7,61.0,0.21,15.2,Light snow
-"Hopkins Park,IL",2018-11-09,31.0,64.0,0.09,13.9,Moderate snow
-"Huntley,IL",2018-11-09,28.8,66.0,0.3,13.0,Heavy snow
-"Ingleside,IL",2018-11-09,29.2,66.0,0.36,13.0,Heavy snow
-"Island Lake,IL",2018-11-09,28.8,64.0,0.39,12.8,Heavy snow
-"Itasca,IL",2018-11-09,30.1,65.0,0.35,13.0,Heavy snow
-"Joliet,IL",2018-11-09,32.4,68.0,0.28,15.2,Heavy snow
-"Justice,IL",2018-11-09,30.6,64.0,0.28,13.9,Heavy snow
-"Kaneville,IL",2018-11-09,30.1,70.0,0.26,16.1,Heavy snow
-"Kankakee,IL",2018-11-09,31.5,66.0,0.09,13.9,Heavy snow
-"Kempton,IL",2018-11-09,30.6,66.0,0.13,14.1,Heavy snow
-"Kenilworth,IL",2018-11-09,31.5,58.0,0.12,13.9,Heavy snow
-"Kent,IL",2018-11-09,26.5,56.0,0.12,11.9,Patchy light snow
-"Kingston,IL",2018-11-09,28.8,63.0,0.21,13.6,Heavy snow
-"Kinsman,IL",2018-11-09,31.5,70.0,0.22,15.9,Heavy snow
-"Kirkland,IL",2018-11-09,28.8,63.0,0.21,13.6,Heavy snow
-"La Grange Park,IL",2018-11-09,31.0,60.0,0.11,13.9,Heavy snow
-"La Grange,IL",2018-11-09,30.6,64.0,0.28,13.9,Heavy snow
-"Lafox,IL",2018-11-09,55.1,83.0,0.05,9.6,Patchy light drizzle
-"Lake Bluff,IL",2018-11-09,30.6,58.0,0.26,13.9,Heavy snow
-"Lake Forest,IL",2018-11-09,30.6,58.0,0.26,13.9,Heavy snow
-"Lake In The Hills,IL",2018-11-09,28.8,66.0,0.3,13.0,Heavy snow
-"Lake Villa,IL",2018-11-09,29.2,66.0,0.36,13.0,Heavy snow
-"Lake Zurich,IL",2018-11-09,29.2,67.0,0.39,13.9,Heavy snow
-"Lanark,IL",2018-11-09,27.9,58.0,0.07,15.0,Patchy light snow
-"Lansing,IL",2018-11-09,31.9,60.0,0.16,13.6,Heavy snow
-"Leaf River,IL",2018-11-09,27.0,63.0,0.25,15.0,Moderate snow
-"Lee Center,IL",2018-11-09,29.7,65.0,0.12,15.9,Moderate snow
-"Lee,IL",2018-11-09,27.9,62.0,0.17,15.9,Heavy snow
-"Leland,IL",2018-11-09,32.4,64.0,0.14,15.7,Heavy snow
-"Lemont,IL",2018-11-09,29.7,66.0,0.24,13.9,Heavy snow
-"Lena,IL",2018-11-09,26.5,56.0,0.12,11.9,Patchy light snow
-"Leonore,IL",2018-11-09,32.4,69.0,0.28,15.9,Heavy snow
-"Libertyville,IL",2018-11-09,30.1,63.0,0.34,14.1,Heavy snow
-"Lincolnshire,IL",2018-11-09,31.5,65.0,0.17,15.2,Heavy snow
-"Lincolnwood,IL",2018-11-09,31.0,59.0,0.27,15.7,Heavy snow
-"Lindenwood,IL",2018-11-09,27.9,62.0,0.17,15.9,Heavy snow
-"Lisle,IL",2018-11-09,29.7,65.0,0.28,15.2,Heavy snow
-"Lockport,IL",2018-11-09,29.7,67.0,0.11,15.2,Heavy snow
-"Lombard,IL",2018-11-09,29.7,61.0,0.28,14.5,Heavy snow
-"Long Point,IL",2018-11-09,32.4,69.0,0.28,15.9,Heavy snow
-"Lostant,IL",2018-11-09,32.4,69.0,0.28,15.9,Heavy snow
-"Loves Park,IL",2018-11-09,28.8,59.0,0.14,15.0,Heavy snow
-"Lyndon,IL",2018-11-09,29.7,61.0,0.21,15.2,Light snow
-"Lyons,IL",2018-11-09,31.0,60.0,0.11,13.9,Heavy snow
-"Machesney Park,IL",2018-11-09,28.8,59.0,0.14,15.0,Heavy snow
-"Malta,IL",2018-11-09,69.0,63.0,0.01,10.3,Partly cloudy
-"Manhattan,IL",2018-11-09,30.1,67.0,0.13,13.9,Heavy snow
-"Manteno,IL",2018-11-09,31.0,66.0,0.09,13.0,Heavy snow
-"Maple Park,IL",2018-11-09,28.8,64.0,0.41,15.9,Heavy snow
-"Marengo,IL",2018-11-09,28.3,62.0,0.38,13.6,Heavy snow
-"Markham,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Matteson,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Maywood,IL",2018-11-09,31.0,60.0,0.26,13.0,Heavy snow
-"Mazon,IL",2018-11-09,31.9,70.0,0.15,14.1,Heavy snow
-"Mc Connell,IL",2018-11-09,26.5,56.0,0.12,11.9,Patchy light snow
-"Mchenry,IL",2018-11-09,28.3,63.0,0.23,14.1,Heavy snow
-"Medinah,IL",2018-11-09,30.1,65.0,0.35,13.0,Heavy snow
-"Melrose Park,IL",2018-11-09,31.0,60.0,0.26,13.0,Heavy snow
-"Mendota,IL",2018-11-09,32.4,63.0,0.15,15.0,Heavy snow
-"Midlothian,IL",2018-11-09,30.6,68.0,0.1,13.9,Heavy snow
-"Milledgeville,IL",2018-11-09,27.0,64.0,0.24,15.0,Moderate snow
-"Minonk,IL",2018-11-09,30.6,65.0,0.15,13.9,Heavy snow
-"Minooka,IL",2018-11-09,32.4,68.0,0.26,15.4,Heavy snow
-"Mokena,IL",2018-11-09,30.1,67.0,0.13,13.9,Heavy snow
-"Momence,IL",2018-11-09,31.0,64.0,0.09,13.9,Moderate snow
-"Monee,IL",2018-11-09,31.0,66.0,0.09,13.0,Heavy snow
-"Monroe Center,IL",2018-11-09,28.3,58.0,0.15,13.6,Heavy snow
-"Montgomery,IL",2018-11-09,30.6,67.0,0.2,15.9,Heavy snow
-"Mooseheart,IL",2018-11-09,30.1,68.0,0.19,13.2,Heavy snow
-"Morris,IL",2018-11-09,32.4,70.0,0.3,15.0,Heavy snow
-"Morrison,IL",2018-11-09,84.3,56.0,0.0,18.8,Thundery outbreaks possible
-"Morton Grove,IL",2018-11-09,31.0,59.0,0.27,15.7,Heavy snow
-"Mount Morris,IL",2018-11-09,27.0,63.0,0.25,15.0,Moderate snow
-"Mount Prospect,IL",2018-11-09,30.1,58.0,0.3,15.2,Heavy snow
-"Mundelein,IL",2018-11-09,30.1,63.0,0.39,16.1,Heavy snow
-"Nachusa,IL",2018-11-09,28.3,61.0,0.11,15.9,Moderate snow
-"Naperville,IL",2018-11-09,30.6,68.0,0.19,13.4,Heavy snow
-"New Lenox,IL",2018-11-09,30.1,67.0,0.13,13.9,Heavy snow
-"Niles,IL",2018-11-09,30.6,59.0,0.13,15.0,Heavy snow
-"Nora,IL",2018-11-09,64.8,64.0,0.37,4.7,Moderate or heavy rain shower
-"North Aurora,IL",2018-11-09,30.1,68.0,0.19,13.2,Heavy snow
-"North Chicago,IL",2018-11-09,30.1,63.0,0.34,14.1,Heavy snow
-"Northbrook,IL",2018-11-09,30.6,58.0,0.26,13.9,Heavy snow
-"Oak Brook,IL",2018-11-09,29.7,63.0,0.13,13.9,Heavy snow
-"Oak Forest,IL",2018-11-09,30.6,68.0,0.1,13.9,Heavy snow
-"Oak Lawn,IL",2018-11-09,31.9,61.0,0.18,14.5,Heavy snow
-"Oak Park,IL",2018-11-09,31.0,60.0,0.26,13.0,Heavy snow
-"Odell,IL",2018-11-09,30.6,68.0,0.13,15.0,Heavy snow
-"Ohio,IL",2018-11-09,29.2,64.0,0.11,16.1,Moderate snow
-"Olympia Fields,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Orangeville,IL",2018-11-09,25.2,55.0,0.13,16.8,Patchy light snow
-"Oregon,IL",2018-11-09,27.4,58.0,0.24,12.3,Moderate snow
-"Orland Park,IL",2018-11-09,30.6,64.0,0.17,13.9,Heavy snow
-"Oswego,IL",2018-11-09,30.6,67.0,0.2,15.9,Heavy snow
-"Palatine,IL",2018-11-09,30.6,65.0,0.2,12.3,Heavy snow
-"Palos Heights,IL",2018-11-09,31.9,61.0,0.18,14.5,Heavy snow
-"Palos Hills,IL",2018-11-09,31.9,61.0,0.18,14.5,Heavy snow
-"Palos Park,IL",2018-11-09,30.6,64.0,0.17,13.9,Heavy snow
-"Park Forest,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Park Ridge,IL",2018-11-09,30.6,59.0,0.13,15.0,Heavy snow
-"Paw Paw,IL",2018-11-09,32.4,64.0,0.14,15.7,Heavy snow
-"Pearl City,IL",2018-11-09,26.5,56.0,0.12,11.9,Patchy light snow
-"Pecatonica,IL",2018-11-09,27.4,58.0,0.11,13.0,Moderate snow
-"Pembroke Township,IL",2018-11-09,42.1,88.0,1.53,9.6,Moderate rain
-"Peotone,IL",2018-11-09,31.0,66.0,0.09,13.0,Heavy snow
-"Plainfield,IL",2018-11-09,32.4,68.0,0.28,15.2,Heavy snow
-"Plano,IL",2018-11-09,30.6,65.0,0.35,15.9,Heavy snow
-"Polo,IL",2018-11-09,27.0,64.0,0.24,15.0,Moderate snow
-"Pontiac,IL",2018-11-09,31.9,70.0,0.12,14.5,Heavy snow
-"Poplar Grove,IL",2018-11-09,28.3,58.0,0.35,13.6,Heavy snow
-"Posen,IL",2018-11-09,49.3,87.0,0.0,4.9,Partly cloudy
-"Prophetstown,IL",2018-11-09,29.7,61.0,0.21,15.2,Light snow
-"Prospect Heights,IL",2018-11-09,30.1,58.0,0.3,15.2,Heavy snow
-"Ransom,IL",2018-11-09,31.5,70.0,0.22,15.9,Heavy snow
-"Reddick,IL",2018-11-09,31.9,70.0,0.15,14.1,Heavy snow
-"Richmond,IL",2018-11-09,55.2,76.0,0.37,47.4,Moderate rain
-"Richton Park,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Ridott,IL",2018-11-09,27.4,60.0,0.17,15.9,Patchy moderate snow
-"Ringwood,IL",2018-11-09,28.3,63.0,0.23,14.1,Heavy snow
-"River Forest,IL",2018-11-09,31.0,60.0,0.26,13.0,Heavy snow
-"River Grove,IL",2018-11-09,31.0,60.0,0.26,13.0,Heavy snow
-"Riverdale,IL",2018-11-09,32.4,62.0,0.08,14.5,Heavy snow
-"Riverside,IL",2018-11-09,31.0,60.0,0.11,13.9,Heavy snow
-"Robbins,IL",2018-11-09,31.9,61.0,0.18,14.5,Heavy snow
-"Rochelle,IL",2018-11-09,27.9,62.0,0.17,15.9,Heavy snow
-"Rock City,IL",2018-11-09,27.4,60.0,0.17,15.9,Patchy moderate snow
-"Rock Falls,IL",2018-11-09,27.9,63.0,0.1,13.0,Light snow
-"Rockford,IL",2018-11-09,27.9,59.0,0.13,13.9,Heavy snow
-"Rockton,IL",2018-11-09,29.2,57.0,0.2,13.6,Heavy snow
-"Rolling Meadows,IL",2018-11-09,30.6,63.0,0.36,14.5,Heavy snow
-"Romeoville,IL",2018-11-09,29.7,66.0,0.24,13.9,Heavy snow
-"Roscoe,IL",2018-11-09,28.8,59.0,0.14,15.0,Heavy snow
-"Roselle,IL",2018-11-09,30.1,65.0,0.35,13.0,Heavy snow
-"Round Lake,IL",2018-11-09,29.2,66.0,0.36,13.0,Heavy snow
-"Russell,IL",2018-11-09,29.7,65.0,0.29,14.8,Heavy snow
-"Rutland,IL",2018-11-09,30.6,65.0,0.15,13.9,Heavy snow
-"Saint Anne,IL",2018-11-09,55.9,77.0,0.31,48.8,Light rain shower
-"Saint Charles,IL",2018-11-09,29.2,65.0,0.15,15.9,Heavy snow
-"Sandwich,IL",2018-11-09,30.6,65.0,0.35,15.9,Heavy snow
-"Saunemin,IL",2018-11-09,30.6,68.0,0.13,15.0,Heavy snow
-"Scales Mound,IL",2018-11-09,27.4,60.0,0.06,14.8,Partly cloudy
-"Schaumburg,IL",2018-11-09,30.1,65.0,0.35,13.0,Heavy snow
-"Schiller Park,IL",2018-11-09,31.0,60.0,0.26,13.0,Heavy snow
-"Seneca,IL",2018-11-09,31.5,70.0,0.22,15.9,Heavy snow
-"Seward,IL",2018-11-09,27.4,58.0,0.11,13.0,Moderate snow
-"Shabbona,IL",2018-11-09,30.1,68.0,0.37,16.1,Heavy snow
-"Shannon,IL",2018-11-09,27.9,58.0,0.07,15.0,Patchy light snow
-"Shirland,IL",2018-11-09,29.2,57.0,0.2,13.6,Heavy snow
-"Shorewood,IL",2018-11-09,32.4,68.0,0.28,15.2,Heavy snow
-"Skokie,IL",2018-11-09,31.0,59.0,0.27,15.7,Heavy snow
-"Somonauk,IL",2018-11-09,30.1,68.0,0.37,16.1,Heavy snow
-"South Elgin,IL",2018-11-09,29.7,65.0,0.39,13.6,Heavy snow
-"South Holland,IL",2018-11-09,32.4,62.0,0.08,14.5,Heavy snow
-"South Wilmington,IL",2018-11-09,31.9,70.0,0.15,14.1,Heavy snow
-"Spring Grove,IL",2018-11-09,57.6,92.0,1.0,14.3,Heavy rain
-"Springfield,IL",2018-11-09,34.2,76.0,0.19,13.2,Moderate or heavy snow showers
-"Steger,IL",2018-11-09,31.5,70.0,0.21,13.9,Heavy snow
-"Sterling,IL",2018-11-09,27.9,63.0,0.1,13.0,Light snow
-"Steward,IL",2018-11-09,27.9,62.0,0.17,15.9,Heavy snow
-"Stillman Valley,IL",2018-11-09,27.4,58.0,0.11,13.0,Moderate snow
-"Stockton,IL",2018-11-09,27.4,57.0,0.04,11.0,Cloudy
-"Stone Park,IL",2018-11-09,30.1,62.0,0.29,14.3,Heavy snow
-"Streamwood,IL",2018-11-09,29.2,61.0,0.35,13.0,Heavy snow
-"Streator,IL",2018-11-09,32.4,69.0,0.28,15.9,Heavy snow
-"Sublette,IL",2018-11-09,29.7,65.0,0.12,15.9,Moderate snow
-"Sugar Grove,IL",2018-11-09,30.1,70.0,0.26,16.1,Heavy snow
-"Summit Argo,IL",2018-11-09,30.6,60.0,0.1,15.0,Heavy snow
-"Sycamore,IL",2018-11-09,28.8,64.0,0.41,15.9,Heavy snow
-"Tampico,IL",2018-11-09,77.8,78.0,0.09,15.9,Patchy rain possible
-"Techny,IL",2018-11-09,30.6,61.0,0.33,13.6,Heavy snow
-"Thornton,IL",2018-11-09,31.0,68.0,0.11,13.0,Heavy snow
-"Tinley Park,IL",2018-11-09,30.6,68.0,0.1,13.9,Heavy snow
-"Toluca,IL",2018-11-09,30.6,65.0,0.15,13.9,Heavy snow
-"Tonica,IL",2018-11-09,31.9,65.0,0.17,15.9,Heavy snow
-"Union Hill,IL",2018-11-09,30.6,66.0,0.13,14.1,Heavy snow
-"Union,IL",2018-11-09,28.3,62.0,0.38,13.6,Heavy snow
-"University Park,IL",2018-11-09,31.5,70.0,0.21,13.9,Heavy snow
-"Van Orin,IL",2018-11-09,29.2,64.0,0.11,16.1,Moderate snow
-"Vernon Hills,IL",2018-11-09,30.1,63.0,0.39,16.1,Heavy snow
-"Verona,IL",2018-11-09,31.9,70.0,0.15,14.1,Heavy snow
-"Villa Park,IL",2018-11-09,29.7,61.0,0.28,14.5,Heavy snow
-"Wadsworth,IL",2018-11-09,29.7,65.0,0.29,14.8,Heavy snow
-"Walnut,IL",2018-11-09,29.2,64.0,0.11,16.1,Moderate snow
-"Warren,IL",2018-11-09,27.0,60.0,0.08,15.9,Partly cloudy
-"Warrenville,IL",2018-11-09,30.6,68.0,0.19,13.4,Heavy snow
-"Wasco,IL",2018-11-09,29.2,65.0,0.15,15.9,Heavy snow
-"Waterman,IL",2018-11-09,30.1,67.0,0.38,16.3,Heavy snow
-"Wauconda,IL",2018-11-09,29.2,67.0,0.39,13.9,Heavy snow
-"Waukegan,IL",2018-11-09,29.7,65.0,0.29,14.8,Heavy snow
-"Wayne,IL",2018-11-09,29.2,65.0,0.15,15.9,Heavy snow
-"Wenona,IL",2018-11-09,30.6,65.0,0.15,13.9,Heavy snow
-"West Brooklyn,IL",2018-11-09,29.7,65.0,0.12,15.9,Moderate snow
-"West Chicago,IL",2018-11-09,29.2,65.0,0.15,15.9,Heavy snow
-"Westchester,IL",2018-11-09,30.1,62.0,0.29,14.3,Heavy snow
-"Western Springs,IL",2018-11-09,30.6,64.0,0.28,13.9,Heavy snow
-"Westmont,IL",2018-11-09,29.7,63.0,0.13,13.9,Heavy snow
-"Wheaton,IL",2018-11-09,30.6,67.0,0.34,13.4,Heavy snow
-"Wheeling,IL",2018-11-09,31.5,65.0,0.17,15.2,Heavy snow
-"Willow Springs,IL",2018-11-09,30.6,64.0,0.28,13.9,Heavy snow
-"Willowbrook,IL",2018-11-09,30.6,64.0,0.28,13.9,Heavy snow
-"Wilmette,IL",2018-11-09,31.5,58.0,0.12,13.9,Heavy snow
-"Wilmington,IL",2018-11-09,31.9,73.0,0.26,15.9,Heavy snow
-"Winfield,IL",2018-11-09,30.6,67.0,0.34,13.4,Heavy snow
-"Winnebago,IL",2018-11-09,27.9,59.0,0.13,13.9,Heavy snow
-"Winslow,IL",2018-11-09,26.5,56.0,0.12,11.9,Patchy light snow
-"Winthrop Harbor,IL",2018-11-09,29.7,65.0,0.29,14.8,Heavy snow
-"Wonder Lake,IL",2018-11-09,28.3,63.0,0.23,14.1,Heavy snow
-"Wood Dale,IL",2018-11-09,30.1,62.0,0.31,15.0,Heavy snow
-"Woodridge,IL",2018-11-09,29.7,66.0,0.24,13.9,Heavy snow
-"Woodstock,IL",2018-11-09,27.9,67.0,0.4,13.6,Heavy snow
-"Woosung,IL",2018-11-09,28.3,61.0,0.11,15.9,Moderate snow
-"Worth,IL",2018-11-09,31.9,61.0,0.18,14.5,Heavy snow
-"Yorkville,IL",2018-11-09,30.6,65.0,0.35,15.9,Heavy snow
-"Zion,IL",2018-11-09,29.7,65.0,0.29,14.8,Heavy snow
+City/State,Temp,Humidity,Precipitation,Wind Speed,Weather Condition,Date
+"Aliquippa,PA",33.3,90.0,0.1,4.7,Overcast,2018-11-18
+"Allison Park,PA",32.8,91.0,0.07,3.8,Overcast,2018-11-18
+"Ambridge,PA",33.3,90.0,0.1,4.7,Overcast,2018-11-18
+"Baden,PA",33.3,90.0,0.1,4.7,Overcast,2018-11-18
+"Bairdford,PA",33.3,90.0,0.07,4.9,Overcast,2018-11-18
+"Bakerstown,PA",31.9,89.0,0.13,6.5,Mist,2018-11-18
+"Beaver,PA",33.7,89.0,0.13,7.6,Patchy rain possible,2018-11-18
+"Braddock,PA",33.7,90.0,0.04,5.8,Overcast,2018-11-18
+"Carnegie,PA",34.2,88.0,0.03,4.3,Overcast,2018-11-18
+"Cheswick,PA",33.3,90.0,0.07,4.9,Overcast,2018-11-18
+"Clinton,PA",32.4,91.0,0.07,3.8,Overcast,2018-11-18
+"Conway,PA",33.7,89.0,0.13,7.6,Patchy rain possible,2018-11-18
+"Coraopolis,PA",32.4,91.0,0.07,3.8,Overcast,2018-11-18
+"Crescent,PA",36.0,81.0,0.01,7.8,Cloudy,2018-11-18
+"Curtisville,PA",33.3,90.0,0.07,4.9,Overcast,2018-11-18
+"Dravosburg,PA",34.6,88.0,0.02,4.0,Overcast,2018-11-18
+"Duquesne,PA",82.2,78.0,0.28,18.3,Light rain shower,2018-11-18
+"East Mc Keesport,PA",35.1,90.0,0.03,4.0,Overcast,2018-11-18
+"East Pittsburgh,PA",33.7,90.0,0.04,5.8,Overcast,2018-11-18
+"Freedom,PA",33.7,89.0,0.13,7.6,Patchy rain possible,2018-11-18
+"Georgetown,PA",32.4,89.0,0.17,3.8,Overcast,2018-11-18
+"Gibsonia,PA",32.8,91.0,0.07,3.8,Overcast,2018-11-18
+"Glassport,PA",34.6,88.0,0.02,4.0,Overcast,2018-11-18
+"Glenshaw,PA",34.2,89.0,0.04,5.8,Overcast,2018-11-18
+"Homestead,PA",34.6,88.0,0.02,4.0,Overcast,2018-11-18
+"Hookstown,PA",32.8,90.0,0.17,7.6,Overcast,2018-11-18
+"Imperial,PA",57.7,48.0,0.0,11.6,Partly cloudy,2018-11-18
+"Indianola,PA",33.3,90.0,0.07,4.9,Overcast,2018-11-18
+"Industry,PA",80.9,77.0,0.07,11.9,Partly cloudy,2018-11-18
+"Leetsdale,PA",33.3,90.0,0.1,4.7,Overcast,2018-11-18
+"Mc Kees Rocks,PA",55.6,42.0,0.0,18.8,Sunny,2018-11-18
+"Mckeesport,PA",34.6,88.0,0.02,4.0,Overcast,2018-11-18
+"Midland,PA",32.8,90.0,0.17,7.6,Overcast,2018-11-18
+"Monaca,PA",85.4,74.0,0.01,15.9,Partly cloudy,2018-11-18
+"Monroeville,PA",35.1,90.0,0.03,4.0,Overcast,2018-11-18
+"New Brighton,PA",66.2,63.0,0.0,7.6,Overcast,2018-11-18
+"North Versailles,PA",35.1,90.0,0.03,4.0,Overcast,2018-11-18
+"Oakmont,PA",33.7,90.0,0.04,5.8,Overcast,2018-11-18
+"Pittsburgh,PA",34.2,89.0,0.04,5.8,Overcast,2018-11-18
+"Presto,PA",67.8,63.0,0.46,11.4,Moderate or heavy rain shower,2018-11-18
+"Rochester,PA",33.7,89.0,0.13,7.6,Patchy rain possible,2018-11-18
+"Russellton,PA",33.3,90.0,0.07,4.9,Overcast,2018-11-18
+"Sewickley,PA",32.4,91.0,0.07,3.8,Overcast,2018-11-18
+"Shippingport,PA",32.8,90.0,0.17,7.6,Overcast,2018-11-18
+"South Heights,PA",33.3,90.0,0.1,4.7,Overcast,2018-11-18
+"Springdale,PA",33.3,90.0,0.07,4.9,Overcast,2018-11-18
+"Turtle Creek,PA",35.1,90.0,0.03,4.0,Overcast,2018-11-18
+"Verona,PA",45.7,51.0,0.0,5.8,Partly cloudy,2018-11-18
+"West Mifflin,PA",34.6,88.0,0.02,4.0,Overcast,2018-11-18
+"Wildwood,PA",32.8,91.0,0.07,3.8,Overcast,2018-11-18
+"Wilmerding,PA",35.1,90.0,0.03,4.0,Overcast,2018-11-18
+"Aliquippa,PA",36.0,84.0,0.02,10.1,Patchy rain possible,2018-11-17
+"Allison Park,PA",35.5,85.0,0.01,10.3,Patchy rain possible,2018-11-17
+"Ambridge,PA",36.0,84.0,0.02,10.1,Patchy rain possible,2018-11-17
+"Baden,PA",36.0,84.0,0.02,10.1,Patchy rain possible,2018-11-17
+"Bairdford,PA",34.6,88.0,0.02,10.3,Light snow showers,2018-11-17
+"Bakerstown,PA",34.6,88.0,0.02,10.1,Light snow showers,2018-11-17
+"Beaver,PA",35.5,86.0,0.02,6.9,Patchy rain possible,2018-11-17
+"Braddock,PA",35.5,88.0,0.0,10.3,Light snow,2018-11-17
+"Carnegie,PA",35.5,86.0,0.0,11.0,Patchy rain possible,2018-11-17
+"Cheswick,PA",34.6,88.0,0.02,10.3,Light snow showers,2018-11-17
+"Clinton,PA",34.2,90.0,0.01,10.3,Light snow,2018-11-17
+"Conway,PA",35.5,86.0,0.02,6.9,Patchy rain possible,2018-11-17
+"Coraopolis,PA",34.2,90.0,0.01,10.3,Light snow,2018-11-17
+"Crescent,PA",35.5,86.0,0.0,7.2,Patchy rain possible,2018-11-17
+"Curtisville,PA",34.6,88.0,0.02,10.3,Light snow showers,2018-11-17
+"Dravosburg,PA",34.2,88.0,0.0,9.4,Light snow,2018-11-17
+"Duquesne,PA",82.0,79.0,0.6,17.0,Moderate or heavy rain shower,2018-11-17
+"East Mc Keesport,PA",36.4,87.0,0.0,9.4,Patchy rain possible,2018-11-17
+"East Pittsburgh,PA",36.4,87.0,0.0,9.4,Patchy rain possible,2018-11-17
+"Freedom,PA",35.5,86.0,0.02,6.9,Patchy rain possible,2018-11-17
+"Georgetown,PA",34.6,85.0,0.01,10.5,Light snow,2018-11-17
+"Gibsonia,PA",34.2,89.0,0.01,10.1,Light snow,2018-11-17
+"Glassport,PA",34.2,88.0,0.0,9.4,Light snow,2018-11-17
+"Glenshaw,PA",35.5,85.0,0.01,10.3,Patchy rain possible,2018-11-17
+"Homestead,PA",34.2,88.0,0.0,9.4,Light snow,2018-11-17
+"Hookstown,PA",33.3,86.0,0.01,7.8,Patchy rain possible,2018-11-17
+"Imperial,PA",62.5,49.0,0.0,12.8,Partly cloudy,2018-11-17
+"Indianola,PA",34.6,88.0,0.02,10.3,Light snow showers,2018-11-17
+"Industry,PA",81.9,78.0,0.07,11.9,Patchy rain possible,2018-11-17
+"Leetsdale,PA",36.0,84.0,0.02,10.1,Patchy rain possible,2018-11-17
+"Mc Kees Rocks,PA",56.6,46.0,0.0,19.5,Partly cloudy,2018-11-17
+"Mckeesport,PA",34.2,88.0,0.0,9.4,Light snow,2018-11-17
+"Midland,PA",33.3,86.0,0.01,7.8,Patchy rain possible,2018-11-17
+"Monaca,PA",85.8,73.0,0.0,14.5,Partly cloudy,2018-11-17
+"Monroeville,PA",36.4,87.0,0.0,9.4,Patchy rain possible,2018-11-17
+"New Brighton,PA",67.6,67.0,0.02,5.1,Light rain shower,2018-11-17
+"North Versailles,PA",36.4,87.0,0.0,9.4,Patchy rain possible,2018-11-17
+"Oakmont,PA",35.5,88.0,0.0,10.3,Light snow,2018-11-17
+"Pittsburgh,PA",35.5,85.0,0.01,10.3,Patchy rain possible,2018-11-17
+"Presto,PA",69.6,58.0,0.02,9.2,Patchy rain possible,2018-11-17
+"Rochester,PA",35.5,86.0,0.02,6.9,Patchy rain possible,2018-11-17
+"Russellton,PA",34.6,88.0,0.02,10.3,Light snow showers,2018-11-17
+"Sewickley,PA",34.2,90.0,0.01,10.3,Light snow,2018-11-17
+"Shippingport,PA",33.3,86.0,0.01,7.8,Patchy rain possible,2018-11-17
+"South Heights,PA",36.0,84.0,0.02,10.1,Patchy rain possible,2018-11-17
+"Springdale,PA",34.6,88.0,0.02,10.3,Light snow showers,2018-11-17
+"Turtle Creek,PA",36.4,87.0,0.0,9.4,Patchy rain possible,2018-11-17
+"Verona,PA",49.0,55.0,0.0,7.8,Partly cloudy,2018-11-17
+"West Mifflin,PA",34.2,88.0,0.0,9.4,Light snow,2018-11-17
+"Wildwood,PA",34.2,89.0,0.01,10.1,Light snow,2018-11-17
+"Wilmerding,PA",36.4,87.0,0.0,9.4,Patchy rain possible,2018-11-17
+"Aliquippa,PA",36.0,88.0,0.07,12.8,Heavy snow,2018-11-16
+"Allison Park,PA",37.8,84.0,0.06,9.8,Heavy snow,2018-11-16
+"Ambridge,PA",36.0,88.0,0.07,12.8,Heavy snow,2018-11-16
+"Baden,PA",36.0,88.0,0.07,12.8,Heavy snow,2018-11-16
+"Bairdford,PA",36.0,84.0,0.31,10.3,Heavy snow,2018-11-16
+"Bakerstown,PA",36.0,88.0,0.28,10.3,Heavy snow,2018-11-16
+"Beaver,PA",37.8,88.0,0.12,10.5,Moderate snow,2018-11-16
+"Braddock,PA",37.3,88.0,0.28,10.7,Heavy snow,2018-11-16
+"Carnegie,PA",37.3,86.0,0.03,10.7,Moderate snow,2018-11-16
+"Cheswick,PA",36.0,84.0,0.31,10.3,Heavy snow,2018-11-16
+"Clinton,PA",35.1,88.0,0.06,12.8,Moderate snow,2018-11-16
+"Conway,PA",37.8,88.0,0.12,10.5,Moderate snow,2018-11-16
+"Coraopolis,PA",35.1,88.0,0.06,12.8,Moderate snow,2018-11-16
+"Crescent,PA",39.1,82.0,0.04,11.0,Moderate snow,2018-11-16
+"Curtisville,PA",36.0,84.0,0.31,10.3,Heavy snow,2018-11-16
+"Dravosburg,PA",37.3,85.0,0.03,10.1,Moderate snow,2018-11-16
+"Duquesne,PA",81.5,77.0,0.11,16.6,Patchy rain possible,2018-11-16
+"East Mc Keesport,PA",37.3,87.0,0.04,10.7,Light snow showers,2018-11-16
+"East Pittsburgh,PA",37.3,88.0,0.28,10.7,Heavy snow,2018-11-16
+"Freedom,PA",37.8,88.0,0.12,10.5,Moderate snow,2018-11-16
+"Georgetown,PA",36.9,84.0,0.24,11.6,Heavy snow,2018-11-16
+"Gibsonia,PA",35.1,89.0,0.03,10.3,Moderate snow,2018-11-16
+"Glassport,PA",37.3,85.0,0.03,10.1,Moderate snow,2018-11-16
+"Glenshaw,PA",37.8,84.0,0.06,9.8,Heavy snow,2018-11-16
+"Homestead,PA",37.3,85.0,0.03,10.1,Moderate snow,2018-11-16
+"Hookstown,PA",37.3,80.0,0.25,10.5,Heavy snow,2018-11-16
+"Imperial,PA",58.3,54.0,0.01,10.5,Patchy rain possible,2018-11-16
+"Indianola,PA",36.0,84.0,0.31,10.3,Heavy snow,2018-11-16
+"Industry,PA",81.3,80.0,0.19,13.0,Light rain shower,2018-11-16
+"Leetsdale,PA",36.0,88.0,0.07,12.8,Heavy snow,2018-11-16
+"Mc Kees Rocks,PA",63.3,52.0,0.0,10.7,Partly cloudy,2018-11-16
+"Mckeesport,PA",37.3,85.0,0.03,10.1,Moderate snow,2018-11-16
+"Midland,PA",37.3,80.0,0.25,10.5,Heavy snow,2018-11-16
+"Monaca,PA",85.0,75.0,0.0,13.9,Partly cloudy,2018-11-16
+"Monroeville,PA",37.3,87.0,0.04,10.7,Light snow showers,2018-11-16
+"New Brighton,PA",68.4,66.0,0.0,4.9,Partly cloudy,2018-11-16
+"North Versailles,PA",37.3,87.0,0.04,10.7,Light snow showers,2018-11-16
+"Oakmont,PA",37.3,88.0,0.28,10.7,Heavy snow,2018-11-16
+"Pittsburgh,PA",37.8,84.0,0.06,9.8,Heavy snow,2018-11-16
+"Presto,PA",69.2,59.0,0.01,17.7,Patchy rain possible,2018-11-16
+"Rochester,PA",37.8,88.0,0.12,10.5,Moderate snow,2018-11-16
+"Russellton,PA",36.0,84.0,0.31,10.3,Heavy snow,2018-11-16
+"Sewickley,PA",35.1,88.0,0.06,12.8,Moderate snow,2018-11-16
+"Shippingport,PA",37.3,80.0,0.25,10.5,Heavy snow,2018-11-16
+"South Heights,PA",36.0,88.0,0.07,12.8,Heavy snow,2018-11-16
+"Springdale,PA",36.0,84.0,0.31,10.3,Heavy snow,2018-11-16
+"Turtle Creek,PA",37.3,88.0,0.28,10.7,Heavy snow,2018-11-16
+"Verona,PA",50.7,63.0,0.0,8.7,Partly cloudy,2018-11-16
+"West Mifflin,PA",37.3,85.0,0.03,10.1,Moderate snow,2018-11-16
+"Wildwood,PA",35.1,89.0,0.03,10.3,Moderate snow,2018-11-16
+"Wilmerding,PA",37.3,87.0,0.04,10.7,Light snow showers,2018-11-16
+"Aliquippa,PA",31.9,65.0,0.36,9.2,Heavy snow,2018-11-15
+"Allison Park,PA",31.9,69.0,0.45,8.7,Heavy snow,2018-11-15
+"Ambridge,PA",30.6,71.0,0.53,8.7,Moderate or heavy sleet,2018-11-15
+"Baden,PA",30.6,71.0,0.53,8.7,Moderate or heavy sleet,2018-11-15
+"Bairdford,PA",31.0,65.0,1.02,8.5,Heavy snow,2018-11-15
+"Bakerstown,PA",31.9,69.0,0.45,8.7,Heavy snow,2018-11-15
+"Beaver,PA",31.9,65.0,0.36,9.2,Heavy snow,2018-11-15
+"Braddock,PA",33.7,69.0,1.06,8.3,Heavy snow,2018-11-15
+"Carnegie,PA",34.6,66.0,0.57,9.2,Moderate or heavy sleet,2018-11-15
+"Cheswick,PA",31.0,65.0,1.02,8.5,Heavy snow,2018-11-15
+"Clinton,PA",31.5,70.0,0.52,8.5,Moderate or heavy sleet,2018-11-15
+"Conway,PA",31.9,65.0,0.36,9.2,Heavy snow,2018-11-15
+"Coraopolis,PA",31.5,70.0,0.52,8.5,Moderate or heavy sleet,2018-11-15
+"Crescent,PA",33.3,66.0,0.54,8.9,Moderate rain,2018-11-15
+"Curtisville,PA",31.0,65.0,1.02,8.5,Heavy snow,2018-11-15
+"Dravosburg,PA",32.8,63.0,0.59,8.5,Moderate or heavy sleet,2018-11-15
+"Duquesne,PA",82.0,76.0,0.03,18.8,Light rain shower,2018-11-15
+"East Mc Keesport,PA",32.4,68.0,0.86,8.1,Heavy snow,2018-11-15
+"East Pittsburgh,PA",32.4,68.0,0.86,8.1,Heavy snow,2018-11-15
+"Freedom,PA",31.9,65.0,0.36,9.2,Heavy snow,2018-11-15
+"Georgetown,PA",31.5,73.0,0.92,10.5,Moderate or heavy sleet,2018-11-15
+"Gibsonia,PA",31.9,69.0,0.45,8.7,Heavy snow,2018-11-15
+"Glassport,PA",32.8,63.0,0.59,8.5,Moderate or heavy sleet,2018-11-15
+"Glenshaw,PA",33.7,67.0,0.82,8.3,Moderate or heavy sleet,2018-11-15
+"Homestead,PA",32.8,63.0,0.59,8.5,Moderate or heavy sleet,2018-11-15
+"Hookstown,PA",30.6,73.0,0.91,8.3,Moderate or heavy sleet,2018-11-15
+"Imperial,PA",56.1,58.0,0.03,8.7,Patchy rain possible,2018-11-15
+"Indianola,PA",31.0,65.0,1.02,8.5,Heavy snow,2018-11-15
+"Industry,PA",81.5,79.0,0.14,13.9,Light rain shower,2018-11-15
+"Leetsdale,PA",30.6,71.0,0.53,8.7,Moderate or heavy sleet,2018-11-15
+"Mc Kees Rocks,PA",64.2,64.0,0.0,7.8,Cloudy,2018-11-15
+"Mckeesport,PA",32.8,63.0,0.59,8.5,Moderate or heavy sleet,2018-11-15
+"Midland,PA",30.6,73.0,0.91,8.3,Moderate or heavy sleet,2018-11-15
+"Monaca,PA",82.8,75.0,0.0,13.0,Partly cloudy,2018-11-15
+"Monroeville,PA",32.4,68.0,0.86,8.1,Heavy snow,2018-11-15
+"New Brighton,PA",65.8,68.0,0.0,9.4,Partly cloudy,2018-11-15
+"North Versailles,PA",32.4,68.0,0.86,8.1,Heavy snow,2018-11-15
+"Oakmont,PA",33.7,69.0,1.06,8.3,Heavy snow,2018-11-15
+"Pittsburgh,PA",33.7,67.0,0.82,8.3,Moderate or heavy sleet,2018-11-15
+"Presto,PA",66.7,65.0,0.02,11.6,Patchy rain possible,2018-11-15
+"Rochester,PA",31.9,65.0,0.36,9.2,Heavy snow,2018-11-15
+"Russellton,PA",31.0,65.0,1.02,8.5,Heavy snow,2018-11-15
+"Sewickley,PA",31.5,70.0,0.52,8.5,Moderate or heavy sleet,2018-11-15
+"Shippingport,PA",30.6,73.0,0.91,8.3,Moderate or heavy sleet,2018-11-15
+"South Heights,PA",30.6,71.0,0.53,8.7,Moderate or heavy sleet,2018-11-15
+"Springdale,PA",31.0,65.0,1.02,8.5,Heavy snow,2018-11-15
+"Turtle Creek,PA",32.4,68.0,0.86,8.1,Heavy snow,2018-11-15
+"Verona,PA",56.7,72.0,0.0,3.8,Overcast,2018-11-15
+"West Mifflin,PA",32.8,63.0,0.59,8.5,Moderate or heavy sleet,2018-11-15
+"Wildwood,PA",31.9,69.0,0.45,8.7,Heavy snow,2018-11-15
+"Wilmerding,PA",32.4,68.0,0.86,8.1,Heavy snow,2018-11-15
+"Aliquippa,PA",27.9,73.0,0.0,11.0,Cloudy,2018-11-14
+"Allison Park,PA",26.5,75.0,0.0,12.1,Cloudy,2018-11-14
+"Ambridge,PA",28.3,75.0,0.0,12.8,Cloudy,2018-11-14
+"Baden,PA",28.3,75.0,0.0,12.8,Cloudy,2018-11-14
+"Bairdford,PA",26.5,75.0,0.0,13.0,Cloudy,2018-11-14
+"Bakerstown,PA",25.6,78.0,0.0,13.0,Cloudy,2018-11-14
+"Beaver,PA",27.9,73.0,0.0,11.0,Cloudy,2018-11-14
+"Braddock,PA",28.8,73.0,0.0,11.9,Cloudy,2018-11-14
+"Carnegie,PA",27.9,69.0,0.0,12.5,Cloudy,2018-11-14
+"Cheswick,PA",26.5,75.0,0.0,13.0,Cloudy,2018-11-14
+"Clinton,PA",25.6,75.0,0.0,11.9,Cloudy,2018-11-14
+"Conway,PA",27.9,73.0,0.0,11.0,Cloudy,2018-11-14
+"Coraopolis,PA",25.6,75.0,0.0,11.9,Cloudy,2018-11-14
+"Crescent,PA",27.0,66.0,0.0,12.1,Overcast,2018-11-14
+"Curtisville,PA",26.5,75.0,0.0,13.0,Cloudy,2018-11-14
+"Dravosburg,PA",27.4,71.0,0.0,16.8,Cloudy,2018-11-14
+"Duquesne,PA",82.2,78.0,0.17,18.8,Patchy rain possible,2018-11-14
+"East Mc Keesport,PA",27.9,71.0,0.0,16.8,Cloudy,2018-11-14
+"East Pittsburgh,PA",28.8,73.0,0.0,11.9,Cloudy,2018-11-14
+"Freedom,PA",27.9,73.0,0.0,11.0,Cloudy,2018-11-14
+"Georgetown,PA",27.4,75.0,0.0,12.5,Cloudy,2018-11-14
+"Gibsonia,PA",26.5,75.0,0.0,12.1,Cloudy,2018-11-14
+"Glassport,PA",27.4,71.0,0.0,16.8,Cloudy,2018-11-14
+"Glenshaw,PA",26.5,75.0,0.0,12.1,Cloudy,2018-11-14
+"Homestead,PA",27.4,71.0,0.0,16.8,Cloudy,2018-11-14
+"Hookstown,PA",28.3,72.0,0.0,12.5,Cloudy,2018-11-14
+"Imperial,PA",56.7,54.0,0.04,8.9,Patchy rain possible,2018-11-14
+"Indianola,PA",26.5,75.0,0.0,13.0,Cloudy,2018-11-14
+"Industry,PA",81.5,78.0,0.06,11.9,Patchy rain possible,2018-11-14
+"Leetsdale,PA",28.3,75.0,0.0,12.8,Cloudy,2018-11-14
+"Mc Kees Rocks,PA",64.7,74.0,0.0,5.8,Partly cloudy,2018-11-14
+"Mckeesport,PA",27.4,71.0,0.0,16.8,Cloudy,2018-11-14
+"Midland,PA",28.3,72.0,0.0,12.5,Cloudy,2018-11-14
+"Monaca,PA",82.1,73.0,0.02,13.6,Partly cloudy,2018-11-14
+"Monroeville,PA",27.9,71.0,0.0,16.8,Cloudy,2018-11-14
+"New Brighton,PA",66.5,73.0,0.0,10.5,Patchy rain possible,2018-11-14
+"North Versailles,PA",27.9,71.0,0.0,16.8,Cloudy,2018-11-14
+"Oakmont,PA",28.8,73.0,0.0,11.9,Cloudy,2018-11-14
+"Pittsburgh,PA",29.7,74.0,0.0,12.8,Cloudy,2018-11-14
+"Presto,PA",69.5,61.0,0.03,14.1,Patchy rain possible,2018-11-14
+"Rochester,PA",27.9,73.0,0.0,11.0,Cloudy,2018-11-14
+"Russellton,PA",26.5,75.0,0.0,13.0,Cloudy,2018-11-14
+"Sewickley,PA",25.6,75.0,0.0,11.9,Cloudy,2018-11-14
+"Shippingport,PA",28.3,72.0,0.0,12.5,Cloudy,2018-11-14
+"South Heights,PA",28.3,75.0,0.0,12.8,Cloudy,2018-11-14
+"Springdale,PA",26.5,75.0,0.0,13.0,Cloudy,2018-11-14
+"Turtle Creek,PA",27.9,71.0,0.0,16.8,Cloudy,2018-11-14
+"Verona,PA",59.4,73.0,0.0,3.6,Partly cloudy,2018-11-14
+"West Mifflin,PA",27.4,71.0,0.0,16.8,Cloudy,2018-11-14
+"Wildwood,PA",26.5,75.0,0.0,12.1,Cloudy,2018-11-14
+"Wilmerding,PA",27.9,71.0,0.0,16.8,Cloudy,2018-11-14

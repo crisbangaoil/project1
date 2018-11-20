@@ -1,2 +1,52 @@
 City/State,Temp,Humidity,Precipitation,Wind Speed,Weather Condition
-Pittsburgh,27.6,74.0,0.0,12.8,Cloudy
+Aliquippa,32.6,94.0,0.57,4.0,Light rain
+Allison Park,32.8,93.0,0.28,3.6,Light sleet
+Ambridge,32.6,94.0,0.57,4.0,Light rain
+Baden,32.6,94.0,0.57,4.0,Light rain
+Bairdford,31.7,91.0,0.98,5.6,Light rain
+Bakerstown,29.7,89.0,0.85,5.8,Light sleet
+Beaver,32.6,89.0,0.41,6.5,Mist
+Braddock,33.5,89.0,0.93,9.2,Light rain
+Carnegie,34.2,91.0,0.27,5.8,Light drizzle
+Cheswick,31.7,91.0,0.98,5.6,Light rain
+Clinton,31.7,94.0,0.37,4.0,Light rain
+Conway,32.6,89.0,0.41,6.5,Mist
+Coraopolis,31.7,94.0,0.37,4.0,Light rain
+Crescent Heights,33.3,92.0,0.12,5.4,Light drizzle
+Curtisville,31.7,91.0,0.98,5.6,Light rain
+Dravosburg,33.7,92.0,0.39,5.8,Moderate or heavy snow showers
+Duquesne,78.8,79.0,0.34,17.0,Light rain shower
+East Mc Keesport,33.3,91.0,0.8,4.9,Light rain
+East Pittsburgh,33.3,91.0,0.8,4.9,Light rain
+Freedom,32.6,89.0,0.41,6.5,Mist
+Georgetown,32.4,92.0,0.72,4.5,Light sleet
+Gibsonia,32.8,93.0,0.28,3.6,Light sleet
+Glassport,33.7,92.0,0.39,5.8,Moderate or heavy snow showers
+Glenshaw,34.2,91.0,0.62,5.1,Light rain
+West Homestead,33.7,92.0,0.39,5.8,Moderate or heavy snow showers
+Hookstown,31.9,90.0,0.72,9.4,Light rain
+Imperial,51.6,49.0,0.01,12.3,Patchy rain possible
+Indianola,31.7,91.0,0.98,5.6,Light rain
+Industry,80.4,77.0,0.09,11.9,Patchy rain possible
+Leetsdale,32.6,94.0,0.57,4.0,Light rain
+Fontvieille,51.3,48.0,0.0,16.6,Partly cloudy
+Mckeesport,33.7,92.0,0.39,5.8,Moderate or heavy snow showers
+Midland,31.9,90.0,0.72,9.4,Light rain
+Monaca,82.3,70.0,0.24,10.7,Moderate or heavy rain shower
+Monroeville,33.3,91.0,0.8,4.9,Light rain
+New Brighton,50.7,76.0,0.3,8.5,Moderate or heavy rain shower
+North Versailles,33.3,91.0,0.8,4.9,Light rain
+Oakmont,33.5,89.0,0.93,9.2,Light rain
+Pittsburgh,34.2,91.0,0.62,5.1,Light rain
+Presto,56.8,80.0,0.07,7.8,Moderate or heavy rain shower
+Rochester,32.6,89.0,0.41,6.5,Mist
+Russellton,31.7,91.0,0.98,5.6,Light rain
+Sewickley,32.6,94.0,0.57,4.0,Light rain
+Shippingport,31.9,90.0,0.72,9.4,Light rain
+South Heights,32.6,94.0,0.57,4.0,Light rain
+Springdale,31.7,91.0,0.98,5.6,Light rain
+Turtle Creek,33.3,91.0,0.8,4.9,Light rain
+Verona,42.0,59.0,0.04,12.5,Moderate rain at times
+West Mifflin,33.0,89.0,0.43,9.8,Light rain
+Wildwood,32.8,93.0,0.28,3.6,Light sleet
+Wilmerding,33.3,91.0,0.8,4.9,Light rain
