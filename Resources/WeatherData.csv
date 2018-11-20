@@ -1,84 +1,84 @@
 City/State,Temp,Humidity,Precipitation,Wind Speed,Weather Condition,Date
-"Aliquippa,PA",33.3,90.0,0.1,4.7,Overcast,2018-11-18
-"Allison Park,PA",32.8,91.0,0.07,3.8,Overcast,2018-11-18
-"Ambridge,PA",33.3,90.0,0.1,4.7,Overcast,2018-11-18
-"Baden,PA",33.3,90.0,0.1,4.7,Overcast,2018-11-18
-"Bairdford,PA",33.3,90.0,0.07,4.9,Overcast,2018-11-18
-"Bakerstown,PA",31.9,89.0,0.13,6.5,Mist,2018-11-18
-"Beaver,PA",33.7,89.0,0.13,7.6,Patchy rain possible,2018-11-18
-"Braddock,PA",33.7,90.0,0.04,5.8,Overcast,2018-11-18
-"Carnegie,PA",34.2,88.0,0.03,4.3,Overcast,2018-11-18
-"Cheswick,PA",33.3,90.0,0.07,4.9,Overcast,2018-11-18
-"Clinton,PA",32.4,91.0,0.07,3.8,Overcast,2018-11-18
-"Conway,PA",33.7,89.0,0.13,7.6,Patchy rain possible,2018-11-18
-"Coraopolis,PA",32.4,91.0,0.07,3.8,Overcast,2018-11-18
-"Crescent,PA",36.0,81.0,0.01,7.8,Cloudy,2018-11-18
-"Curtisville,PA",33.3,90.0,0.07,4.9,Overcast,2018-11-18
-"Dravosburg,PA",34.6,88.0,0.02,4.0,Overcast,2018-11-18
-"Duquesne,PA",82.2,78.0,0.28,18.3,Light rain shower,2018-11-18
-"East Mc Keesport,PA",35.1,90.0,0.03,4.0,Overcast,2018-11-18
-"East Pittsburgh,PA",33.7,90.0,0.04,5.8,Overcast,2018-11-18
-"Freedom,PA",33.7,89.0,0.13,7.6,Patchy rain possible,2018-11-18
-"Georgetown,PA",32.4,89.0,0.17,3.8,Overcast,2018-11-18
-"Gibsonia,PA",32.8,91.0,0.07,3.8,Overcast,2018-11-18
-"Glassport,PA",34.6,88.0,0.02,4.0,Overcast,2018-11-18
-"Glenshaw,PA",34.2,89.0,0.04,5.8,Overcast,2018-11-18
-"Homestead,PA",34.6,88.0,0.02,4.0,Overcast,2018-11-18
-"Hookstown,PA",32.8,90.0,0.17,7.6,Overcast,2018-11-18
-"Imperial,PA",57.7,48.0,0.0,11.6,Partly cloudy,2018-11-18
-"Indianola,PA",33.3,90.0,0.07,4.9,Overcast,2018-11-18
-"Industry,PA",80.9,77.0,0.07,11.9,Partly cloudy,2018-11-18
-"Leetsdale,PA",33.3,90.0,0.1,4.7,Overcast,2018-11-18
-"Mc Kees Rocks,PA",55.6,42.0,0.0,18.8,Sunny,2018-11-18
-"Mckeesport,PA",34.6,88.0,0.02,4.0,Overcast,2018-11-18
-"Midland,PA",32.8,90.0,0.17,7.6,Overcast,2018-11-18
-"Monaca,PA",85.4,74.0,0.01,15.9,Partly cloudy,2018-11-18
-"Monroeville,PA",35.1,90.0,0.03,4.0,Overcast,2018-11-18
-"New Brighton,PA",66.2,63.0,0.0,7.6,Overcast,2018-11-18
-"North Versailles,PA",35.1,90.0,0.03,4.0,Overcast,2018-11-18
-"Oakmont,PA",33.7,90.0,0.04,5.8,Overcast,2018-11-18
-"Pittsburgh,PA",34.2,89.0,0.04,5.8,Overcast,2018-11-18
-"Presto,PA",67.8,63.0,0.46,11.4,Moderate or heavy rain shower,2018-11-18
-"Rochester,PA",33.7,89.0,0.13,7.6,Patchy rain possible,2018-11-18
-"Russellton,PA",33.3,90.0,0.07,4.9,Overcast,2018-11-18
-"Sewickley,PA",32.4,91.0,0.07,3.8,Overcast,2018-11-18
-"Shippingport,PA",32.8,90.0,0.17,7.6,Overcast,2018-11-18
-"South Heights,PA",33.3,90.0,0.1,4.7,Overcast,2018-11-18
-"Springdale,PA",33.3,90.0,0.07,4.9,Overcast,2018-11-18
-"Turtle Creek,PA",35.1,90.0,0.03,4.0,Overcast,2018-11-18
-"Verona,PA",45.7,51.0,0.0,5.8,Partly cloudy,2018-11-18
-"West Mifflin,PA",34.6,88.0,0.02,4.0,Overcast,2018-11-18
-"Wildwood,PA",32.8,91.0,0.07,3.8,Overcast,2018-11-18
-"Wilmerding,PA",35.1,90.0,0.03,4.0,Overcast,2018-11-18
+"Aliquippa,PA",33.3,90.0,0.14,4.7,Light drizzle,2018-11-18
+"Allison Park,PA",32.8,91.0,0.07,3.8,Patchy rain possible,2018-11-18
+"Ambridge,PA",33.3,90.0,0.14,4.7,Light drizzle,2018-11-18
+"Baden,PA",33.3,90.0,0.14,4.7,Light drizzle,2018-11-18
+"Bairdford,PA",33.3,90.0,0.15,4.9,Patchy rain possible,2018-11-18
+"Bakerstown,PA",31.9,89.0,0.22,6.5,Light drizzle,2018-11-18
+"Beaver,PA",33.7,89.0,0.15,7.6,Light drizzle,2018-11-18
+"Braddock,PA",33.7,90.0,0.1,5.8,Overcast,2018-11-18
+"Carnegie,PA",34.2,88.0,0.07,4.3,Overcast,2018-11-18
+"Cheswick,PA",33.3,90.0,0.15,4.9,Patchy rain possible,2018-11-18
+"Clinton,PA",32.4,91.0,0.06,3.8,Patchy rain possible,2018-11-18
+"Conway,PA",33.7,89.0,0.15,7.6,Light drizzle,2018-11-18
+"Coraopolis,PA",32.4,91.0,0.06,3.8,Patchy rain possible,2018-11-18
+"Crescent,PA",36.0,81.0,0.01,7.8,Overcast,2018-11-18
+"Curtisville,PA",33.3,90.0,0.15,4.9,Patchy rain possible,2018-11-18
+"Dravosburg,PA",34.6,88.0,0.07,4.0,Overcast,2018-11-18
+"Duquesne,PA",82.0,78.0,0.24,18.3,Light rain shower,2018-11-18
+"East Mc Keesport,PA",35.1,90.0,0.08,4.0,Overcast,2018-11-18
+"East Pittsburgh,PA",35.1,90.0,0.08,4.0,Overcast,2018-11-18
+"Freedom,PA",33.7,89.0,0.15,7.6,Light drizzle,2018-11-18
+"Georgetown,PA",32.4,89.0,0.24,3.8,Light drizzle,2018-11-18
+"Gibsonia,PA",32.8,91.0,0.07,3.8,Patchy rain possible,2018-11-18
+"Glassport,PA",34.6,88.0,0.07,4.0,Overcast,2018-11-18
+"Glenshaw,PA",34.2,89.0,0.06,5.8,Overcast,2018-11-18
+"Homestead,PA",34.6,88.0,0.07,4.0,Overcast,2018-11-18
+"Hookstown,PA",32.8,90.0,0.23,7.6,Light drizzle,2018-11-18
+"Imperial,PA",57.9,44.0,0.0,10.7,Partly cloudy,2018-11-18
+"Indianola,PA",33.3,90.0,0.15,4.9,Patchy rain possible,2018-11-18
+"Industry,PA",80.9,78.0,0.15,11.9,Partly cloudy,2018-11-18
+"Leetsdale,PA",33.3,90.0,0.14,4.7,Light drizzle,2018-11-18
+"Mc Kees Rocks,PA",55.5,42.0,0.0,18.6,Sunny,2018-11-18
+"Mckeesport,PA",34.6,88.0,0.07,4.0,Overcast,2018-11-18
+"Midland,PA",32.8,90.0,0.23,7.6,Light drizzle,2018-11-18
+"Monaca,PA",85.9,74.0,0.03,17.0,Patchy rain possible,2018-11-18
+"Monroeville,PA",35.1,90.0,0.08,4.0,Overcast,2018-11-18
+"New Brighton,PA",66.0,65.0,0.03,6.9,Light rain shower,2018-11-18
+"North Versailles,PA",35.1,90.0,0.08,4.0,Overcast,2018-11-18
+"Oakmont,PA",33.7,90.0,0.1,5.8,Overcast,2018-11-18
+"Pittsburgh,PA",34.2,89.0,0.06,5.8,Overcast,2018-11-18
+"Presto,PA",66.8,64.0,0.76,11.4,Moderate or heavy rain shower,2018-11-18
+"Rochester,PA",33.7,89.0,0.15,7.6,Light drizzle,2018-11-18
+"Russellton,PA",33.3,90.0,0.15,4.9,Patchy rain possible,2018-11-18
+"Sewickley,PA",32.4,91.0,0.06,3.8,Patchy rain possible,2018-11-18
+"Shippingport,PA",32.8,90.0,0.23,7.6,Light drizzle,2018-11-18
+"South Heights,PA",33.3,90.0,0.14,4.7,Light drizzle,2018-11-18
+"Springdale,PA",33.3,90.0,0.15,4.9,Patchy rain possible,2018-11-18
+"Turtle Creek,PA",33.7,90.0,0.1,5.8,Overcast,2018-11-18
+"Verona,PA",46.0,54.0,0.0,5.8,Partly cloudy,2018-11-18
+"West Mifflin,PA",34.6,88.0,0.07,4.0,Overcast,2018-11-18
+"Wildwood,PA",32.8,91.0,0.07,3.8,Patchy rain possible,2018-11-18
+"Wilmerding,PA",35.1,90.0,0.08,4.0,Overcast,2018-11-18
 "Aliquippa,PA",36.0,84.0,0.02,10.1,Patchy rain possible,2018-11-17
-"Allison Park,PA",35.5,85.0,0.01,10.3,Patchy rain possible,2018-11-17
+"Allison Park,PA",34.2,89.0,0.01,10.1,Light snow,2018-11-17
 "Ambridge,PA",36.0,84.0,0.02,10.1,Patchy rain possible,2018-11-17
 "Baden,PA",36.0,84.0,0.02,10.1,Patchy rain possible,2018-11-17
 "Bairdford,PA",34.6,88.0,0.02,10.3,Light snow showers,2018-11-17
 "Bakerstown,PA",34.6,88.0,0.02,10.1,Light snow showers,2018-11-17
-"Beaver,PA",35.5,86.0,0.02,6.9,Patchy rain possible,2018-11-17
+"Beaver,PA",35.5,86.0,0.01,6.9,Patchy rain possible,2018-11-17
 "Braddock,PA",35.5,88.0,0.0,10.3,Light snow,2018-11-17
 "Carnegie,PA",35.5,86.0,0.0,11.0,Patchy rain possible,2018-11-17
 "Cheswick,PA",34.6,88.0,0.02,10.3,Light snow showers,2018-11-17
 "Clinton,PA",34.2,90.0,0.01,10.3,Light snow,2018-11-17
-"Conway,PA",35.5,86.0,0.02,6.9,Patchy rain possible,2018-11-17
+"Conway,PA",35.5,86.0,0.01,6.9,Patchy rain possible,2018-11-17
 "Coraopolis,PA",34.2,90.0,0.01,10.3,Light snow,2018-11-17
 "Crescent,PA",35.5,86.0,0.0,7.2,Patchy rain possible,2018-11-17
 "Curtisville,PA",34.6,88.0,0.02,10.3,Light snow showers,2018-11-17
 "Dravosburg,PA",34.2,88.0,0.0,9.4,Light snow,2018-11-17
-"Duquesne,PA",82.0,79.0,0.6,17.0,Moderate or heavy rain shower,2018-11-17
+"Duquesne,PA",82.0,79.0,0.47,17.0,Moderate or heavy rain shower,2018-11-17
 "East Mc Keesport,PA",36.4,87.0,0.0,9.4,Patchy rain possible,2018-11-17
 "East Pittsburgh,PA",36.4,87.0,0.0,9.4,Patchy rain possible,2018-11-17
-"Freedom,PA",35.5,86.0,0.02,6.9,Patchy rain possible,2018-11-17
+"Freedom,PA",35.5,86.0,0.01,6.9,Patchy rain possible,2018-11-17
 "Georgetown,PA",34.6,85.0,0.01,10.5,Light snow,2018-11-17
 "Gibsonia,PA",34.2,89.0,0.01,10.1,Light snow,2018-11-17
 "Glassport,PA",34.2,88.0,0.0,9.4,Light snow,2018-11-17
 "Glenshaw,PA",35.5,85.0,0.01,10.3,Patchy rain possible,2018-11-17
 "Homestead,PA",34.2,88.0,0.0,9.4,Light snow,2018-11-17
 "Hookstown,PA",33.3,86.0,0.01,7.8,Patchy rain possible,2018-11-17
-"Imperial,PA",62.5,49.0,0.0,12.8,Partly cloudy,2018-11-17
+"Imperial,PA",62.5,47.0,0.0,12.8,Partly cloudy,2018-11-17
 "Indianola,PA",34.6,88.0,0.02,10.3,Light snow showers,2018-11-17
-"Industry,PA",81.9,78.0,0.07,11.9,Patchy rain possible,2018-11-17
+"Industry,PA",81.9,78.0,0.1,11.9,Patchy rain possible,2018-11-17
 "Leetsdale,PA",36.0,84.0,0.02,10.1,Patchy rain possible,2018-11-17
 "Mc Kees Rocks,PA",56.6,46.0,0.0,19.5,Partly cloudy,2018-11-17
 "Mckeesport,PA",34.2,88.0,0.0,9.4,Light snow,2018-11-17
@@ -89,8 +89,8 @@ City/State,Temp,Humidity,Precipitation,Wind Speed,Weather Condition,Date
 "North Versailles,PA",36.4,87.0,0.0,9.4,Patchy rain possible,2018-11-17
 "Oakmont,PA",35.5,88.0,0.0,10.3,Light snow,2018-11-17
 "Pittsburgh,PA",35.5,85.0,0.01,10.3,Patchy rain possible,2018-11-17
-"Presto,PA",69.6,58.0,0.02,9.2,Patchy rain possible,2018-11-17
-"Rochester,PA",35.5,86.0,0.02,6.9,Patchy rain possible,2018-11-17
+"Presto,PA",69.6,58.0,0.04,9.2,Patchy rain possible,2018-11-17
+"Rochester,PA",35.5,86.0,0.01,6.9,Patchy rain possible,2018-11-17
 "Russellton,PA",34.6,88.0,0.02,10.3,Light snow showers,2018-11-17
 "Sewickley,PA",34.2,90.0,0.01,10.3,Light snow,2018-11-17
 "Shippingport,PA",33.3,86.0,0.01,7.8,Patchy rain possible,2018-11-17
@@ -108,7 +108,7 @@ City/State,Temp,Humidity,Precipitation,Wind Speed,Weather Condition,Date
 "Bairdford,PA",36.0,84.0,0.31,10.3,Heavy snow,2018-11-16
 "Bakerstown,PA",36.0,88.0,0.28,10.3,Heavy snow,2018-11-16
 "Beaver,PA",37.8,88.0,0.12,10.5,Moderate snow,2018-11-16
-"Braddock,PA",37.3,88.0,0.28,10.7,Heavy snow,2018-11-16
+"Braddock,PA",37.3,87.0,0.04,10.7,Light snow showers,2018-11-16
 "Carnegie,PA",37.3,86.0,0.03,10.7,Moderate snow,2018-11-16
 "Cheswick,PA",36.0,84.0,0.31,10.3,Heavy snow,2018-11-16
 "Clinton,PA",35.1,88.0,0.06,12.8,Moderate snow,2018-11-16
@@ -119,7 +119,7 @@ City/State,Temp,Humidity,Precipitation,Wind Speed,Weather Condition,Date
 "Dravosburg,PA",37.3,85.0,0.03,10.1,Moderate snow,2018-11-16
 "Duquesne,PA",81.5,77.0,0.11,16.6,Patchy rain possible,2018-11-16
 "East Mc Keesport,PA",37.3,87.0,0.04,10.7,Light snow showers,2018-11-16
-"East Pittsburgh,PA",37.3,88.0,0.28,10.7,Heavy snow,2018-11-16
+"East Pittsburgh,PA",37.3,87.0,0.04,10.7,Light snow showers,2018-11-16
 "Freedom,PA",37.8,88.0,0.12,10.5,Moderate snow,2018-11-16
 "Georgetown,PA",36.9,84.0,0.24,11.6,Heavy snow,2018-11-16
 "Gibsonia,PA",35.1,89.0,0.03,10.3,Moderate snow,2018-11-16
@@ -147,12 +147,12 @@ City/State,Temp,Humidity,Precipitation,Wind Speed,Weather Condition,Date
 "Shippingport,PA",37.3,80.0,0.25,10.5,Heavy snow,2018-11-16
 "South Heights,PA",36.0,88.0,0.07,12.8,Heavy snow,2018-11-16
 "Springdale,PA",36.0,84.0,0.31,10.3,Heavy snow,2018-11-16
-"Turtle Creek,PA",37.3,88.0,0.28,10.7,Heavy snow,2018-11-16
+"Turtle Creek,PA",37.3,87.0,0.04,10.7,Light snow showers,2018-11-16
 "Verona,PA",50.7,63.0,0.0,8.7,Partly cloudy,2018-11-16
 "West Mifflin,PA",37.3,85.0,0.03,10.1,Moderate snow,2018-11-16
 "Wildwood,PA",35.1,89.0,0.03,10.3,Moderate snow,2018-11-16
 "Wilmerding,PA",37.3,87.0,0.04,10.7,Light snow showers,2018-11-16
-"Aliquippa,PA",31.9,65.0,0.36,9.2,Heavy snow,2018-11-15
+"Aliquippa,PA",30.6,71.0,0.53,8.7,Moderate or heavy sleet,2018-11-15
 "Allison Park,PA",31.9,69.0,0.45,8.7,Heavy snow,2018-11-15
 "Ambridge,PA",30.6,71.0,0.53,8.7,Moderate or heavy sleet,2018-11-15
 "Baden,PA",30.6,71.0,0.53,8.7,Moderate or heavy sleet,2018-11-15
@@ -163,25 +163,25 @@ City/State,Temp,Humidity,Precipitation,Wind Speed,Weather Condition,Date
 "Carnegie,PA",34.6,66.0,0.57,9.2,Moderate or heavy sleet,2018-11-15
 "Cheswick,PA",31.0,65.0,1.02,8.5,Heavy snow,2018-11-15
 "Clinton,PA",31.5,70.0,0.52,8.5,Moderate or heavy sleet,2018-11-15
-"Conway,PA",31.9,65.0,0.36,9.2,Heavy snow,2018-11-15
+"Conway,PA",30.6,71.0,0.53,8.7,Moderate or heavy sleet,2018-11-15
 "Coraopolis,PA",31.5,70.0,0.52,8.5,Moderate or heavy sleet,2018-11-15
 "Crescent,PA",33.3,66.0,0.54,8.9,Moderate rain,2018-11-15
 "Curtisville,PA",31.0,65.0,1.02,8.5,Heavy snow,2018-11-15
 "Dravosburg,PA",32.8,63.0,0.59,8.5,Moderate or heavy sleet,2018-11-15
 "Duquesne,PA",82.0,76.0,0.03,18.8,Light rain shower,2018-11-15
 "East Mc Keesport,PA",32.4,68.0,0.86,8.1,Heavy snow,2018-11-15
-"East Pittsburgh,PA",32.4,68.0,0.86,8.1,Heavy snow,2018-11-15
+"East Pittsburgh,PA",33.7,69.0,1.06,8.3,Heavy snow,2018-11-15
 "Freedom,PA",31.9,65.0,0.36,9.2,Heavy snow,2018-11-15
 "Georgetown,PA",31.5,73.0,0.92,10.5,Moderate or heavy sleet,2018-11-15
 "Gibsonia,PA",31.9,69.0,0.45,8.7,Heavy snow,2018-11-15
 "Glassport,PA",32.8,63.0,0.59,8.5,Moderate or heavy sleet,2018-11-15
-"Glenshaw,PA",33.7,67.0,0.82,8.3,Moderate or heavy sleet,2018-11-15
+"Glenshaw,PA",31.9,69.0,0.45,8.7,Heavy snow,2018-11-15
 "Homestead,PA",32.8,63.0,0.59,8.5,Moderate or heavy sleet,2018-11-15
 "Hookstown,PA",30.6,73.0,0.91,8.3,Moderate or heavy sleet,2018-11-15
 "Imperial,PA",56.1,58.0,0.03,8.7,Patchy rain possible,2018-11-15
 "Indianola,PA",31.0,65.0,1.02,8.5,Heavy snow,2018-11-15
 "Industry,PA",81.5,79.0,0.14,13.9,Light rain shower,2018-11-15
-"Leetsdale,PA",30.6,71.0,0.53,8.7,Moderate or heavy sleet,2018-11-15
+"Leetsdale,PA",31.5,70.0,0.52,8.5,Moderate or heavy sleet,2018-11-15
 "Mc Kees Rocks,PA",64.2,64.0,0.0,7.8,Cloudy,2018-11-15
 "Mckeesport,PA",32.8,63.0,0.59,8.5,Moderate or heavy sleet,2018-11-15
 "Midland,PA",30.6,73.0,0.91,8.3,Moderate or heavy sleet,2018-11-15
@@ -198,7 +198,7 @@ City/State,Temp,Humidity,Precipitation,Wind Speed,Weather Condition,Date
 "Shippingport,PA",30.6,73.0,0.91,8.3,Moderate or heavy sleet,2018-11-15
 "South Heights,PA",30.6,71.0,0.53,8.7,Moderate or heavy sleet,2018-11-15
 "Springdale,PA",31.0,65.0,1.02,8.5,Heavy snow,2018-11-15
-"Turtle Creek,PA",32.4,68.0,0.86,8.1,Heavy snow,2018-11-15
+"Turtle Creek,PA",33.7,69.0,1.06,8.3,Heavy snow,2018-11-15
 "Verona,PA",56.7,72.0,0.0,3.8,Overcast,2018-11-15
 "West Mifflin,PA",32.8,63.0,0.59,8.5,Moderate or heavy sleet,2018-11-15
 "Wildwood,PA",31.9,69.0,0.45,8.7,Heavy snow,2018-11-15
@@ -221,12 +221,12 @@ City/State,Temp,Humidity,Precipitation,Wind Speed,Weather Condition,Date
 "Dravosburg,PA",27.4,71.0,0.0,16.8,Cloudy,2018-11-14
 "Duquesne,PA",82.2,78.0,0.17,18.8,Patchy rain possible,2018-11-14
 "East Mc Keesport,PA",27.9,71.0,0.0,16.8,Cloudy,2018-11-14
-"East Pittsburgh,PA",28.8,73.0,0.0,11.9,Cloudy,2018-11-14
+"East Pittsburgh,PA",27.9,71.0,0.0,16.8,Cloudy,2018-11-14
 "Freedom,PA",27.9,73.0,0.0,11.0,Cloudy,2018-11-14
 "Georgetown,PA",27.4,75.0,0.0,12.5,Cloudy,2018-11-14
-"Gibsonia,PA",26.5,75.0,0.0,12.1,Cloudy,2018-11-14
+"Gibsonia,PA",25.6,78.0,0.0,13.0,Cloudy,2018-11-14
 "Glassport,PA",27.4,71.0,0.0,16.8,Cloudy,2018-11-14
-"Glenshaw,PA",26.5,75.0,0.0,12.1,Cloudy,2018-11-14
+"Glenshaw,PA",29.7,74.0,0.0,12.8,Cloudy,2018-11-14
 "Homestead,PA",27.4,71.0,0.0,16.8,Cloudy,2018-11-14
 "Hookstown,PA",28.3,72.0,0.0,12.5,Cloudy,2018-11-14
 "Imperial,PA",56.7,54.0,0.04,8.9,Patchy rain possible,2018-11-14
@@ -249,7 +249,7 @@ City/State,Temp,Humidity,Precipitation,Wind Speed,Weather Condition,Date
 "Shippingport,PA",28.3,72.0,0.0,12.5,Cloudy,2018-11-14
 "South Heights,PA",28.3,75.0,0.0,12.8,Cloudy,2018-11-14
 "Springdale,PA",26.5,75.0,0.0,13.0,Cloudy,2018-11-14
-"Turtle Creek,PA",27.9,71.0,0.0,16.8,Cloudy,2018-11-14
+"Turtle Creek,PA",28.8,73.0,0.0,11.9,Cloudy,2018-11-14
 "Verona,PA",59.4,73.0,0.0,3.6,Partly cloudy,2018-11-14
 "West Mifflin,PA",27.4,71.0,0.0,16.8,Cloudy,2018-11-14
 "Wildwood,PA",26.5,75.0,0.0,12.1,Cloudy,2018-11-14
